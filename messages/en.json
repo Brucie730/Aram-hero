@@ -1,0 +1,21 @@
+{
+  "Home": {
+    "title": "ARAM: Mayhem Wiki",
+    "subtitle": "Best augment builds and item picks, one search away",
+    "searchPlaceholder": "Search champions / augments / items...",
+    "championsTitle": "Champions",
+    "championsDesc": "Best-fit augments & items",
+    "augmentsTitle": "Augments",
+    "augmentsDesc": "Silver / Gold / Prismatic, all covered",
+    "itemsTitle": "Items",
+    "itemsDesc": "Exclusive item overview"
+  },
+  "Augments": {
+    "pageTitle": "Augments",
+    "searchPlaceholder": "Search augments...",
+    "filterAll": "All",
+    "filterSilver": "Silver",
+    "filterGold": "Gold",
+    "filterPrismatic": "Prismatic"
+  }
+}

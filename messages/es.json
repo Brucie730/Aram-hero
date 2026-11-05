@@ -1,0 +1,21 @@
+{
+  "Home": {
+    "title": "ARAM: Mayhem Wiki",
+    "subtitle": "Las mejores combinaciones de aumentos y objetos, a solo una búsqueda",
+    "searchPlaceholder": "Buscar campeones / aumentos / objetos...",
+    "championsTitle": "Campeones",
+    "championsDesc": "Aumentos y objetos ideales",
+    "augmentsTitle": "Aumentos",
+    "augmentsDesc": "Plata / Oro / Prismático, todo incluido",
+    "itemsTitle": "Objetos",
+    "itemsDesc": "Objetos exclusivos"
+  },
+  "Augments": {
+    "pageTitle": "Aumentos",
+    "searchPlaceholder": "Buscar aumentos...",
+    "filterAll": "Todos",
+    "filterSilver": "Plata",
+    "filterGold": "Oro",
+    "filterPrismatic": "Prismático"
+  }
+}

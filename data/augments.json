@@ -1,0 +1,4973 @@
+[
+  {
+    "id": "adapt",
+    "icon": "adapt",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "ADAPt",
+      "zh": "物理转魔法",
+      "es": "ADAPt"
+    },
+    "description": {
+      "en": "Converts all of your bonus attack damage into ability power, then boosts your ability power by 15%.",
+      "zh": "把全部额外攻击力转化为法术强度，再额外提升15%法术强度。",
+      "es": "Convierte todo tu daño de ataque adicional en poder de habilidad y luego lo aumenta un 15%."
+    },
+    "shape": "cauldron"
+  },
+  {
+    "id": "adamant",
+    "icon": "adamant",
+    "rarity": "silver",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Adamant",
+      "zh": "Adamant",
+      "es": "Adamante"
+    },
+    "description": {
+      "en": "Immobilizing or grounding an enemy champion grants stacking bonus armor and magic resistance.",
+      "zh": "定身或禁锢敌方英雄时获得可叠加的额外护甲和魔抗。",
+      "es": "Inmovilizar o anclar a un campeón enemigo otorga armadura y resistencia mágica acumulables."
+    },
+    "disabled": true,
+    "shape": "anchor",
+    "iconAlt": "icecold"
+  },
+  {
+    "id": "adaptive-ward",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Adaptive Ward",
+      "zh": "自适应防护",
+      "es": "Guardia Adaptativa"
+    },
+    "description": {
+      "en": "Upgrades one ability: hitting an enemy champion with it grants stacking bonus armor or magic resistance for a few seconds, matching the target's damage type.",
+      "zh": "强化一个技能：用它命中敌方英雄时，根据对方的伤害类型获得数秒可叠加的护甲或魔抗。",
+      "es": "Mejora una habilidad: al golpear a un campeón enemigo con ella ganas armadura o resistencia mágica acumulable durante unos segundos, según su tipo de daño."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "blue-barrier",
+    "icon": "bluebarrier",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Blue Barrier",
+      "zh": "蓝色屏障",
+      "es": "Barrera Azul"
+    },
+    "description": {
+      "en": "Spending mana grants a short shield based on the mana spent. Shields from separate casts can stack, each with a level-based cap.",
+      "zh": "消耗法力值时获得一个基于消耗量的短暂护盾，多次施法的护盾可以叠加，每层有随等级提高的上限。",
+      "es": "Gastar maná otorga un escudo breve basado en el maná gastado. Los escudos de varios lanzamientos se acumulan, cada uno con un límite según el nivel."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "firstaidkit"
+  },
+  {
+    "id": "blunt-force",
+    "icon": "bluntforce",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Blunt Force",
+      "zh": "大力",
+      "es": "Fuerza Bruta"
+    },
+    "description": {
+      "en": "Increases your attack damage by 20%.",
+      "zh": "攻击力提升20%。",
+      "es": "Aumenta tu daño de ataque un 20%."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "bolstered",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Bolstered",
+      "zh": "加固护盾",
+      "es": "Reforzado"
+    },
+    "description": {
+      "en": "Upgrades one shielding ability: its shield grows up to 60% stronger the more health the target is missing.",
+      "zh": "强化一个护盾技能：目标损失的生命值越多，护盾越强，最多提升60%。",
+      "es": "Mejora una habilidad de escudo: el escudo es hasta un 60% más fuerte cuanta más vida le falte al objetivo."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "deft",
+    "icon": "deft",
+    "rarity": "silver",
+    "types": [
+      "marksman",
+      "assassin"
+    ],
+    "name": {
+      "en": "Deft",
+      "zh": "灵巧",
+      "es": "Destreza"
+    },
+    "description": {
+      "en": "Grants 60% bonus attack speed.",
+      "zh": "获得60%额外攻击速度。",
+      "es": "Otorga un 60% de velocidad de ataque adicional."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "dive-bomber",
+    "icon": "divebomber",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Dive Bomber",
+      "zh": "俯冲轰炸",
+      "es": "Bombardero en Picada"
+    },
+    "description": {
+      "en": "When you die, you explode for true damage based on nearby enemies' max health.",
+      "zh": "死亡时发生爆炸，对附近敌人造成基于其最大生命值的真实伤害。",
+      "es": "Al morir, explotas e infliges daño verdadero según la vida máxima de los enemigos cercanos."
+    },
+    "shape": "broken-heart"
+  },
+  {
+    "id": "dont-blink",
+    "icon": "dontblink",
+    "rarity": "silver",
+    "types": [
+      "marksman",
+      "assassin"
+    ],
+    "name": {
+      "en": "Don't Blink",
+      "zh": "唯快不破",
+      "es": "No Parpadees"
+    },
+    "description": {
+      "en": "Deal more damage the faster you are than your target.",
+      "zh": "你的移动速度比目标越快，造成的伤害越高。",
+      "es": "Infliges más daño cuanto más rápido seas que tu objetivo."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "dont-change-the-channel",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Don't Change the Channel",
+      "zh": "别停止引导",
+      "es": "No Cambies de Canal"
+    },
+    "description": {
+      "en": "Each second you channel an ability, gain a shield that scales with your stats. It fades quickly once you stop channeling.",
+      "zh": "每持续引导技能一秒，就获得一层随属性成长的护盾，停止引导后护盾快速衰减。",
+      "es": "Cada segundo que canalizas una habilidad ganas un escudo que escala con tus estadísticas. Se desvanece rápido al dejar de canalizar."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "double-strike",
+    "icon": "doublestrike",
+    "rarity": "silver",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Double Strike",
+      "zh": "双重打击",
+      "es": "Golpe Doble"
+    },
+    "description": {
+      "en": "Upgrades an ability that empowers your basic attack so the empowered attack applies on-hit effects twice.",
+      "zh": "强化一个带强化普攻的技能，让强化普攻触发两次攻击特效。",
+      "es": "Mejora una habilidad que potencia tu ataque básico para que aplique efectos al golpear dos veces."
+    },
+    "disabled": true,
+    "shape": "anchor",
+    "iconAlt": "icecold"
+  },
+  {
+    "id": "erosion",
+    "icon": "erosion",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Erosion",
+      "zh": "侵蚀",
+      "es": "Erosión"
+    },
+    "description": {
+      "en": "Each hit shreds a bit of the target's armor and magic resistance for a few seconds, stacking up to 30%.",
+      "zh": "每次造成伤害都会短暂削减目标少量护甲和魔抗，最多叠加到30%。",
+      "es": "Cada golpe reduce un poco la armadura y resistencia mágica del objetivo durante unos segundos, hasta un 30%."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "escapade",
+    "icon": "escapade",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "EscAPADe",
+      "zh": "魔法转物理",
+      "es": "EscAPADe"
+    },
+    "description": {
+      "en": "Converts all of your ability power into bonus attack damage, then boosts your total attack damage by 15%.",
+      "zh": "把全部法术强度转化为额外攻击力，再提升15%总攻击力。",
+      "es": "Convierte todo tu poder de habilidad en daño de ataque adicional y luego aumenta tu daño de ataque total un 15%."
+    },
+    "shape": "cauldron"
+  },
+  {
+    "id": "escape-plan",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Escape Plan",
+      "zh": "逃跑计划",
+      "es": "Plan de Escape"
+    },
+    "description": {
+      "en": "Dropping to low health gives you a big shield, a burst of movement speed and a smaller size, all fading over a few seconds. Long cooldown.",
+      "zh": "生命值降到较低时获得大额护盾、大幅移速和更小的体型，效果在数秒内衰减。冷却较长。",
+      "es": "Al quedar con poca vida ganas un gran escudo, un impulso de velocidad y menor tamaño, que se desvanecen en unos segundos. Enfriamiento largo."
+    },
+    "shape": "runner",
+    "iconAlt": "legday"
+  },
+  {
+    "id": "firefox",
+    "icon": "firfox",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Firefox",
+      "zh": "火狐",
+      "es": "Zorro de Fuego"
+    },
+    "description": {
+      "en": "Periodically conjures orbiting flames that seek out nearby enemies for adaptive damage, plus a brief burst of movement speed.",
+      "zh": "定期召唤环绕自身的火焰，自动飞向附近敌人造成自适应伤害，并短暂提升移速。",
+      "es": "Invoca periódicamente llamas que orbitan y persiguen a enemigos cercanos con daño adaptativo, más un breve aumento de velocidad."
+    },
+    "shape": "gear-claw"
+  },
+  {
+    "id": "first-aid-kit",
+    "icon": "firstaidkit",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "First-Aid Kit",
+      "zh": "急救用具",
+      "es": "Botiquín"
+    },
+    "description": {
+      "en": "Grants 20% heal and shield power.",
+      "zh": "治疗和护盾强度提升20%。",
+      "es": "Otorga un 20% de poder de curación y escudo."
+    },
+    "shape": "shield-cross"
+  },
+  {
+    "id": "flash-2",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "mage"
+    ],
+    "name": {
+      "en": "Flash 2",
+      "zh": "闪闪现现",
+      "es": "Destello 2"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a second Flash and grants summoner spell haste.",
+      "zh": "把一个召唤师技能换成第二个闪现，并获得召唤师技能急速。",
+      "es": "Reemplaza un hechizo de invocador por un segundo Destello y otorga prisa de hechizos de invocador."
+    },
+    "shape": "trident",
+    "iconLocal": "/augment-icons/trident-silver.webp"
+  },
+  {
+    "id": "flashbang",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Flashbang",
+      "zh": "闪光弹",
+      "es": "Granada Cegadora"
+    },
+    "description": {
+      "en": "Flash explodes where you land, dealing magic damage and slowing nearby enemies. Flash's cooldown resets when you die. Only appears if you have Flashy.",
+      "zh": "闪现落点会爆炸，造成魔法伤害并减速附近敌人；死亡时闪现冷却重置。必须先有闪现向前才会刷出。",
+      "es": "Destello explota donde aterrizas, infligiendo daño mágico y ralentizando. Su enfriamiento se reinicia al morir. Solo aparece si tienes Destello Triple."
+    },
+    "requires": "flashy",
+    "shape": "runner",
+    "iconAlt": "legday"
+  },
+  {
+    "id": "forged-by-the-master",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Forged By The Master",
+      "zh": "大师铸就",
+      "es": "Forjado por el Maestro"
+    },
+    "description": {
+      "en": "Increases damage from your item effects and augments by 45%.",
+      "zh": "装备特效和海克斯符文造成的伤害提升45%。",
+      "es": "Aumenta un 45% el daño de los efectos de tus objetos y aumentos."
+    },
+    "shape": "cauldron",
+    "iconAlt": "adapt"
+  },
+  {
+    "id": "fruitify",
+    "icon": "fruitify",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Fruitify",
+      "zh": "水果化",
+      "es": "Frutificar"
+    },
+    "description": {
+      "en": "Enemies you take down drop Honeyfruit. You and allies can eat it to restore health and mana.",
+      "zh": "你参与击杀的敌人会掉落蜜果，你和队友踩上去可以回复生命值和法力值。",
+      "es": "Los enemigos que derribas sueltan Fruta de Miel. Tú y tus aliados pueden comerla para recuperar vida y maná."
+    },
+    "shape": "heart",
+    "iconAlt": "goredrink"
+  },
+  {
+    "id": "gift-of-the-drowned",
+    "icon": "giftofthedrowned",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Gift of the Drowned",
+      "zh": "溺水之赠礼",
+      "es": "Don de los Ahogados"
+    },
+    "description": {
+      "en": "Converts all of your bonus health into lethality and grants extra lethality based on level.",
+      "zh": "把全部额外生命值转化为穿甲，并获得随等级提升的额外穿甲。",
+      "es": "Convierte toda tu vida adicional en letalidad y otorga letalidad extra según el nivel."
+    },
+    "shape": "starburst",
+    "iconAlt": "bluntforce"
+  },
+  {
+    "id": "goredrink",
+    "icon": "goredrink",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Goredrink",
+      "zh": "渴血",
+      "es": "Bebesangre"
+    },
+    "description": {
+      "en": "Gain 15% omnivamp.",
+      "zh": "获得15%全能吸血。",
+      "es": "Ganas un 15% de omnivampirismo."
+    },
+    "shape": "heart"
+  },
+  {
+    "id": "hands-off-the-talent",
+    "icon": "handsoffthetalent",
+    "rarity": "silver",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Hands off the Talent",
+      "zh": "远射天资",
+      "es": "Talento a Distancia"
+    },
+    "description": {
+      "en": "Basic attacks against enemies near the edge of your range deal bonus physical damage.",
+      "zh": "攻击位于你攻击距离边缘附近的敌人时，普攻造成额外物理伤害。",
+      "es": "Los ataques básicos contra enemigos cerca del límite de tu alcance infligen daño físico adicional."
+    },
+    "shape": "shard",
+    "iconLocal": "/augment-icons/shard-silver.webp"
+  },
+  {
+    "id": "heavy-hitter",
+    "icon": "heavyhitter",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Heavy Hitter",
+      "zh": "重量级打击手",
+      "es": "Golpeador Pesado"
+    },
+    "description": {
+      "en": "Basic attacks deal bonus physical damage based on your max health.",
+      "zh": "普攻附带基于自身最大生命值的额外物理伤害。",
+      "es": "Los ataques básicos infligen daño físico adicional según tu vida máxima."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "hextech-soul",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Hextech Soul",
+      "zh": "海克斯科技龙魂",
+      "es": "Alma Hextech"
+    },
+    "description": {
+      "en": "Grants the Hextech Dragon Soul, or a different Dragon Soul if you already have it.",
+      "zh": "获得海克斯科技龙魂；如果已经有了，则改为获得其他龙魂。",
+      "es": "Otorga el Alma de Dragón Hextech, o una distinta si ya la tienes."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "homeguard",
+    "icon": "homeguard",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "marksman"
+    ],
+    "name": {
+      "en": "Homeguard",
+      "zh": "家园卫士",
+      "es": "Guardia Local"
+    },
+    "description": {
+      "en": "Gain a huge amount of bonus movement speed, lost for a few seconds after taking damage.",
+      "zh": "获得大量额外移速，受到伤害后会暂时失去几秒。",
+      "es": "Ganas mucha velocidad de movimiento adicional, que pierdes unos segundos tras recibir daño."
+    },
+    "shape": "boot"
+  },
+  {
+    "id": "ice-cold",
+    "icon": "icecold",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Ice Cold",
+      "zh": "冰寒",
+      "es": "Frío Glacial"
+    },
+    "description": {
+      "en": "Your slows reduce the target's movement speed by an extra flat amount.",
+      "zh": "你的减速效果会额外再降低目标一定数值的移速。",
+      "es": "Tus ralentizaciones reducen además una cantidad fija de la velocidad del objetivo."
+    },
+    "shape": "anchor"
+  },
+  {
+    "id": "infernal-soul",
+    "icon": "infernalsoul",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "mage"
+    ],
+    "name": {
+      "en": "Infernal Soul",
+      "zh": "炼狱龙魂",
+      "es": "Alma Infernal"
+    },
+    "description": {
+      "en": "Grants the Infernal Dragon Soul, or a different Dragon Soul if you already have it.",
+      "zh": "获得炼狱龙魂；如果已经有了，则改为获得其他龙魂。",
+      "es": "Otorga el Alma de Dragón Infernal, o una distinta si ya la tienes."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "its-go-time",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "support"
+    ],
+    "name": {
+      "en": "It's Go Time",
+      "zh": "前进时间到",
+      "es": "Hora de Moverse"
+    },
+    "description": {
+      "en": "Upgrades one ability with a duration: you gain bonus movement speed while its effect lasts.",
+      "zh": "强化一个有持续时间的技能：效果持续期间获得额外移速。",
+      "es": "Mejora una habilidad con duración: ganas velocidad de movimiento adicional mientras dura su efecto."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "juiced",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Juiced",
+      "zh": "注魔",
+      "es": "Recargado"
+    },
+    "description": {
+      "en": "Basic attacks against champions deal bonus magic damage based on your max mana, and this damage can crit.",
+      "zh": "对英雄的普攻附带基于最大法力值的额外魔法伤害，这部分伤害可以暴击。",
+      "es": "Los ataques básicos contra campeones infligen daño mágico adicional según tu maná máximo, y puede ser crítico."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "kill-secured",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Kill Secured",
+      "zh": "杀意翻涌",
+      "es": "Baja Asegurada"
+    },
+    "description": {
+      "en": "Gain 60% bonus movement speed while moving toward enemy champions below 40% health.",
+      "zh": "朝生命值低于40%的敌方英雄移动时，获得60%额外移速。",
+      "es": "Ganas un 60% de velocidad adicional al moverte hacia campeones enemigos con menos del 40% de vida."
+    },
+    "shape": "runner",
+    "iconAlt": "legday"
+  },
+  {
+    "id": "leg-day",
+    "icon": "legday",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Leg Day",
+      "zh": "练腿日",
+      "es": "Día de Piernas"
+    },
+    "description": {
+      "en": "Grants bonus movement speed and 50% slow resistance.",
+      "zh": "获得额外移速和50%减速抗性。",
+      "es": "Otorga velocidad de movimiento adicional y un 50% de resistencia a ralentizaciones."
+    },
+    "shape": "runner"
+  },
+  {
+    "id": "lich-brain",
+    "icon": "lichbrain",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Lich Brain",
+      "zh": "巫妖大脑",
+      "es": "Cerebro de Liche"
+    },
+    "description": {
+      "en": "Grants ability power, plus more based on your bonus health.",
+      "zh": "获得法术强度，额外生命值越多，获得的越多。",
+      "es": "Otorga poder de habilidad, más una cantidad extra según tu vida adicional."
+    },
+    "shape": "shield",
+    "iconAlt": "mindtomatter"
+  },
+  {
+    "id": "light-em-up",
+    "icon": "lightemup",
+    "rarity": "silver",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Light 'em Up!",
+      "zh": "点亮他们！",
+      "es": "¡Enciéndelos!"
+    },
+    "description": {
+      "en": "Every fourth basic attack fires a quick volley of missiles that deal bonus magic damage.",
+      "zh": "每第四次普攻会快速射出一串飞弹，造成额外魔法伤害。",
+      "es": "Cada cuarto ataque básico dispara una ráfaga de proyectiles con daño mágico adicional."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "lonely-warrior",
+    "icon": "lonelywarrior",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Lonely Warrior",
+      "zh": "孤勇者",
+      "es": "Guerrero Solitario"
+    },
+    "description": {
+      "en": "For each enemy champion near you, gain bonus attack speed, armor and magic resistance.",
+      "zh": "身边每有一名敌方英雄，就获得额外攻速、护甲和魔抗。",
+      "es": "Por cada campeón enemigo cerca, ganas velocidad de ataque, armadura y resistencia mágica adicionales."
+    },
+    "shape": "anchor",
+    "iconAlt": "icecold"
+  },
+  {
+    "id": "mighty-shield",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Mighty Shield",
+      "zh": "强力护盾",
+      "es": "Escudo Poderoso"
+    },
+    "description": {
+      "en": "Whenever you gain a shield, gain a burst of adaptive force for a few seconds. Short cooldown.",
+      "zh": "每次获得护盾时，数秒内获得一笔自适应之力。冷却较短。",
+      "es": "Al recibir un escudo, ganas fuerza adaptativa durante unos segundos. Enfriamiento corto."
+    },
+    "shape": "starburst",
+    "iconAlt": "bluntforce"
+  },
+  {
+    "id": "mind-to-matter",
+    "icon": "mindtomatter",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Mind to Matter",
+      "zh": "由心及物",
+      "es": "Mente sobre Materia"
+    },
+    "description": {
+      "en": "Grants bonus health equal to half of your max mana.",
+      "zh": "获得等于最大法力值一半的额外生命值。",
+      "es": "Otorga vida adicional igual a la mitad de tu maná máximo."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "mountain-soul",
+    "icon": "mountainsoul",
+    "rarity": "silver",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Mountain Soul",
+      "zh": "山脉龙魂",
+      "es": "Alma de Montaña"
+    },
+    "description": {
+      "en": "Grants the Mountain Dragon Soul, or a different Dragon Soul if you already have it.",
+      "zh": "获得山脉龙魂；如果已经有了，则改为获得其他龙魂。",
+      "es": "Otorga el Alma de Dragón de Montaña, o una distinta si ya la tienes."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "no-mana-no-problem",
+    "icon": "nomananoproblem",
+    "rarity": "silver",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "No Mana, No Problem",
+      "zh": "没法力，没问题",
+      "es": "Sin Maná, Sin Problema"
+    },
+    "description": {
+      "en": "Converts the mana from your items into ability power, then boosts your ability power by 15%.",
+      "zh": "把装备提供的法力值转化为法术强度，再提升15%法术强度。",
+      "es": "Convierte el maná de tus objetos en poder de habilidad y luego lo aumenta un 15%."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "ocean-soul",
+    "icon": "oceansoul",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Ocean Soul",
+      "zh": "海洋龙魂",
+      "es": "Alma del Océano"
+    },
+    "description": {
+      "en": "Grants an enhanced Ocean Dragon Soul, or a different Dragon Soul if you already have it.",
+      "zh": "获得强化版海洋龙魂；如果已经有了，则改为获得其他龙魂。",
+      "es": "Otorga un Alma de Dragón del Océano mejorada, o una distinta si ya la tienes."
+    },
+    "shape": "heart"
+  },
+  {
+    "id": "poltergeist",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Poltergeist",
+      "zh": "吵闹鬼",
+      "es": "Poltergeist"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with Poltergeist, which casts Barrier and Ghost on you at the same time.",
+      "zh": "把一个召唤师技能换成「吵闹鬼」，使用时同时获得屏障和幽灵疾步的效果。",
+      "es": "Reemplaza un hechizo de invocador por Poltergeist, que te lanza Barrera y Fantasmal a la vez."
+    },
+    "shape": "shield",
+    "iconAlt": "mindtomatter"
+  },
+  {
+    "id": "purist-caster",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Purist - Caster",
+      "zh": "纯粹主义者 - 术师",
+      "es": "Purista - Lanzador"
+    },
+    "description": {
+      "en": "Converts all of your bonus attack speed into ability haste and reduces all ability cooldowns by 10%.",
+      "zh": "把全部额外攻速转化为技能急速，并让所有技能冷却缩短10%。",
+      "es": "Convierte toda tu velocidad de ataque adicional en prisa de habilidad y reduce un 10% todos los enfriamientos."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "scoped-weapons",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Scoped Weapons",
+      "zh": "万用瞄准镜",
+      "es": "Armas con Mira"
+    },
+    "description": {
+      "en": "Grants bonus attack range, more for melee champions than ranged ones.",
+      "zh": "获得额外攻击距离，近战英雄加得比远程多。",
+      "es": "Otorga alcance de ataque adicional, más para cuerpo a cuerpo que para a distancia."
+    },
+    "shape": "arrow",
+    "iconLocal": "/augment-icons/arrow-silver.webp"
+  },
+  {
+    "id": "shadow-runner",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "Shadow Runner",
+      "zh": "暗影疾奔",
+      "es": "Corredor Sombrío"
+    },
+    "description": {
+      "en": "After dashing, blinking or leaving stealth, gain a big burst of movement speed for 2 seconds.",
+      "zh": "位移、闪烁或脱离隐身后，2秒内获得大幅移速。",
+      "es": "Tras un desplazamiento, parpadeo o salir del sigilo, ganas mucha velocidad durante 2 segundos."
+    },
+    "shape": "runner",
+    "iconAlt": "legday"
+  },
+  {
+    "id": "siphon",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Siphon",
+      "zh": "虹吸",
+      "es": "Sifón"
+    },
+    "description": {
+      "en": "Upgrades one ability so it heals you for 30% of the damage it deals to champions.",
+      "zh": "强化一个技能，它对英雄造成伤害的30%会转化为你的治疗。",
+      "es": "Mejora una habilidad para que te cure un 30% del daño que inflige a campeones."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "slap-around",
+    "icon": "slaparound",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Slap Around",
+      "zh": "扇巴掌",
+      "es": "Bofetadas"
+    },
+    "description": {
+      "en": "Immobilizing or grounding an enemy champion permanently stacks attack damage or ability power. You lose half the stacks on death.",
+      "zh": "定身或禁锢敌方英雄会永久叠加攻击力或法术强度，死亡时损失一半层数。",
+      "es": "Inmovilizar o anclar a un campeón enemigo acumula daño de ataque o poder de habilidad permanente. Pierdes la mitad al morir."
+    },
+    "shape": "anchor"
+  },
+  {
+    "id": "snowday",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Snowday",
+      "zh": "下雪天",
+      "es": "Día de Nieve"
+    },
+    "description": {
+      "en": "Your Mark snowball deals double damage and comes back much faster. You'll be asked to take Mark if you don't have it.",
+      "zh": "雪球（标记）伤害翻倍，冷却大幅缩短。没带标记的话会提示你换上。",
+      "es": "Tu bola de nieve (Marca) inflige el doble de daño y se recarga mucho antes. Si no la llevas, se te pedirá equiparla."
+    },
+    "shape": "trident",
+    "iconLocal": "/augment-icons/trident-silver.webp"
+  },
+  {
+    "id": "sonic-boom",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Sonic Boom",
+      "zh": "天音爆",
+      "es": "Explosión Sónica"
+    },
+    "description": {
+      "en": "Buffing, healing or shielding an ally deals true damage to enemies around them and slows them.",
+      "zh": "给队友加增益、治疗或护盾时，对其周围敌人造成真实伤害并减速。",
+      "es": "Potenciar, curar o escudar a un aliado inflige daño verdadero a los enemigos cercanos a él y los ralentiza."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "firstaidkit"
+  },
+  {
+    "id": "sound-barrier",
+    "icon": "soundbarrier",
+    "rarity": "silver",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Sound Barrier",
+      "zh": "音之屏障",
+      "es": "Barrera del Sonido"
+    },
+    "description": {
+      "en": "Shields you give to yourself or allies also grant ghosting and a burst of fading movement speed.",
+      "zh": "你给自己或队友的护盾会同时附带幽灵效果和一段逐渐衰减的移速。",
+      "es": "Los escudos que das a ti o a aliados también otorgan efecto fantasmal y velocidad que se desvanece."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "firstaidkit"
+  },
+  {
+    "id": "spin-me-right-round",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Spin Me Right Round",
+      "zh": "转得我眩晕了",
+      "es": "Hazme Girar"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a grappling swing: hook a wall, circle around it shooting nearby enemies, then jump out.",
+      "zh": "把一个召唤师技能换成钩索摆荡：钩住墙体绕圈射击附近敌人，最后跳出。",
+      "es": "Reemplaza un hechizo de invocador por un columpio con gancho: engancha un muro, gira disparando a enemigos cercanos y luego salta."
+    },
+    "shape": "runner",
+    "iconAlt": "legday"
+  },
+  {
+    "id": "spin-to-win",
+    "icon": "spintowin",
+    "rarity": "silver",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Spin To Win",
+      "zh": "旋转至胜",
+      "es": "Gira para Ganar"
+    },
+    "description": {
+      "en": "Your spinning abilities deal more damage and have shorter cooldowns, with an even bigger bonus for spinning ultimates.",
+      "zh": "旋转类技能伤害提高、冷却缩短，旋转类大招提升更多。",
+      "es": "Tus habilidades giratorias infligen más daño y tienen menos enfriamiento, aún más si es una definitiva."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "stackosaurus-rex",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Stackosaurus Rex",
+      "zh": "叠角龙",
+      "es": "Stackosaurus Rex"
+    },
+    "description": {
+      "en": "Doubles the permanent stacks you gain from abilities.",
+      "zh": "技能获得的永久层数翻倍。",
+      "es": "Duplica las cargas permanentes que obtienes con habilidades."
+    },
+    "shape": "up-arrow",
+    "iconLocal": "/augment-icons/up-arrow-silver.webp"
+  },
+  {
+    "id": "stats",
+    "icon": "stats",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Stats!",
+      "zh": "属性！",
+      "es": "¡Estadísticas!"
+    },
+    "description": {
+      "en": "Gain 2 Stat Anvils.",
+      "zh": "获得2个属性铁砧。",
+      "es": "Ganas 2 Yunques de Estadísticas."
+    },
+    "shape": "dice"
+  },
+  {
+    "id": "stay-resolute",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Stay Resolute",
+      "zh": "保持坚定",
+      "es": "Mantente Firme"
+    },
+    "description": {
+      "en": "Upgrades one ability: damaging champions with it permanently stacks armor or magic resistance. If it isn't your first augment, also gain some of both right away.",
+      "zh": "强化一个技能：用它伤害英雄会永久叠加护甲或魔抗。如果这不是你的第一个符文，还会立刻获得一些双抗。",
+      "es": "Mejora una habilidad: dañar campeones con ella acumula armadura o resistencia mágica permanente. Si no es tu primer aumento, también ganas ambas de inmediato."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "swift-and-safe",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Swift and Safe",
+      "zh": "快中求稳",
+      "es": "Rápido y Seguro"
+    },
+    "description": {
+      "en": "After dashing or blinking, gain a brief shield that scales with your stats.",
+      "zh": "位移或闪烁后获得一个随属性成长的短暂护盾。",
+      "es": "Tras un desplazamiento o parpadeo, ganas un escudo breve que escala con tus estadísticas."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "firstaidkit"
+  },
+  {
+    "id": "tank-it-or-leave-it",
+    "icon": "tankitorleaveit",
+    "rarity": "silver",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Tank It Or Leave It",
+      "zh": "会心防御",
+      "es": "Lo Tanqueas o lo Dejas"
+    },
+    "description": {
+      "en": "Gain 25% crit chance, and your crit chance also gives you a chance to reduce incoming damage by 20%.",
+      "zh": "获得25%暴击率，暴击率还会转化为受到伤害时有几率减伤20%。",
+      "es": "Ganas un 25% de probabilidad de crítico, que además te da probabilidad de reducir un 20% el daño recibido."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "transmute-gold",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Transmute: Gold",
+      "zh": "质变：黄金阶",
+      "es": "Transmutar: Oro"
+    },
+    "description": {
+      "en": "Gain one random Gold augment.",
+      "zh": "获得一个随机金色海克斯符文。",
+      "es": "Obtienes un aumento de Oro aleatorio."
+    },
+    "shape": "dice",
+    "iconAlt": "stats"
+  },
+  {
+    "id": "trusty-weapon",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "fighter",
+      "mage"
+    ],
+    "name": {
+      "en": "Trusty Weapon",
+      "zh": "可靠武器",
+      "es": "Arma de Confianza"
+    },
+    "description": {
+      "en": "Upgrades one ability: each hit on a champion builds stacks that make that ability deal more damage.",
+      "zh": "强化一个技能：每次命中英雄都会叠层，让该技能伤害越来越高。",
+      "es": "Mejora una habilidad: cada impacto en un campeón acumula cargas que aumentan su daño."
+    },
+    "shape": "wisp",
+    "iconAlt": "erosion"
+  },
+  {
+    "id": "twin-fire",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Twin Fire",
+      "zh": "双生火焰",
+      "es": "Fuego Gemelo"
+    },
+    "description": {
+      "en": "Damaging abilities fire bonus magic-damage missiles at champions, more of them with higher crit chance. Also grants 25% crit chance.",
+      "zh": "技能伤害英雄时额外发射魔法伤害飞弹，暴击率越高飞弹越多，并获得25%暴击率。",
+      "es": "Las habilidades que dañan disparan proyectiles de daño mágico a campeones, más cuanto mayor tu crítico. También otorga un 25% de crítico."
+    },
+    "shape": "shard",
+    "iconLocal": "/augment-icons/shard-silver.webp"
+  },
+  {
+    "id": "typhoon",
+    "icon": "typhoon",
+    "rarity": "silver",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Typhoon",
+      "zh": "台风",
+      "es": "Tifón"
+    },
+    "description": {
+      "en": "Basic attacks also fire a missile at another nearby enemy that applies on-hit effects for reduced damage.",
+      "zh": "普攻会额外向附近另一个敌人发射一枚飞弹，造成较低伤害并触发攻击特效。",
+      "es": "Los ataques básicos lanzan un proyectil a otro enemigo cercano que aplica efectos al golpear con daño reducido."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "ultimate-recursion",
+    "icon": "ultimaterecursion",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ultimate Recursion",
+      "zh": "终极循环往复",
+      "es": "Recursión Definitiva"
+    },
+    "description": {
+      "en": "Gain 50 ultimate haste.",
+      "zh": "获得50点大招急速。",
+      "es": "Ganas 50 de prisa de definitiva."
+    },
+    "shape": "shard",
+    "iconLocal": "/augment-icons/shard-silver.webp"
+  },
+  {
+    "id": "ultimate-unstoppable",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ultimate Unstoppable",
+      "zh": "终极不可阻挡",
+      "es": "Definitiva Imparable"
+    },
+    "description": {
+      "en": "Casting your ultimate makes you immune to crowd control for 3 seconds.",
+      "zh": "施放大招后3秒内免疫控制。",
+      "es": "Lanzar tu definitiva te hace inmune al control durante 3 segundos."
+    },
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/cross-slash-silver.webp"
+  },
+  {
+    "id": "upgrade-collector",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Upgrade Collector",
+      "zh": "升级：收集者",
+      "es": "Mejora: Recaudador"
+    },
+    "description": {
+      "en": "Upgrades The Collector: kills raise its execute threshold and give more gold. Also grants some gold now.",
+      "zh": "升级收集者：每次击杀提高斩杀线并获得更多金币，同时立刻获得一笔金币。",
+      "es": "Mejora El Recaudador: las bajas aumentan su umbral de ejecución y dan más oro. También otorga oro ahora."
+    },
+    "shape": "cauldron",
+    "iconAlt": "adapt"
+  },
+  {
+    "id": "upgrade-deaths-dance",
+    "icon": "upgradedeathsdance",
+    "rarity": "silver",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Upgrade Death's Dance",
+      "zh": "升级：死亡之舞",
+      "es": "Mejora: Danza de la Muerte"
+    },
+    "description": {
+      "en": "Upgrades Death's Dance with stronger damage delay and a bigger, instant heal on takedowns. Also grants some gold now.",
+      "zh": "升级死亡之舞：伤害延迟效果更强，参与击杀时的回血更多且立即生效，同时立刻获得一笔金币。",
+      "es": "Mejora Danza de la Muerte con mayor retraso de daño y una curación mayor e instantánea tras derribos. También otorga oro ahora."
+    },
+    "shape": "cauldron",
+    "iconAlt": "adapt"
+  },
+  {
+    "id": "upgrade-immolate",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Upgrade Immolate",
+      "zh": "升级：献祭",
+      "es": "Mejora: Inmolación"
+    },
+    "description": {
+      "en": "Upgrades your burn-aura items so they also earn gold for each enemy champion they burn. Also grants some gold now.",
+      "zh": "升级献祭类装备：灼烧每命中一名敌方英雄都会产出金币，同时立刻获得一笔金币。",
+      "es": "Mejora tus objetos de aura de quemadura para que generen oro por cada campeón enemigo quemado. También otorga oro ahora."
+    },
+    "shape": "cauldron",
+    "iconAlt": "adapt"
+  },
+  {
+    "id": "upgrade-zhonyas",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Upgrade Zhonya's",
+      "zh": "升级：中娅",
+      "es": "Mejora: Zhonya"
+    },
+    "description": {
+      "en": "Upgrades the Zhonya's item line: Stasis cleanses crowd control, lets you move with bonus speed, and has a shorter cooldown.",
+      "zh": "升级中娅系列装备：凝滞时净化控制、可以移动并加速，冷却也更短。",
+      "es": "Mejora la línea de Zhonya: la Estasis limpia controles, te deja moverte con velocidad extra y tiene menos enfriamiento."
+    },
+    "shape": "cauldron",
+    "iconAlt": "adapt"
+  },
+  {
+    "id": "veil-of-warding",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Veil of Warding",
+      "zh": "防护面纱",
+      "es": "Velo Protector"
+    },
+    "description": {
+      "en": "Grants a spell shield that blocks the next enemy ability, recharging every 30 seconds.",
+      "zh": "获得一个法术护盾，抵挡下一个敌方技能，每30秒充能一次。",
+      "es": "Otorga un escudo de hechizos que bloquea la siguiente habilidad enemiga y se recarga cada 30 segundos."
+    },
+    "shape": "shield",
+    "iconAlt": "mindtomatter"
+  },
+  {
+    "id": "witchful-thinking",
+    "icon": "witchfulthinking",
+    "rarity": "silver",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Witchful Thinking",
+      "zh": "巫师式思考",
+      "es": "Pensamiento Brujo"
+    },
+    "description": {
+      "en": "Grants ability power that grows with your level.",
+      "zh": "获得随等级提升的法术强度。",
+      "es": "Otorga poder de habilidad que crece con tu nivel."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "zealot",
+    "icon": "",
+    "rarity": "silver",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Zealot",
+      "zh": "狂热者",
+      "es": "Fanático"
+    },
+    "description": {
+      "en": "Grants bonus attack speed and crit chance, both increasing with your ability power.",
+      "zh": "获得额外攻速和暴击率，两者都会随法术强度提高。",
+      "es": "Otorga velocidad de ataque y probabilidad de crítico adicionales, que aumentan con tu poder de habilidad."
+    },
+    "shape": "shard",
+    "iconLocal": "/augment-icons/shard-silver.webp"
+  },
+  {
+    "id": "all-for-you",
+    "icon": "allforyou",
+    "rarity": "gold",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "All For You",
+      "zh": "全心为你",
+      "es": "Todo por Ti"
+    },
+    "description": {
+      "en": "Your heals and shields on allied champions are 30% stronger.",
+      "zh": "你对友方英雄的治疗和护盾效果提升30%。",
+      "es": "Tus curaciones y escudos sobre campeones aliados son un 30% más fuertes."
+    },
+    "shape": "shield-cross"
+  },
+  {
+    "id": "apex-inventor",
+    "icon": "apexinventor",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Apex Inventor",
+      "zh": "尖端发明家",
+      "es": "Inventor Supremo"
+    },
+    "description": {
+      "en": "Grants a large amount of item haste, cutting item active cooldowns in half.",
+      "zh": "获得大量装备急速，主动装备冷却减半。",
+      "es": "Otorga mucha prisa de objetos, reduciendo a la mitad el enfriamiento de los activos."
+    },
+    "shape": "cauldron"
+  },
+  {
+    "id": "arcane-axiom",
+    "icon": "arcaneaxiom",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Arcane Axiom",
+      "zh": "奥术公理",
+      "es": "Axioma Arcano"
+    },
+    "description": {
+      "en": "Takedowns on champions you recently damaged refund part of your ultimate's cooldown.",
+      "zh": "参与击杀刚被你打过的英雄时，返还一部分大招冷却。",
+      "es": "Los derribos de campeones a los que dañaste hace poco reducen parte del enfriamiento de tu definitiva."
+    },
+    "shape": "cross-slash",
+    "iconAlt": "itskillingtime"
+  },
+  {
+    "id": "armored-impact",
+    "icon": "armoredimpact",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Armored Impact",
+      "zh": "装甲冲击",
+      "es": "Impacto Blindado"
+    },
+    "description": {
+      "en": "After casting an ability, your next basic attack hits the target and nearby enemies for bonus damage based on your armor.",
+      "zh": "施放技能后，下一次普攻对目标及周围敌人造成基于护甲的额外伤害。",
+      "es": "Tras lanzar una habilidad, tu siguiente ataque golpea al objetivo y a los cercanos con daño extra según tu armadura."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "bees",
+    "icon": "bees",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "BEES!!!",
+      "zh": "小蜜蜂！！！",
+      "es": "¡¡¡ABEJAS!!!"
+    },
+    "description": {
+      "en": "Hitting a champion with an ability throws a beehive that swarms enemies, dealing magic damage over time, applying on-hit effects and slowing them.",
+      "zh": "技能命中英雄时丢出一个蜂巢，蜂群持续造成魔法伤害、触发攻击特效并减速。",
+      "es": "Golpear a un campeón con una habilidad lanza una colmena: las abejas infligen daño mágico continuo, aplican efectos al golpear y ralentizan."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "big-brain",
+    "icon": "bigbrain",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Big Brain",
+      "zh": "超强大脑",
+      "es": "Gran Cerebro"
+    },
+    "description": {
+      "en": "Gain a large shield based on your ability power that lasts until broken and refreshes periodically and on respawn.",
+      "zh": "获得一个基于法术强度的大护盾，打破前一直存在，并会定期及复活时恢复。",
+      "es": "Ganas un gran escudo según tu poder de habilidad que dura hasta romperse y se renueva periódicamente y al reaparecer."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "bonk",
+    "icon": "",
+    "rarity": "gold",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "BONK!",
+      "zh": "邦！",
+      "es": "¡BONK!"
+    },
+    "description": {
+      "en": "Upgrades an ability that empowers your basic attack: the empowered hit deals 30% more damage and splashes some to nearby enemies.",
+      "zh": "强化一个带强化普攻的技能：强化普攻伤害提高30%，并溅射部分伤害给附近敌人。",
+      "es": "Mejora una habilidad que potencia tu ataque básico: el golpe inflige un 30% más y salpica parte a los enemigos cercanos."
+    },
+    "shape": "shard",
+    "iconAlt": "itscritical"
+  },
+  {
+    "id": "brass-blast",
+    "icon": "brassblast",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Brass Blast",
+      "zh": "黄铜爆音",
+      "es": "Estallido de Metal"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a giant trumpet: charge it up, then blast a cone that deals magic damage and knocks enemies back.",
+      "zh": "把一个召唤师技能换成大喇叭：蓄力后吹出锥形音波，造成魔法伤害并击退敌人。",
+      "es": "Reemplaza un hechizo de invocador por una trompeta gigante: cárgala y lanza un cono que inflige daño mágico y empuja."
+    },
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "bread-and-butter",
+    "icon": "breadandbutter",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "mage"
+    ],
+    "name": {
+      "en": "Bread And Butter",
+      "zh": "面包和黄油",
+      "es": "Pan con Mantequilla"
+    },
+    "description": {
+      "en": "Your Q gains 100 ability haste.",
+      "zh": "Q技能获得100技能急速。",
+      "es": "Tu Q gana 100 de prisa de habilidad."
+    },
+    "shape": "hourglass"
+  },
+  {
+    "id": "bread-and-cheese",
+    "icon": "breadandcheese",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Bread And Cheese",
+      "zh": "面包和奶酪",
+      "es": "Pan con Queso"
+    },
+    "description": {
+      "en": "Your E gains 100 ability haste.",
+      "zh": "E技能获得100技能急速。",
+      "es": "Tu E gana 100 de prisa de habilidad."
+    },
+    "shape": "hourglass"
+  },
+  {
+    "id": "bread-and-jam",
+    "icon": "breadandjam",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Bread And Jam",
+      "zh": "面包和果酱",
+      "es": "Pan con Mermelada"
+    },
+    "description": {
+      "en": "Your W gains 100 ability haste.",
+      "zh": "W技能获得100技能急速。",
+      "es": "Tu W gana 100 de prisa de habilidad."
+    },
+    "shape": "hourglass"
+  },
+  {
+    "id": "crimson-cobalt",
+    "icon": "crimsoncobalt",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "CRIMSON COBALT",
+      "zh": "深红钴蓝闪光",
+      "es": "CARMESÍ COBALTO"
+    },
+    "description": {
+      "en": "Upgrades one ability to mark champions it hits. Your next attack on a marked target deals bonus magic damage and cuts that ability's current cooldown a lot.",
+      "zh": "强化一个技能，命中英雄时打上标记；普攻标记目标会造成额外魔法伤害，并大幅减少该技能当前冷却。",
+      "es": "Mejora una habilidad para marcar a los campeones que golpea. Tu siguiente ataque al marcado inflige daño mágico extra y reduce mucho su enfriamiento actual."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "celestial-body",
+    "icon": "celestialbody",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Celestial Body",
+      "zh": "星界躯体",
+      "es": "Cuerpo Celestial"
+    },
+    "description": {
+      "en": "Gain 1500 bonus health, but deal 10% less damage.",
+      "zh": "获得1500额外生命值，但造成的伤害降低10%。",
+      "es": "Ganas 1500 de vida adicional, pero infliges un 10% menos de daño."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "chain-reaction",
+    "icon": "chainreaction",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "mage"
+    ],
+    "name": {
+      "en": "Chain Reaction",
+      "zh": "连锁反应",
+      "es": "Reacción en Cadena"
+    },
+    "description": {
+      "en": "Upgrades a knockback ability: enemies knocked into other champions or walls take magic damage and get knocked up, even more if it's your ultimate.",
+      "zh": "强化一个击退技能：被击退的敌人撞到其他英雄或墙壁时受到魔法伤害并被击飞，大招效果更强。",
+      "es": "Mejora una habilidad de empuje: los enemigos que chocan con otros campeones o muros reciben daño mágico y son lanzados por los aires, más si es tu definitiva."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "critical-healing",
+    "icon": "criticalhealing",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "marksman"
+    ],
+    "name": {
+      "en": "Critical Healing",
+      "zh": "会心治疗",
+      "es": "Curación Crítica"
+    },
+    "description": {
+      "en": "Your heals and shields can crit for 40% more effect, with chance equal to your crit chance. Also grants 25% crit chance.",
+      "zh": "治疗和护盾有几率（等于暴击率）提升40%效果，并获得25%暴击率。",
+      "es": "Tus curaciones y escudos pueden ser críticos (+40%) según tu probabilidad de crítico. También otorga un 25% de crítico."
+    },
+    "shape": "shield-cross"
+  },
+  {
+    "id": "critical-rhythm",
+    "icon": "criticalrhythm",
+    "rarity": "gold",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Critical Rhythm",
+      "zh": "暴击律动",
+      "es": "Ritmo Crítico"
+    },
+    "description": {
+      "en": "Critical strikes grant stacking bonus attack speed. Also grants 25% crit chance.",
+      "zh": "暴击时获得可叠加的额外攻速，并获得25%暴击率。",
+      "es": "Los golpes críticos otorgan velocidad de ataque acumulable. También otorga un 25% de crítico."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "dawnbringers-resolve",
+    "icon": "dawnbringersresolve",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Dawnbringer's Resolve",
+      "zh": "黎明使者的坚决",
+      "es": "Resolución del Alba"
+    },
+    "description": {
+      "en": "Dropping below half health heals you for a chunk of your max health over a few seconds. Long cooldown, resets on death.",
+      "zh": "生命值低于一半时，数秒内回复一大截最大生命值。冷却较长，死亡后重置。",
+      "es": "Al bajar de la mitad de vida te curas una buena parte de tu vida máxima en unos segundos. Enfriamiento largo, se reinicia al morir."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "divine-intervention",
+    "icon": "slowactingpainkillers",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Divine Intervention",
+      "zh": "神圣干预",
+      "es": "Intervención Divina"
+    },
+    "description": {
+      "en": "Periodically calls down a star that makes you and nearby allies briefly invulnerable.",
+      "zh": "定期召唤一颗星辰，让你和附近队友短暂无敌。",
+      "es": "Invoca periódicamente una estrella que te vuelve invulnerable a ti y a los aliados cercanos por poco tiempo."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "donation",
+    "icon": "donation",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Donation",
+      "zh": "捐赠",
+      "es": "Donación"
+    },
+    "description": {
+      "en": "Gain 1750 gold immediately.",
+      "zh": "立刻获得1750金币。",
+      "es": "Ganas 1750 de oro al instante."
+    },
+    "shape": "cauldron",
+    "iconAlt": "apexinventor"
+  },
+  {
+    "id": "double-time",
+    "icon": "doubletime",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Double Time",
+      "zh": "翻倍时间",
+      "es": "Doble Tiempo"
+    },
+    "description": {
+      "en": "Hitting a champion with two different abilities in quick succession deals bonus magic damage based on your max mana and permanently raises your max mana.",
+      "zh": "短时间内用两个不同技能命中同一英雄，造成基于最大法力值的额外魔法伤害，并永久提高最大法力值。",
+      "es": "Golpear a un campeón con dos habilidades distintas seguidas inflige daño mágico extra según tu maná máximo y lo aumenta permanentemente."
+    },
+    "shape": "up-arrow",
+    "iconAlt": "phenomenalevil"
+  },
+  {
+    "id": "enchanting-butterflies",
+    "icon": "enchantingbutterflies",
+    "rarity": "gold",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Enchanting Butterflies",
+      "zh": "迷人蝴蝶",
+      "es": "Mariposas Encantadas"
+    },
+    "description": {
+      "en": "Healing or shielding allies gathers butterflies. With a full set, your next hit on a champion launches them all for magic damage.",
+      "zh": "治疗或护盾队友时积攒蝴蝶，集满后下一次攻击英雄会把蝴蝶全部射出造成魔法伤害。",
+      "es": "Curar o escudar aliados reúne mariposas. Con todas, tu siguiente golpe a un campeón las lanza para infligir daño mágico."
+    },
+    "shape": "heart",
+    "iconAlt": "soulsiphon"
+  },
+  {
+    "id": "endless-decimation",
+    "icon": "endlessdecimation",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Endless Decimation",
+      "zh": "无尽大杀四方",
+      "es": "Diezmar sin Fin"
+    },
+    "description": {
+      "en": "In combat, you automatically spin a big axe slash. Enemies hit by the outer edge take full damage and heal you, and each one shortens the cooldown.",
+      "zh": "战斗中自动挥出大回旋斩，外圈命中敌人造成全额伤害并为你回血，每命中一名英雄还会缩短冷却。",
+      "es": "En combate lanzas automáticamente un gran tajo giratorio. Los alcanzados por el borde reciben el daño completo, te curan y reducen el enfriamiento."
+    },
+    "shape": "gear-claw",
+    "iconAlt": "okboomerang"
+  },
+  {
+    "id": "ethereal-weapon",
+    "icon": "etherealweapon",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ethereal Weapon",
+      "zh": "虚幻武器",
+      "es": "Arma Etérea"
+    },
+    "description": {
+      "en": "Your abilities apply on-hit effects.",
+      "zh": "技能也能触发攻击特效。",
+      "es": "Tus habilidades aplican efectos al golpear."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "firebrand",
+    "icon": "firebrand",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Firebrand",
+      "zh": "火上浇油",
+      "es": "Marca Ígnea"
+    },
+    "description": {
+      "en": "Basic attacks apply an infinitely stacking burn that deals magic damage based on the target's max health.",
+      "zh": "普攻附加可无限叠加的灼烧，造成基于目标最大生命值的魔法伤害。",
+      "es": "Los ataques básicos aplican una quemadura acumulable sin límite que inflige daño mágico según la vida máxima del objetivo."
+    },
+    "shape": "fire"
+  },
+  {
+    "id": "flashy",
+    "icon": "flashy",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Flashy",
+      "zh": "闪现向前",
+      "es": "Destello Triple"
+    },
+    "description": {
+      "en": "Flash gets 3 charges with a short delay between uses.",
+      "zh": "闪现变为3层充能，每次使用间隔很短。",
+      "es": "Destello obtiene 3 cargas con un breve intervalo entre usos."
+    },
+    "shape": "runner"
+  },
+  {
+    "id": "flow-of-spirit",
+    "icon": "flowofspirit",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Flow of Spirit",
+      "zh": "灵魂乐流",
+      "es": "Flujo del Espíritu"
+    },
+    "description": {
+      "en": "Upgrades one ability so casting it grants a burst of bonus attack speed for 4 seconds.",
+      "zh": "强化一个技能，施放后4秒内获得大量额外攻速。",
+      "es": "Mejora una habilidad para que al lanzarla ganes mucha velocidad de ataque durante 4 segundos."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "from-beginning-to-end",
+    "icon": "frombeginningtoend",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "mage"
+    ],
+    "name": {
+      "en": "From Beginning to End",
+      "zh": "有始有终",
+      "es": "De Principio a Fin"
+    },
+    "description": {
+      "en": "Grants both Dark Harvest and First Strike.",
+      "zh": "同时获得黑暗收割和先攻两个基石符文。",
+      "es": "Otorga Cosecha Oscura y Primer Golpe a la vez."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "from-downtown",
+    "icon": "fromdowntown",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "From Downtown",
+      "zh": "狙神飞星",
+      "es": "Desde Lejos"
+    },
+    "description": {
+      "en": "Quest: land long-range ability hits on champions. Reward: long-range hits call down a meteor that grows bigger and stronger the farther away you are.",
+      "zh": "任务：远距离用技能命中英雄若干次。奖励：之后远距离命中会召唤陨石，距离越远陨石越大越痛。",
+      "es": "Misión: acierta habilidades a campeones desde lejos. Recompensa: esos impactos invocan un meteorito más grande y fuerte cuanto más lejos estés."
+    },
+    "shape": "arrow",
+    "iconAlt": "skilledsniper"
+  },
+  {
+    "id": "get-excited",
+    "icon": "getexcited",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "assassin"
+    ],
+    "name": {
+      "en": "Get Excited",
+      "zh": "罪恶快感",
+      "es": "Emoción"
+    },
+    "description": {
+      "en": "Takedowns grant a big burst of movement speed and some attack speed for 4 seconds.",
+      "zh": "参与击杀后4秒内获得大幅移速和一些攻速。",
+      "es": "Los derribos otorgan mucha velocidad de movimiento y algo de velocidad de ataque durante 4 segundos."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "get-jinxed",
+    "icon": "getjinxed",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "assassin"
+    ],
+    "name": {
+      "en": "Get Jinxed",
+      "zh": "罪恶快感！",
+      "es": "¡Jinxeado!"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a steerable rocket ride. You're untargetable while riding, and it explodes on impact, hitting harder the farther it flew.",
+      "zh": "把一个召唤师技能换成可操控的火箭坐骑，骑乘期间不可选中，撞到目标时爆炸，飞得越远伤害越高。",
+      "es": "Reemplaza un hechizo de invocador por un cohete dirigible. Eres inalcanzable mientras vuelas y explota al chocar, más fuerte cuanto más lejos voló."
+    },
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "growth-spurt",
+    "icon": "growthspurt",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Growth Spurt",
+      "zh": "生机迸发",
+      "es": "Estirón"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with Growth Spurt: grow huge, knock up nearby enemies and gain bonus health for a few seconds.",
+      "zh": "把一个召唤师技能换成「生机迸发」：变大并击飞附近敌人，数秒内获得额外生命值。",
+      "es": "Reemplaza un hechizo de invocador por Estirón: crece, lanza por los aires a los cercanos y gana vida extra unos segundos."
+    },
+    "shape": "people",
+    "iconLocal": "/augment-icons/people-gold.webp"
+  },
+  {
+    "id": "heavy-is-the-crown",
+    "icon": "heavyisthecrown",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "mage"
+    ],
+    "name": {
+      "en": "Heavy Is The Crown",
+      "zh": "王冠之重",
+      "es": "Pesada es la Corona"
+    },
+    "description": {
+      "en": "Gain damage and attack speed that grow with takedowns, but you slow down in combat the more stacks you have. Lose half the stacks on death.",
+      "zh": "获得随击杀成长的攻击力、法强和攻速，但层数越高战斗中越慢，死亡损失一半层数。",
+      "es": "Ganas daño y velocidad de ataque que crecen con los derribos, pero te ralentizas en combate cuantas más cargas tengas. Pierdes la mitad al morir."
+    },
+    "shape": "eye",
+    "iconLocal": "/augment-icons/eye-gold.webp"
+  },
+  {
+    "id": "impassable",
+    "icon": "impassable",
+    "rarity": "gold",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Impassable",
+      "zh": "不动如山",
+      "es": "Infranqueable"
+    },
+    "description": {
+      "en": "Grants both Aftershock and Glacial Augment.",
+      "zh": "同时获得余震和冰川增幅两个基石符文。",
+      "es": "Otorga Réplica y Aumento Glacial a la vez."
+    },
+    "shape": "anchor"
+  },
+  {
+    "id": "its-critical",
+    "icon": "itscritical",
+    "rarity": "gold",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "It's Critical",
+      "zh": "关键暴击",
+      "es": "Es Crítico"
+    },
+    "description": {
+      "en": "Grants 50% crit chance.",
+      "zh": "获得50%暴击率。",
+      "es": "Otorga un 50% de probabilidad de crítico."
+    },
+    "shape": "shard"
+  },
+  {
+    "id": "its-killing-time",
+    "icon": "itskillingtime",
+    "rarity": "gold",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "It's Killing Time",
+      "zh": "杀戮时间到了",
+      "es": "Hora de Matar"
+    },
+    "description": {
+      "en": "Casting your ultimate marks every enemy champion. Part of the damage you deal to them is stored and detonates as true damage a few seconds later.",
+      "zh": "施放大招会标记所有敌方英雄，你对他们造成的部分伤害会被储存，几秒后以真实伤害引爆。",
+      "es": "Lanzar tu definitiva marca a todos los campeones enemigos. Parte del daño que les haces se acumula y estalla como daño verdadero poco después."
+    },
+    "shape": "cross-slash"
+  },
+  {
+    "id": "jeweled-bracelet",
+    "icon": "jeweledbracelet",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Jeweled Bracelet",
+      "zh": "珠光手镯",
+      "es": "Brazalete Enjoyado"
+    },
+    "description": {
+      "en": "Upgrades one ability so its damage can crit. Also grants 25% crit chance.",
+      "zh": "强化一个技能，让它的伤害可以暴击，并获得25%暴击率。",
+      "es": "Mejora una habilidad para que su daño pueda ser crítico. También otorga un 25% de crítico."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "lil-extra-help",
+    "icon": "lilextrahelp",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Lil' Extra Help",
+      "zh": "小小的额外帮助",
+      "es": "Una Ayudita"
+    },
+    "description": {
+      "en": "Upgrades an ability that empowers your attacks for a while: during it, you also gain extra attack range and attack speed.",
+      "zh": "强化一个在一段时间内强化普攻的技能：效果期间额外获得攻击距离和攻速。",
+      "es": "Mejora una habilidad que potencia tus ataques por un tiempo: mientras dura, ganas alcance y velocidad de ataque extra."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "magic-missile",
+    "icon": "magicmissile",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Magic Missile",
+      "zh": "魔法飞弹",
+      "es": "Misil Mágico"
+    },
+    "description": {
+      "en": "Damaging a champion with an ability fires missiles that deal true damage based on their max health, more over longer distances.",
+      "zh": "技能伤害英雄时发射飞弹，造成基于目标最大生命值的真实伤害，飞得越远越痛。",
+      "es": "Dañar a un campeón con una habilidad dispara proyectiles de daño verdadero según su vida máxima, más cuanto más lejos viajen."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "marksmage",
+    "icon": "marksmage",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Marksmage",
+      "zh": "神射法师",
+      "es": "Tiramago"
+    },
+    "description": {
+      "en": "Basic attacks deal bonus physical damage based on your ability power.",
+      "zh": "普攻附带基于法术强度的额外物理伤害。",
+      "es": "Los ataques básicos infligen daño físico adicional según tu poder de habilidad."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "mercys-strike",
+    "icon": "mercysstrike",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "fighter"
+    ],
+    "name": {
+      "en": "Mercy's Strike",
+      "zh": "仁慈打击",
+      "es": "Golpe Piadoso"
+    },
+    "description": {
+      "en": "Upgrades one ability so your next attack after casting it gains range and attack speed and deals bonus magic damage based on the target's max health.",
+      "zh": "强化一个技能，施放后的下一次普攻射程更远、攻速更快，并造成基于目标最大生命值的额外魔法伤害。",
+      "es": "Mejora una habilidad: tu siguiente ataque tras lanzarla gana alcance y velocidad e inflige daño mágico extra según la vida máxima del objetivo."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "minionmancer",
+    "icon": "minionmancer",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Minionmancer",
+      "zh": "仆从大师",
+      "es": "Maestro de Súbditos"
+    },
+    "description": {
+      "en": "Your pets deal 40% more damage and gain 40% more health and size.",
+      "zh": "你的召唤物伤害提高40%，生命值和体型增加40%。",
+      "es": "Tus mascotas infligen un 40% más de daño y ganan un 40% más de vida y tamaño."
+    },
+    "shape": "trident"
+  },
+  {
+    "id": "nature-is-healing",
+    "icon": "natureishealing",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "fighter"
+    ],
+    "name": {
+      "en": "Nature is Healing",
+      "zh": "自然即是治愈",
+      "es": "La Naturaleza Sana"
+    },
+    "description": {
+      "en": "Entering a brush patch heals you over a short time. Each patch has its own cooldown.",
+      "zh": "进入草丛时短时间内回复生命值，每片草丛单独计算冷却。",
+      "es": "Entrar en un matorral te cura durante un breve tiempo. Cada matorral tiene su propio enfriamiento."
+    },
+    "shape": "heart",
+    "iconAlt": "soulsiphon"
+  },
+  {
+    "id": "nightstalking",
+    "icon": "nightstalking",
+    "rarity": "gold",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "Nightstalking",
+      "zh": "夜狩",
+      "es": "Acecho Nocturno"
+    },
+    "description": {
+      "en": "Takedowns on champions you recently damaged make you invisible and faster for a moment. Attacking or casting ends it.",
+      "zh": "参与击杀刚被你打过的英雄后短暂隐身并加速，攻击或施法会解除隐身。",
+      "es": "Los derribos de campeones que dañaste hace poco te vuelven invisible y más rápido un momento. Atacar o lanzar lo termina."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "ok-boomerang",
+    "icon": "okboomerang",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "OK Boomerang",
+      "zh": "回力OK镖",
+      "es": "Bumerán OK"
+    },
+    "description": {
+      "en": "Periodically throws a boomerang blade at the nearest enemy champion for adaptive damage.",
+      "zh": "定期自动向最近的敌方英雄掷出回旋刃，造成自适应伤害。",
+      "es": "Lanza periódicamente un filo bumerán al campeón enemigo más cercano con daño adaptativo."
+    },
+    "shape": "gear-claw"
+  },
+  {
+    "id": "outlaws-grit",
+    "icon": "outlawsgrit",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Outlaw's Grit",
+      "zh": "狂徒豪气",
+      "es": "Temple de Forajido"
+    },
+    "description": {
+      "en": "Dashing or blinking grants stacking bonus armor and magic resistance.",
+      "zh": "位移或闪烁时获得可叠加的额外护甲和魔抗。",
+      "es": "Desplazarte o parpadear otorga armadura y resistencia mágica acumulables."
+    },
+    "shape": "runner"
+  },
+  {
+    "id": "overextender",
+    "icon": "overextender",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Overextender",
+      "zh": "过量延伸者",
+      "es": "Sobreextendido"
+    },
+    "description": {
+      "en": "Empowers the Cannon Launcher with a much longer, faster, harder-hitting launch, and enables an empowered Recall. Butcher's Bridge only.",
+      "zh": "强化发射炮台：射程更远、速度更快、落地伤害更高，并开启强化回城。仅限屠夫之桥地图。",
+      "es": "Potencia el Lanzacañones con un lanzamiento mucho más largo, rápido y potente, y habilita una Llamada potenciada. Solo en el Puente del Carnicero."
+    },
+    "maps": [
+      "butchers-bridge"
+    ],
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "overflow",
+    "icon": "overflow",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Overflow",
+      "zh": "溢流",
+      "es": "Desbordamiento"
+    },
+    "description": {
+      "en": "Your abilities cost double mana, but deal more damage and heal and shield more, scaling with your max mana.",
+      "zh": "技能法力消耗翻倍，但伤害、治疗和护盾都会提高，最大法力值越高提升越多。",
+      "es": "Tus habilidades cuestan el doble de maná, pero infligen más daño y curan y escudan más, según tu maná máximo."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "pat-on-the-back",
+    "icon": "patontheback",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "fighter"
+    ],
+    "name": {
+      "en": "Pat On The Back",
+      "zh": "轻拍背部",
+      "es": "Palmadita en la Espalda"
+    },
+    "description": {
+      "en": "Being close to an ally gives you a small shield and a burst of movement speed.",
+      "zh": "靠近队友时获得一个小护盾和一段移速加成。",
+      "es": "Estar cerca de un aliado te da un pequeño escudo y un impulso de velocidad."
+    },
+    "shape": "boot",
+    "iconAlt": "withhaste"
+  },
+  {
+    "id": "perseverance",
+    "icon": "perseverance",
+    "rarity": "gold",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Perseverance",
+      "zh": "Perseverance",
+      "es": "Perseverancia"
+    },
+    "description": {
+      "en": "Greatly increases your base health regeneration, even more at low health.",
+      "zh": "大幅提高基础生命回复，低血量时更多。",
+      "es": "Aumenta mucho tu regeneración de vida base, más aún con poca vida."
+    },
+    "disabled": true,
+    "shape": "shield",
+    "iconAlt": "bigbrain"
+  },
+  {
+    "id": "phenomenal-evil",
+    "icon": "phenomenalevil",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Phenomenal Evil",
+      "zh": "超凡邪恶",
+      "es": "Maldad Fenomenal"
+    },
+    "description": {
+      "en": "Damaging champions with abilities permanently stacks ability power. If it isn't your first augment, start with a head start of stacks.",
+      "zh": "用技能伤害英雄会永久叠加法术强度；如果这不是你的第一个符文，开局就自带一批层数。",
+      "es": "Dañar campeones con habilidades acumula poder de habilidad permanente. Si no es tu primer aumento, empiezas con cargas de ventaja."
+    },
+    "shape": "up-arrow"
+  },
+  {
+    "id": "pinball",
+    "icon": "pinball",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Pinball",
+      "zh": "弹球",
+      "es": "Pinball"
+    },
+    "description": {
+      "en": "Your Mark snowball becomes a pinball that deals true damage and ricochets off walls, growing bigger and stronger with each bounce.",
+      "zh": "雪球（标记）变成弹球，造成真实伤害并在墙壁间反弹，每次反弹都会变大变强。",
+      "es": "Tu bola de nieve (Marca) se vuelve un pinball que inflige daño verdadero y rebota en muros, creciendo con cada rebote."
+    },
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "porcupine",
+    "icon": "porcupine",
+    "rarity": "gold",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Porcupine",
+      "zh": "豪猪",
+      "es": "Puercoespín"
+    },
+    "description": {
+      "en": "Taking damage from champions builds up needles. Once full, they burst out, dealing damage based on your resistances and slowing enemies.",
+      "zh": "受到英雄伤害时积攒尖刺，攒满后向四周爆发，造成基于双抗的伤害并减速敌人。",
+      "es": "Recibir daño de campeones acumula púas. Al llenarse, estallan con daño según tus resistencias y ralentizan."
+    },
+    "shape": "shield",
+    "iconAlt": "bigbrain"
+  },
+  {
+    "id": "pressure-cooker",
+    "icon": "pressurecooker",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Pressure Cooker",
+      "zh": "高压锅",
+      "es": "Olla a Presión"
+    },
+    "description": {
+      "en": "Burn nearby enemy champions based on your max health. Dealing enough burn damage upgrades the aura's range and burn rate.",
+      "zh": "持续灼烧身边的敌方英雄，伤害基于你的最大生命值。灼烧伤害累计够多后，光环范围和灼烧速度会升级。",
+      "es": "Quemas a los campeones enemigos cercanos según tu vida máxima. Al acumular suficiente daño, el aura mejora su alcance y ritmo."
+    },
+    "shape": "fire",
+    "iconAlt": "firebrand"
+  },
+  {
+    "id": "pursuit-of-haste",
+    "icon": "pursuitofhaste",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Pursuit of Haste",
+      "zh": "急速之追求",
+      "es": "En Busca de Prisa"
+    },
+    "description": {
+      "en": "Quest: hit champions with a specific ability. Reward: that ability gains a large amount of ability haste in two steps.",
+      "zh": "任务：用指定技能命中英雄若干次。奖励：该技能分两阶段获得大量技能急速。",
+      "es": "Misión: golpea campeones con una habilidad concreta. Recompensa: esa habilidad gana mucha prisa en dos fases."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "pursuit-of-power",
+    "icon": "pursuitofpower",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Pursuit of Power",
+      "zh": "威能之追求",
+      "es": "En Busca de Poder"
+    },
+    "description": {
+      "en": "Quest: hit champions with a specific ability 10 times. Reward: that ability deals 30% more damage.",
+      "zh": "任务：用指定技能命中英雄10次。奖励：该技能伤害提高30%。",
+      "es": "Misión: golpea campeones 10 veces con una habilidad concreta. Recompensa: esa habilidad inflige un 30% más."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "quest-steel-your-heart",
+    "icon": "quest_steelyourheart",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Quest: Steel Your Heart",
+      "zh": "钢化你心",
+      "es": "Misión: Corazón de Acero"
+    },
+    "description": {
+      "en": "Quest: build Heartsteel and gain some health from its passive. Reward: Heartsteel's passive gives triple the health.",
+      "zh": "任务：做出心之钢并通过被动积累一定生命值。奖励：心之钢被动获得的生命值变为三倍。",
+      "es": "Misión: consigue Corazón de Acero y acumula algo de vida con su pasiva. Recompensa: la pasiva otorga el triple de vida."
+    },
+    "shape": "cauldron"
+  },
+  {
+    "id": "quickstep",
+    "icon": "quickstep",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Quickstep",
+      "zh": "快步",
+      "es": "Paso Rápido"
+    },
+    "description": {
+      "en": "Upgrades one ability so casting it also dashes you a short distance toward your cursor.",
+      "zh": "强化一个技能，施放时会朝鼠标方向短距离冲刺。",
+      "es": "Mejora una habilidad para que al lanzarla también te desplaces una corta distancia hacia el cursor."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "ravenous-bind",
+    "icon": "ravenousbind",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Ravenous Bind",
+      "zh": "贪欲束缚",
+      "es": "Atadura Voraz"
+    },
+    "description": {
+      "en": "Upgrades a crowd-control ability so it also deals magic damage and heals you, more for longer-cooldown abilities.",
+      "zh": "强化一个控制技能，让它额外造成魔法伤害并为你回血，技能冷却越长回得越多。",
+      "es": "Mejora una habilidad de control para que inflija daño mágico y te cure, más si su enfriamiento es largo."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "recoil",
+    "icon": "recoil",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Recoil",
+      "zh": "反冲",
+      "es": "Retroceso"
+    },
+    "description": {
+      "en": "Upgrades one ability to deal 25% more damage and dash you backward when cast.",
+      "zh": "强化一个技能，伤害提高25%，施放时向后冲刺。",
+      "es": "Mejora una habilidad para que inflija un 25% más y te desplace hacia atrás al lanzarla."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "recursion",
+    "icon": "recursion",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Recursion",
+      "zh": "循环往复",
+      "es": "Recursión"
+    },
+    "description": {
+      "en": "Grants 60 ability haste.",
+      "zh": "获得60技能急速。",
+      "es": "Otorga 60 de prisa de habilidad."
+    },
+    "shape": "hourglass"
+  },
+  {
+    "id": "rejuvenation",
+    "icon": "rejuvenation",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Rejuvenation",
+      "zh": "活力焕发",
+      "es": "Rejuvenecer"
+    },
+    "description": {
+      "en": "Upgrades one ability so casting it heals you, more for longer-cooldown abilities.",
+      "zh": "强化一个技能，施放时为你回血，技能冷却越长回得越多。",
+      "es": "Mejora una habilidad para que te cure al lanzarla, más si su enfriamiento es largo."
+    },
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "reload",
+    "icon": "reload",
+    "rarity": "gold",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Reload",
+      "zh": "装填",
+      "es": "Recarga"
+    },
+    "description": {
+      "en": "Upgrades a duration ability so attacks during it reduce its remaining cooldown.",
+      "zh": "强化一个有持续时间的技能，期间普攻会缩短其剩余冷却。",
+      "es": "Mejora una habilidad con duración para que los ataques durante ella reduzcan su enfriamiento."
+    },
+    "disabled": true,
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "salvation",
+    "icon": "salvation",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "fighter"
+    ],
+    "name": {
+      "en": "Salvation",
+      "zh": "拯救",
+      "es": "Salvación"
+    },
+    "description": {
+      "en": "Dropping below half health releases a huge shockwave that damages and knocks back enemies while healing you and allies. Long cooldown.",
+      "zh": "生命值低于一半时释放大范围冲击波，伤害并击退敌人，同时治疗你和队友。冷却较长。",
+      "es": "Al bajar de la mitad de vida liberas una gran onda que daña y empuja a los enemigos mientras os cura a ti y a tus aliados. Enfriamiento largo."
+    },
+    "shape": "heart",
+    "iconAlt": "soulsiphon"
+  },
+  {
+    "id": "sap-magic",
+    "icon": "sapmagic",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Sap Magic",
+      "zh": "吸元秘术",
+      "es": "Drenar Magia"
+    },
+    "description": {
+      "en": "Your next basic attack deals bonus damage and heals you. Casting abilities brings it back sooner.",
+      "zh": "下一次普攻造成额外伤害并为你回血，施放技能会加快它的冷却。",
+      "es": "Tu siguiente ataque básico inflige daño extra y te cura. Lanzar habilidades acelera su recarga."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "scopier-weapons",
+    "icon": "scopierweapons",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Scopier Weapons",
+      "zh": "更万用的瞄准镜",
+      "es": "Armas con Más Mira"
+    },
+    "description": {
+      "en": "Grants more bonus attack range, extra for melee champions.",
+      "zh": "获得更多额外攻击距离，近战英雄加得更多。",
+      "es": "Otorga más alcance de ataque, extra para cuerpo a cuerpo."
+    },
+    "shape": "arrow",
+    "iconAlt": "skilledsniper"
+  },
+  {
+    "id": "searing-dawn",
+    "icon": "searingdawn",
+    "rarity": "gold",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Searing Dawn",
+      "zh": "炽烈黎明",
+      "es": "Alba Abrasadora"
+    },
+    "description": {
+      "en": "Your damaging abilities mark enemies so your allies' next hit on them deals bonus magic damage.",
+      "zh": "你的伤害技能会标记敌人，队友下次命中该敌人时造成额外魔法伤害。",
+      "es": "Tus habilidades de daño marcan a los enemigos para que el siguiente golpe de un aliado inflija daño mágico extra."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "shark-bait",
+    "icon": "sharkbait",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Shark Bait",
+      "zh": "鲨鱼诱饵",
+      "es": "Cebo de Tiburón"
+    },
+    "description": {
+      "en": "Instead of dying, you become a zombie for a few seconds that slows nearby enemies, then a giant shark bursts out to damage and knock them up.",
+      "zh": "受到致命伤害时先变成僵尸几秒并减速周围敌人，随后巨鲨从脚下冲出，造成伤害并击飞。",
+      "es": "En lugar de morir te vuelves zombi unos segundos y ralentizas a los cercanos; luego un tiburón gigante emerge, daña y lanza por los aires."
+    },
+    "shape": "broken-heart",
+    "iconLocal": "/augment-icons/broken-heart-gold.webp"
+  },
+  {
+    "id": "shark-tempest",
+    "icon": "sharktempest",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Shark Tempest",
+      "zh": "鲨鱼暴风",
+      "es": "Tormenta de Tiburones"
+    },
+    "description": {
+      "en": "Your Mark snowball is circled by sharks that damage and slow enemies along its path, then swirl around the champion it hits.",
+      "zh": "雪球（标记）周围环绕鲨鱼，沿途伤害并减速敌人，命中英雄后在其周围持续盘旋。",
+      "es": "Tu bola de nieve (Marca) va rodeada de tiburones que dañan y ralentizan en su camino, y luego giran alrededor del campeón alcanzado."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "shrink-engine",
+    "icon": "shrinkengine",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Shrink Engine",
+      "zh": "缩小引擎",
+      "es": "Motor Reductor"
+    },
+    "description": {
+      "en": "Each takedown permanently grants ability haste and movement speed and shrinks you. Lose most stacks on death.",
+      "zh": "每次参与击杀永久获得技能急速和移速，并让体型变小，死亡损失大部分层数。",
+      "es": "Cada derribo otorga prisa de habilidad y velocidad permanentes y te encoge. Pierdes casi todas las cargas al morir."
+    },
+    "shape": "runner",
+    "iconAlt": "flashy"
+  },
+  {
+    "id": "shrink-ray",
+    "icon": "shrinkray",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Shrink Ray",
+      "zh": "缩小射线",
+      "es": "Rayo Reductor"
+    },
+    "description": {
+      "en": "Basic attacks shrink the target and reduce their damage by 15% for a few seconds.",
+      "zh": "普攻会让目标变小，并在数秒内降低其15%伤害。",
+      "es": "Los ataques básicos encogen al objetivo y reducen su daño un 15% durante unos segundos."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "skilled-sniper",
+    "icon": "skilledsniper",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Skilled Sniper",
+      "zh": "老练狙神",
+      "es": "Francotirador Hábil"
+    },
+    "description": {
+      "en": "Hitting a champion with a basic ability from long range refunds most of that ability's cooldown.",
+      "zh": "远距离用基础技能命中英雄时，返还该技能大部分冷却。",
+      "es": "Golpear a un campeón con una habilidad básica desde lejos devuelve la mayor parte de su enfriamiento."
+    },
+    "shape": "arrow"
+  },
+  {
+    "id": "snap-back",
+    "icon": "snapback",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "mage"
+    ],
+    "name": {
+      "en": "Snap Back",
+      "zh": "Snap Back",
+      "es": "Retroceso Explosivo"
+    },
+    "description": {
+      "en": "Upgrades one ability with a recast that blinks you back to where you cast it and explodes for magic damage.",
+      "zh": "强化一个技能，可再次施放闪回原位并爆炸造成魔法伤害。",
+      "es": "Mejora una habilidad con una reactivación que te devuelve al punto de lanzamiento y explota con daño mágico."
+    },
+    "disabled": true,
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "snowball-upgrade",
+    "icon": "snowballupgrade",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Snowball Upgrade",
+      "zh": "Snowball Upgrade",
+      "es": "Bola de Nieve Mejorada"
+    },
+    "description": {
+      "en": "Your Mark snowball summons a snowstorm where it hits that damages and slows enemies.",
+      "zh": "雪球（标记）命中处会召唤暴风雪，伤害并减速敌人。",
+      "es": "Tu bola de nieve (Marca) invoca una tormenta de nieve donde impacta que daña y ralentiza."
+    },
+    "disabled": true,
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "snowblast",
+    "icon": "snowblast",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Snowblast",
+      "zh": "冰雪爆裂",
+      "es": "Explosión Nevada"
+    },
+    "description": {
+      "en": "Your Mark dash deals double damage, knocks up the target and knocks back nearby enemies, and comes back much faster.",
+      "zh": "雪球（标记）冲刺伤害翻倍，击飞目标并击退周围敌人，冷却也大幅缩短。",
+      "es": "El desplazamiento de tu Marca inflige el doble, lanza por los aires al objetivo, empuja a los cercanos y se recarga mucho antes."
+    },
+    "shape": "trident",
+    "iconAlt": "minionmancer"
+  },
+  {
+    "id": "sonata",
+    "icon": "sonata",
+    "rarity": "gold",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Sonata",
+      "zh": "咏叹奏鸣",
+      "es": "Sonata"
+    },
+    "description": {
+      "en": "Automatically alternates between a song that heals and shields you and allies, and a song that speeds you all up.",
+      "zh": "自动交替演奏两首歌：一首为你和队友治疗加护盾，一首为大家加速。",
+      "es": "Alterna automáticamente entre una canción que os cura y escuda a ti y a tus aliados, y otra que os acelera."
+    },
+    "shape": "people",
+    "iconLocal": "/augment-icons/people-gold.webp"
+  },
+  {
+    "id": "soul-eater",
+    "icon": "souleater",
+    "rarity": "gold",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Soul Eater",
+      "zh": "吞噬灵魂",
+      "es": "Devoralmas"
+    },
+    "description": {
+      "en": "Immobilizing or grounding an enemy champion permanently grants bonus health. If it isn't your first augment, also gain 300 health right away.",
+      "zh": "定身或禁锢敌方英雄会永久获得额外生命值；如果这不是你的第一个符文，还会立刻获得300生命值。",
+      "es": "Inmovilizar o anclar a un campeón enemigo otorga vida adicional permanente. Si no es tu primer aumento, ganas 300 de vida al instante."
+    },
+    "shape": "shield",
+    "iconAlt": "bigbrain"
+  },
+  {
+    "id": "soul-siphon",
+    "icon": "soulsiphon",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "assassin"
+    ],
+    "name": {
+      "en": "Soul Siphon",
+      "zh": "灵魂虹吸",
+      "es": "Sifón de Almas"
+    },
+    "description": {
+      "en": "Your critical strikes heal you for part of the damage dealt. Also grants 25% crit chance.",
+      "zh": "暴击造成的部分伤害会转化为治疗，并获得25%暴击率。",
+      "es": "Tus golpes críticos te curan parte del daño infligido. También otorga un 25% de crítico."
+    },
+    "shape": "heart"
+  },
+  {
+    "id": "stats-on-stats",
+    "icon": "statsonstats",
+    "rarity": "gold",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Stats on Stats!",
+      "zh": "属性叠属性！",
+      "es": "¡Estadísticas al Cuadrado!"
+    },
+    "description": {
+      "en": "Gain 3 Stat Anvils, with better odds of Gold and Prismatic ones.",
+      "zh": "获得3个属性铁砧，出金色和棱彩铁砧的几率更高。",
+      "es": "Ganas 3 Yunques de Estadísticas, con más probabilidad de Oro y Prismático."
+    },
+    "shape": "dice"
+  },
+  {
+    "id": "still-here",
+    "icon": "stillhere",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Still Here",
+      "zh": "屹立不倒",
+      "es": "Sigo Aquí"
+    },
+    "description": {
+      "en": "The lower your health, the more bonus attack speed and life steal you gain.",
+      "zh": "生命值越低，获得的额外攻速和生命偷取越多。",
+      "es": "Cuanta menos vida tengas, más velocidad de ataque y robo de vida ganas."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "take-em-down",
+    "icon": "takeemdowndowndown",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Take'em Down Down Down",
+      "zh": "将他们放倒倒倒",
+      "es": "Derríbalos"
+    },
+    "description": {
+      "en": "Attacks and abilities stack bonus magic damage on champions. At 5 stacks they burst for damage based on missing health and heal you.",
+      "zh": "普攻和技能命中英雄会叠层并造成额外魔法伤害，叠满5层后引爆，造成基于已损失生命值的伤害并为你回血。",
+      "es": "Ataques y habilidades acumulan daño mágico extra en campeones. Con 5 cargas estallan con daño según la vida perdida y te curan."
+    },
+    "shape": "up-arrow",
+    "iconAlt": "phenomenalevil"
+  },
+  {
+    "id": "tank-engine",
+    "icon": "tank_engine",
+    "rarity": "gold",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Tank Engine",
+      "zh": "坦克引擎",
+      "es": "Motor Tanque"
+    },
+    "description": {
+      "en": "Each takedown permanently increases your max health and size. Lose most stacks on death.",
+      "zh": "每次参与击杀永久提高最大生命值和体型，死亡损失大部分层数。",
+      "es": "Cada derribo aumenta permanentemente tu vida máxima y tamaño. Pierdes casi todas las cargas al morir."
+    },
+    "shape": "shield"
+  },
+  {
+    "id": "terrain-d",
+    "icon": "terraind",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Terrain'd",
+      "zh": "地形专家",
+      "es": "Terreneado"
+    },
+    "description": {
+      "en": "Upgrades an ability that creates terrain so it also deals magic damage around it, much more for ultimates.",
+      "zh": "强化一个能制造地形的技能，让地形周围也造成魔法伤害，大招效果更强。",
+      "es": "Mejora una habilidad que crea terreno para que también inflija daño mágico a su alrededor, mucho más si es definitiva."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "terror",
+    "icon": "",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Terror",
+      "zh": "惊惧",
+      "es": "Terror"
+    },
+    "description": {
+      "en": "Upgrades one ability so casting it fears all nearby enemies. Long cooldown.",
+      "zh": "强化一个技能，施放时恐惧周围所有敌人。冷却较长。",
+      "es": "Mejora una habilidad para que al lanzarla aterrorice a todos los enemigos cercanos. Enfriamiento largo."
+    },
+    "shape": "eye",
+    "iconLocal": "/augment-icons/eye-gold.webp"
+  },
+  {
+    "id": "the-boom-and-the-bass",
+    "icon": "theboomandthebass",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "The Boom and the Bass",
+      "zh": "鼓声暴起 低音轰鸣",
+      "es": "Bombo y Bajo"
+    },
+    "description": {
+      "en": "After casting an ability, your next attack gets a huge attack speed boost, deals bonus magic damage and gives you a burst of movement speed.",
+      "zh": "施放技能后，下一次普攻大幅加速、造成额外魔法伤害，并让你获得一段移速。",
+      "es": "Tras lanzar una habilidad, tu siguiente ataque gana mucha velocidad, inflige daño mágico extra y te da un impulso de velocidad."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "thread-the-needle",
+    "icon": "threadtheneedle",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Thread the Needle",
+      "zh": "穿针引线",
+      "es": "Enhebrar la Aguja"
+    },
+    "description": {
+      "en": "Grants 18% armor and magic penetration.",
+      "zh": "获得18%护甲穿透和法术穿透。",
+      "es": "Otorga un 18% de penetración de armadura y mágica."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "tickle-monster",
+    "icon": "ticklemonster",
+    "rarity": "gold",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Tickle Monster",
+      "zh": "嗡嗡怪兽",
+      "es": "Monstruo de Cosquillas"
+    },
+    "description": {
+      "en": "Converts all of your bonus attack damage into bonus attack speed, and basic attacks deal bonus magic damage.",
+      "zh": "把全部额外攻击力转化为额外攻速，普攻附带额外魔法伤害。",
+      "es": "Convierte todo tu daño de ataque adicional en velocidad de ataque, y los ataques básicos infligen daño mágico extra."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "tooth-fairy",
+    "icon": "toothfairy",
+    "rarity": "gold",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "Tooth Fairy",
+      "zh": "牙仙子",
+      "es": "Ratoncito Pérez"
+    },
+    "description": {
+      "en": "Bursting down a big chunk of a champion's health drops a Tooth. Picking it up permanently grants lethality and magic penetration.",
+      "zh": "短时间内打掉英雄一大截血会掉落一颗牙，捡起后永久获得穿甲和法术穿透。",
+      "es": "Quitar de golpe una buena parte de la vida de un campeón suelta un Diente. Recogerlo otorga letalidad y penetración mágica permanentes."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "transmute-prismatic",
+    "icon": "transmuteprismatic",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Transmute: Prismatic",
+      "zh": "质变：棱彩阶",
+      "es": "Transmutar: Prismático"
+    },
+    "description": {
+      "en": "Gain one random Prismatic augment.",
+      "zh": "获得一个随机棱彩海克斯符文。",
+      "es": "Obtienes un aumento Prismático aleatorio."
+    },
+    "shape": "dice"
+  },
+  {
+    "id": "upgrade-infinity-edge",
+    "icon": "upgradeinfinityedge",
+    "rarity": "gold",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Upgrade Infinity Edge",
+      "zh": "升级：无尽之刃",
+      "es": "Mejora: Filo del Infinito"
+    },
+    "description": {
+      "en": "Upgrades Infinity Edge to grant randomly shifting bonus crit damage. Also grants some gold now.",
+      "zh": "升级无尽之刃，获得随机浮动的额外暴击伤害，同时立刻获得一笔金币。",
+      "es": "Mejora Filo del Infinito para que otorgue daño crítico extra que varía al azar. También otorga oro ahora."
+    },
+    "shape": "cauldron",
+    "iconAlt": "apexinventor"
+  },
+  {
+    "id": "upgrade-ravenous-hydra",
+    "icon": "upgraderavenoushydra",
+    "rarity": "gold",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Upgrade Ravenous Hydra",
+      "zh": "升级：贪欲九头蛇",
+      "es": "Mejora: Hidra Voraz"
+    },
+    "description": {
+      "en": "Upgrades Ravenous Hydra with more life steal and lets its cleave trigger on ability hits. Also grants some gold now.",
+      "zh": "升级贪欲九头蛇：生命偷取更高，技能命中也能触发顺劈，同时立刻获得一笔金币。",
+      "es": "Mejora Hidra Voraz con más robo de vida y hace que su tajo se active con habilidades. También otorga oro ahora."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "upgrade-sheen",
+    "icon": "upgradesheen",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "mage"
+    ],
+    "name": {
+      "en": "Upgrade Sheen",
+      "zh": "升级：耀光",
+      "es": "Mejora: Brillo"
+    },
+    "description": {
+      "en": "Upgrades all Spellblade items to deal bonus damage based on the target's max health and heal you. Also grants some gold now.",
+      "zh": "升级所有咒刃类装备，额外造成基于目标最大生命值的伤害并为你回血，同时立刻获得一笔金币。",
+      "es": "Mejora todos los objetos de Hoja Encantada para infligir daño extra según la vida máxima del objetivo y curarte. También otorga oro ahora."
+    },
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "upgrade-stormsurge",
+    "icon": "upgradestormsurge",
+    "rarity": "gold",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Upgrade Stormsurge",
+      "zh": "升级：风暴狂涌",
+      "es": "Mejora: Oleada Tormentosa"
+    },
+    "description": {
+      "en": "Upgrades Stormsurge so its lightning strike hits an area and chains to other champions it hits. Also grants some gold now.",
+      "zh": "升级风暴狂涌，雷击变为范围伤害并连锁到被命中的其他英雄，同时立刻获得一笔金币。",
+      "es": "Mejora Oleada Tormentosa para que su rayo golpee en área y se encadene a otros campeones. También otorga oro ahora."
+    },
+    "shape": "starburst",
+    "iconAlt": "frombeginningtoend"
+  },
+  {
+    "id": "upgrade-sundered-sky",
+    "icon": "upgradesunderedsky",
+    "rarity": "gold",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Upgrade Sundered Sky",
+      "zh": "升级：焚天",
+      "es": "Mejora: Cielo Partido"
+    },
+    "description": {
+      "en": "Upgrades Sundered Sky with a bigger heal based on missing health and a shorter cooldown. Also grants some gold now.",
+      "zh": "升级焚天：基于已损失生命值的回血更多、冷却更短，同时立刻获得一笔金币。",
+      "es": "Mejora Cielo Partido con más curación según la vida perdida y menos enfriamiento. También otorga oro ahora."
+    },
+    "shape": "cauldron",
+    "iconAlt": "apexinventor"
+  },
+  {
+    "id": "vampirism",
+    "icon": "vampirism",
+    "rarity": "gold",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Vampirism",
+      "zh": "Vampirism",
+      "es": "Vampirismo"
+    },
+    "description": {
+      "en": "Gain lots of omnivamp, but allies can't heal you and your health regen is zero.",
+      "zh": "获得大量全能吸血，但无法被队友治疗，生命回复归零。",
+      "es": "Ganas mucho omnivampirismo, pero los aliados no pueden curarte y tu regeneración es cero."
+    },
+    "disabled": true,
+    "shape": "sword",
+    "iconAlt": "marksmage"
+  },
+  {
+    "id": "void-dash",
+    "icon": "voiddash",
+    "rarity": "gold",
+    "types": [
+      "assassin",
+      "mage"
+    ],
+    "name": {
+      "en": "Void Dash",
+      "zh": "Void Dash",
+      "es": "Desplazamiento del Vacío"
+    },
+    "description": {
+      "en": "Upgrades a dash ability so it leaves a void zone at the end that damages and slows enemies.",
+      "zh": "强化一个位移技能，终点处留下虚空区域，伤害并减速敌人。",
+      "es": "Mejora una habilidad de desplazamiento para dejar una zona del Vacío al final que daña y ralentiza."
+    },
+    "disabled": true,
+    "shape": "wisp",
+    "iconAlt": "etherealweapon"
+  },
+  {
+    "id": "vulnerability",
+    "icon": "vulnerability",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Vulnerability",
+      "zh": "易损",
+      "es": "Vulnerabilidad"
+    },
+    "description": {
+      "en": "Damage from items and damage-over-time effects can crit. Also grants 25% crit chance.",
+      "zh": "装备伤害和持续伤害也能暴击，并获得25%暴击率。",
+      "es": "El daño de objetos y de efectos continuos puede ser crítico. También otorga un 25% de crítico."
+    },
+    "shape": "cauldron"
+  },
+  {
+    "id": "warlock-juicebox",
+    "icon": "warlockjuicebox",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Warlock Juicebox",
+      "zh": "术士果汁盒",
+      "es": "Zumo de Brujo"
+    },
+    "description": {
+      "en": "Gain omnivamp that grows with your ability power.",
+      "zh": "获得全能吸血，法术强度越高越多。",
+      "es": "Ganas omnivampirismo que crece con tu poder de habilidad."
+    },
+    "shape": "heart",
+    "iconAlt": "soulsiphon"
+  },
+  {
+    "id": "weapon-of-destiny",
+    "icon": "weaponofdestiny",
+    "rarity": "gold",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Weapon of Destiny",
+      "zh": "命运之武器",
+      "es": "Arma del Destino"
+    },
+    "description": {
+      "en": "Your first legendary item grows stronger with every takedown, permanently. That item can no longer be sold.",
+      "zh": "你的第一件传说装备会随每次参与击杀永久变强，但这件装备不能再卖出。",
+      "es": "Tu primer objeto legendario se fortalece permanentemente con cada derribo. Ya no podrás venderlo."
+    },
+    "shape": "cauldron",
+    "iconAlt": "apexinventor"
+  },
+  {
+    "id": "wee-woo-wee-woo",
+    "icon": "weewooweewoo",
+    "rarity": "gold",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Wee Woo Wee Woo",
+      "zh": "喂呜喂呜",
+      "es": "Ninoninoni"
+    },
+    "description": {
+      "en": "Gain speed when heading toward hurt allies, and your heals and shields are stronger on low-health targets.",
+      "zh": "朝受伤的队友移动时加速，对低血量目标的治疗和护盾更强。",
+      "es": "Ganas velocidad al ir hacia aliados heridos, y tus curaciones y escudos son más fuertes en objetivos con poca vida."
+    },
+    "shape": "heart",
+    "iconAlt": "soulsiphon"
+  },
+  {
+    "id": "with-haste",
+    "icon": "withhaste",
+    "rarity": "gold",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "With Haste",
+      "zh": "急急小子",
+      "es": "Con Prisa"
+    },
+    "description": {
+      "en": "Gain bonus movement speed based on your ability haste.",
+      "zh": "获得基于技能急速的额外移速。",
+      "es": "Ganas velocidad de movimiento adicional según tu prisa de habilidad."
+    },
+    "shape": "boot"
+  },
+  {
+    "id": "archmage",
+    "icon": "archmage",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Archmage",
+      "zh": "大法师",
+      "es": "Archimago"
+    },
+    "description": {
+      "en": "Casting an ability refunds part of the cooldown of another random ability.",
+      "zh": "每次施放技能，都会随机返还另一个技能的部分冷却。",
+      "es": "Lanzar una habilidad devuelve parte del enfriamiento de otra habilidad al azar."
+    },
+    "shape": "hourglass",
+    "iconAlt": "eureka"
+  },
+  {
+    "id": "back-to-basics",
+    "icon": "backtobasics",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Back to Basics",
+      "zh": "回归基本功",
+      "es": "Volver a lo Básico"
+    },
+    "description": {
+      "en": "Your abilities deal more damage, you gain ability haste and stronger heals and shields, but your ultimate is locked for good.",
+      "zh": "技能伤害提高，获得技能急速以及更强的治疗和护盾，但大招被永久封印。",
+      "es": "Tus habilidades infligen más daño y ganas prisa y mejores curaciones y escudos, pero tu definitiva queda bloqueada para siempre."
+    },
+    "shape": "cross-slash"
+  },
+  {
+    "id": "big-shot",
+    "icon": "bigshot",
+    "rarity": "prismatic",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Big Shot",
+      "zh": "大腕",
+      "es": "Pez Gordo"
+    },
+    "description": {
+      "en": "Converts most of your attack speed into crit damage, and grants bonus attack damage and crit damage.",
+      "zh": "把大部分攻速转化为暴击伤害，并获得额外攻击力和暴击伤害。",
+      "es": "Convierte la mayor parte de tu velocidad de ataque en daño crítico y otorga daño de ataque y crítico extra."
+    },
+    "shape": "cross-slash",
+    "iconAlt": "backtobasics"
+  },
+  {
+    "id": "biggest-snowball-ever",
+    "icon": "biggestsnowballever",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Biggest Snowball Ever",
+      "zh": "史上最大雪球",
+      "es": "La Bola de Nieve más Grande"
+    },
+    "description": {
+      "en": "Your Mark becomes a huge snowball that passes through minions, explodes on the target to damage, knock up and slow nearby enemies, and comes back faster.",
+      "zh": "雪球（标记）变成巨型雪球，可穿过小兵，命中后爆炸，伤害、击飞并减速周围敌人，冷却也更短。",
+      "es": "Tu Marca se vuelve una bola gigante que atraviesa súbditos y explota en el objetivo: daña, lanza por los aires y ralentiza, y se recarga antes."
+    },
+    "shape": "trident",
+    "iconAlt": "pandoras_box"
+  },
+  {
+    "id": "blade-waltz",
+    "icon": "bladewaltz",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Blade Waltz",
+      "zh": "利刃华尔兹",
+      "es": "Vals de Cuchillas"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with Blade Waltz: rapidly blink between nearby enemy champions, untargetable, dealing damage and applying on-hit effects.",
+      "zh": "把一个召唤师技能换成利刃华尔兹：在附近敌方英雄之间快速闪烁连斩，期间不可选中，造成伤害并触发攻击特效。",
+      "es": "Reemplaza un hechizo de invocador por Vals de Cuchillas: parpadeas entre campeones enemigos cercanos, inalcanzable, infligiendo daño y efectos al golpear."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "bouncing-bees",
+    "icon": "bouncingbees",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Bouncing Bees",
+      "zh": "弹跳蜜蜂",
+      "es": "Abejas Rebotadoras"
+    },
+    "description": {
+      "en": "After casting an ability, your next attack bounces a bee to another champion. Complete bounce quests to gain attack damage and longer bee chains.",
+      "zh": "施放技能后，下一次普攻会弹出一只蜜蜂打向另一名英雄。完成弹跳任务可获得攻击力和更长的蜜蜂连锁。",
+      "es": "Tras lanzar una habilidad, tu siguiente ataque hace rebotar una abeja a otro campeón. Completa misiones de rebote para ganar daño de ataque y cadenas más largas."
+    },
+    "shape": "up-arrow",
+    "iconAlt": "masterofduality"
+  },
+  {
+    "id": "cant-touch-this",
+    "icon": "canttouchthis",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Can't Touch This",
+      "zh": "你摸不到",
+      "es": "No Me Puedes Tocar"
+    },
+    "description": {
+      "en": "Casting your ultimate makes you invulnerable for 2 seconds.",
+      "zh": "施放大招后无敌2秒。",
+      "es": "Lanzar tu definitiva te vuelve invulnerable durante 2 segundos."
+    },
+    "shape": "cross-slash"
+  },
+  {
+    "id": "circle-of-death",
+    "icon": "circleofdeath",
+    "rarity": "prismatic",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Circle of Death",
+      "zh": "死亡之环",
+      "es": "Círculo de la Muerte"
+    },
+    "description": {
+      "en": "Most of the healing and health regen you do is also dealt as magic damage to the nearest enemy champion.",
+      "zh": "你产生的治疗和生命回复，有大部分会同时作为魔法伤害打向最近的敌方英雄。",
+      "es": "Gran parte de tu curación y regeneración también se inflige como daño mágico al campeón enemigo más cercano."
+    },
+    "shape": "shield-cross"
+  },
+  {
+    "id": "clown-college",
+    "icon": "clowncollege",
+    "rarity": "prismatic",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "Clown College",
+      "zh": "小丑学院",
+      "es": "Escuela de Payasos"
+    },
+    "description": {
+      "en": "Gain a clown kit: bonus damage when attacking from behind, a stealth blink that empowers your next attack, and a fear-box explosion when you die.",
+      "zh": "获得小丑套装：背后攻击额外伤害、隐身闪烁并强化下次普攻，死亡时爆炸并留下恐惧魔盒。",
+      "es": "Obtienes el kit de payaso: daño extra al atacar por la espalda, un parpadeo invisible que potencia tu siguiente ataque y una explosión con caja de miedo al morir."
+    },
+    "shape": "mask",
+    "iconLocal": "/augment-icons/mask-prismatic.webp"
+  },
+  {
+    "id": "courage-of-the-colossus",
+    "icon": "courageofthecolossus",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Courage of the Colossus",
+      "zh": "巨像的勇气",
+      "es": "Coraje del Coloso"
+    },
+    "description": {
+      "en": "Immobilizing or grounding an enemy champion gives you a shield based on your max health. Shields can stack.",
+      "zh": "定身或禁锢敌方英雄时获得基于最大生命值的护盾，护盾可以叠加。",
+      "es": "Inmovilizar o anclar a un campeón enemigo te da un escudo según tu vida máxima. Los escudos se acumulan."
+    },
+    "shape": "anchor"
+  },
+  {
+    "id": "cruelty",
+    "icon": "cruelty",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Cruelty",
+      "zh": "残忍",
+      "es": "Crueldad"
+    },
+    "description": {
+      "en": "Immobilizing or grounding an enemy champion drops a comet on them for magic damage.",
+      "zh": "定身或禁锢敌方英雄时，会在其头顶落下彗星造成魔法伤害。",
+      "es": "Inmovilizar o anclar a un campeón enemigo hace caer un cometa sobre él con daño mágico."
+    },
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/cauldron-prismatic.webp"
+  },
+  {
+    "id": "dashing",
+    "icon": "dashing",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Dashing",
+      "zh": "全凭身法",
+      "es": "Con Estilo"
+    },
+    "description": {
+      "en": "Abilities with dashes or blinks gain 175 ability haste.",
+      "zh": "带位移或闪烁的技能获得175技能急速。",
+      "es": "Las habilidades con desplazamiento o parpadeo ganan 175 de prisa."
+    },
+    "shape": "runner"
+  },
+  {
+    "id": "devil-on-your-shoulder",
+    "icon": "devilonyourshoulder",
+    "rarity": "prismatic",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Devil on Your Shoulder",
+      "zh": "Devil on Your Shoulder",
+      "es": "Diablo en el Hombro"
+    },
+    "description": {
+      "en": "A little devil drains your health in fights, but you deal bonus true damage and spawn health orbs that heal and speed you up.",
+      "zh": "小恶魔在战斗中吸取你的生命，但你造成额外真实伤害，并产生可回血加速的生命残余。",
+      "es": "Un diablillo drena tu vida en combate, pero infliges daño verdadero extra y generas orbes que te curan y aceleran."
+    },
+    "disabled": true,
+    "shape": "mask"
+  },
+  {
+    "id": "double-tap",
+    "icon": "doubletap",
+    "rarity": "prismatic",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Double Tap",
+      "zh": "双发快射",
+      "es": "Doble Toque"
+    },
+    "description": {
+      "en": "Critical strikes apply on-hit effects twice. Also grants 25% crit chance.",
+      "zh": "暴击时触发两次攻击特效，并获得25%暴击率。",
+      "es": "Los golpes críticos aplican efectos al golpear dos veces. También otorga un 25% de crítico."
+    },
+    "shape": "sword",
+    "iconAlt": "dualwield"
+  },
+  {
+    "id": "draw-your-sword",
+    "icon": "drawyoursword",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Draw Your Sword",
+      "zh": "亮出你的剑",
+      "es": "Desenvaina tu Espada"
+    },
+    "description": {
+      "en": "Become melee and gain attack damage, attack speed, health, movement speed and life steal, more if you normally have long range. Ranged champions only.",
+      "zh": "变成近战，并获得攻击力、攻速、生命值、移速和生命偷取，原本射程越远加得越多。仅限远程英雄。",
+      "es": "Te vuelves cuerpo a cuerpo y ganas daño, velocidad de ataque, vida, velocidad y robo de vida, más cuanto mayor fuera tu alcance. Solo campeones a distancia."
+    },
+    "rangedOnly": true,
+    "shape": "starburst"
+  },
+  {
+    "id": "dual-wield",
+    "icon": "dualwield",
+    "rarity": "prismatic",
+    "types": [
+      "marksman"
+    ],
+    "name": {
+      "en": "Dual Wield",
+      "zh": "双刀流",
+      "es": "Doble Empuñadura"
+    },
+    "description": {
+      "en": "Basic attacks also fire a bolt that deals part of the attack's damage and applies on-hit effects. Also grants bonus attack speed.",
+      "zh": "普攻会额外射出一道弩箭，造成部分伤害并触发攻击特效，同时获得额外攻速。",
+      "es": "Los ataques básicos disparan además un virote que inflige parte del daño y aplica efectos al golpear. También otorga velocidad de ataque."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "earthwake",
+    "icon": "earthwake",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Earthwake",
+      "zh": "大地苏醒",
+      "es": "Despertar Terrestre"
+    },
+    "description": {
+      "en": "Dashing or blinking leaves an explosive trail that damages enemies. Max 2 players per team can be offered this.",
+      "zh": "位移或闪烁后留下一道会爆炸的轨迹，伤害路径上的敌人。每队最多2人能刷到。",
+      "es": "Desplazarte o parpadear deja un rastro explosivo que daña a los enemigos. Solo se ofrece a 2 jugadores por equipo."
+    },
+    "maxPerTeam": 2,
+    "shape": "runner"
+  },
+  {
+    "id": "echo-cast",
+    "icon": "echocast",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Echo Cast",
+      "zh": "回响施放",
+      "es": "Eco"
+    },
+    "description": {
+      "en": "Upgrades one ability so casting it also summons an untargetable clone that casts it again.",
+      "zh": "强化一个技能，施放时召唤一个不可选中的分身再放一次。",
+      "es": "Mejora una habilidad para que al lanzarla invoque un clon inalcanzable que la lanza de nuevo."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "empowered-by-the-faithful",
+    "icon": "empoweredbythefaithful",
+    "rarity": "prismatic",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Empowered By The Faithful",
+      "zh": "信念者的强化",
+      "es": "Potenciado por los Fieles"
+    },
+    "description": {
+      "en": "Healing or shielding allies blesses them. Their damage builds Devotion, and at max stacks you release a huge shockwave that can execute low-health enemies.",
+      "zh": "治疗或护盾队友会赐福对方，队友造成伤害时积攒信念，叠满后释放巨型冲击波，可处决低血量敌人。",
+      "es": "Curar o escudar aliados los bendice. Su daño acumula Devoción y, al máximo, liberas una gran onda que puede ejecutar a enemigos con poca vida."
+    },
+    "shape": "people",
+    "iconLocal": "/augment-icons/people-prismatic.webp"
+  },
+  {
+    "id": "empyrean-promise",
+    "icon": "empyreanpromise",
+    "rarity": "prismatic",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Empyrean Promise",
+      "zh": "至高天诺言",
+      "es": "Promesa Empírea"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a dash to an ally that shields you both. Also grants bonus heal and shield power.",
+      "zh": "把一个召唤师技能换成冲向队友并为双方提供护盾的技能，同时提升治疗和护盾强度。",
+      "es": "Reemplaza un hechizo de invocador por un desplazamiento hacia un aliado que os escuda a ambos. También otorga poder de curación y escudo."
+    },
+    "shape": "trident",
+    "iconAlt": "pandoras_box"
+  },
+  {
+    "id": "en-passant",
+    "icon": "enpassant",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "En Passant",
+      "zh": "吃过路兵",
+      "es": "En Passant"
+    },
+    "description": {
+      "en": "Reveals weak points on nearby enemy champions. Hitting them from the right angle deals true damage based on max health, heals you and speeds you up.",
+      "zh": "显示附近敌方英雄的弱点，从正确方向命中会造成基于最大生命值的真实伤害，并为你回血加速。",
+      "es": "Revela puntos débiles en campeones enemigos cercanos. Golpearlos desde el ángulo correcto inflige daño verdadero según su vida máxima, te cura y te acelera."
+    },
+    "shape": "runner",
+    "iconAlt": "dashing"
+  },
+  {
+    "id": "eureka",
+    "icon": "eureka",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Eureka",
+      "zh": "尤里卡",
+      "es": "Eureka"
+    },
+    "description": {
+      "en": "Gain ability haste equal to 30% of your ability power.",
+      "zh": "获得等于30%法术强度的技能急速。",
+      "es": "Ganas prisa de habilidad igual al 30% de tu poder de habilidad."
+    },
+    "shape": "hourglass"
+  },
+  {
+    "id": "fey-magic",
+    "icon": "feymagic",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "support"
+    ],
+    "name": {
+      "en": "Fey Magic",
+      "zh": "精怪魔法",
+      "es": "Magia Feérica"
+    },
+    "description": {
+      "en": "Damaging enemies with your ultimate polymorphs them into harmless critters for 2 seconds.",
+      "zh": "用大招伤害敌人时，把对方变成无害的小动物2秒。",
+      "es": "Dañar enemigos con tu definitiva los transforma en criaturas inofensivas durante 2 segundos."
+    },
+    "shape": "cross-slash"
+  },
+  {
+    "id": "final-form",
+    "icon": "finalform",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Final Form",
+      "zh": "最终形态",
+      "es": "Forma Final"
+    },
+    "description": {
+      "en": "Casting your ultimate grants a big shield, omnivamp and movement speed for 10 seconds.",
+      "zh": "施放大招后10秒内获得大护盾、全能吸血和移速。",
+      "es": "Lanzar tu definitiva otorga un gran escudo, omnivampirismo y velocidad durante 10 segundos."
+    },
+    "shape": "cross-slash",
+    "iconAlt": "backtobasics"
+  },
+  {
+    "id": "giant-slayer",
+    "icon": "giantslayer",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Giant Slayer",
+      "zh": "巨人杀手",
+      "es": "Matagigantes"
+    },
+    "description": {
+      "en": "Become tiny and faster, and deal bonus damage to larger champions.",
+      "zh": "体型变得很小并加速，对体型比你大的英雄造成额外伤害。",
+      "es": "Te vuelves diminuto y más rápido, e infliges daño extra a campeones más grandes."
+    },
+    "shape": "boot"
+  },
+  {
+    "id": "glass-cannon",
+    "icon": "glasscannon",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "marksman"
+    ],
+    "name": {
+      "en": "Glass Cannon",
+      "zh": "玻璃大炮",
+      "es": "Cañón de Cristal"
+    },
+    "description": {
+      "en": "Your health is capped at 70% of max, but you deal bonus true damage on everything.",
+      "zh": "生命值上限被锁在最大值的70%，但所有伤害都会附带额外真实伤害。",
+      "es": "Tu vida queda limitada al 70% del máximo, pero todo tu daño incluye daño verdadero adicional."
+    },
+    "shape": "starburst",
+    "iconAlt": "bladewaltz"
+  },
+  {
+    "id": "goldrend",
+    "icon": "goldrend",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Goldrend",
+      "zh": "夺金",
+      "es": "Desgarro Dorado"
+    },
+    "description": {
+      "en": "Hitting a champion deals bonus magic damage, gives gold and a burst of speed. Once per champion every 30 seconds.",
+      "zh": "命中英雄时造成额外魔法伤害，并获得金币和移速，每名英雄30秒触发一次。",
+      "es": "Golpear a un campeón inflige daño mágico extra y da oro y velocidad. Una vez por campeón cada 30 segundos."
+    },
+    "shape": "starburst",
+    "iconAlt": "bladewaltz"
+  },
+  {
+    "id": "goliath",
+    "icon": "goliath",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Goliath",
+      "zh": "歌利亚巨人",
+      "es": "Goliat"
+    },
+    "description": {
+      "en": "Grow 50% larger and gain bonus health and adaptive force.",
+      "zh": "体型变大50%，获得额外生命值和自适应之力。",
+      "es": "Creces un 50% y ganas vida adicional y fuerza adaptativa."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "group-hug",
+    "icon": "grouphug",
+    "rarity": "prismatic",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Group Hug",
+      "zh": "一起抱抱",
+      "es": "Abrazo Grupal"
+    },
+    "description": {
+      "en": "Upgrades an ally-targeted heal or shield so it also hits the two nearest allies.",
+      "zh": "强化一个指向队友的治疗或护盾技能，让它同时作用于附近另外两名队友。",
+      "es": "Mejora una curación o escudo a un aliado para que también afecte a los dos aliados más cercanos."
+    },
+    "shape": "trident",
+    "iconAlt": "pandoras_box"
+  },
+  {
+    "id": "hand-of-baron",
+    "icon": "handofbaron",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "support"
+    ],
+    "name": {
+      "en": "Hand of Baron",
+      "zh": "男爵之手",
+      "es": "Mano del Barón"
+    },
+    "description": {
+      "en": "Gain a Baron buff that grants adaptive force and greatly empowers nearby allied minions.",
+      "zh": "获得男爵增益，提供自适应之力并大幅强化附近友方小兵。",
+      "es": "Obtienes una mejora de Barón que otorga fuerza adaptativa y potencia mucho a los súbditos aliados cercanos."
+    },
+    "shape": "people",
+    "iconLocal": "/augment-icons/people-prismatic.webp"
+  },
+  {
+    "id": "hellbent",
+    "icon": "hellbent",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Hellbent",
+      "zh": "濒死悟道",
+      "es": "Empeñado"
+    },
+    "description": {
+      "en": "Hitting champions builds stacks. At max stacks, lethal damage puts you into a brief revival instead, then you return powered up. Long cooldown.",
+      "zh": "命中英雄会叠层，叠满时受到致命伤害改为进入短暂复活状态，随后强化归来。冷却较长。",
+      "es": "Golpear campeones acumula cargas. Al máximo, el daño letal te hace revivir brevemente y vuelves potenciado. Enfriamiento largo."
+    },
+    "shape": "shield",
+    "iconLocal": "/augment-icons/shield-prismatic.webp"
+  },
+  {
+    "id": "holy-snowball",
+    "icon": "holysnowball",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "assassin"
+    ],
+    "name": {
+      "en": "Holy Snowball",
+      "zh": "神圣雪球",
+      "es": "Bola de Nieve Sagrada"
+    },
+    "description": {
+      "en": "After dashing with Mark, you're invulnerable for 1.5 seconds on arrival. Mark comes back much faster.",
+      "zh": "用雪球（标记）冲过去后，落地无敌1.5秒，标记冷却大幅缩短。",
+      "es": "Tras desplazarte con Marca eres invulnerable 1,5 segundos al llegar. Marca se recarga mucho antes."
+    },
+    "shape": "trident",
+    "iconAlt": "pandoras_box"
+  },
+  {
+    "id": "infernal-conduit",
+    "icon": "infernalconduit",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Infernal Conduit",
+      "zh": "炼狱导管",
+      "es": "Conducto Infernal"
+    },
+    "description": {
+      "en": "Your ability hits apply a stacking burn, and every burn tick shortens your basic ability cooldowns.",
+      "zh": "技能命中会附加可叠加的灼烧，所有灼烧每跳一次都会缩短你的基础技能冷却。",
+      "es": "Tus habilidades aplican una quemadura acumulable, y cada tic de quemadura reduce los enfriamientos de tus habilidades básicas."
+    },
+    "shape": "fire",
+    "iconLocal": "/augment-icons/fire-prismatic.webp"
+  },
+  {
+    "id": "infinite-recursion",
+    "icon": "infiniterecursion",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Infinite Recursion",
+      "zh": "无限循环往复",
+      "es": "Recursión Infinita"
+    },
+    "description": {
+      "en": "Gain 60 ability haste, plus more with every takedown.",
+      "zh": "获得60技能急速，每次参与击杀再继续增加。",
+      "es": "Ganas 60 de prisa de habilidad, y más con cada derribo."
+    },
+    "shape": "hourglass",
+    "iconAlt": "eureka"
+  },
+  {
+    "id": "jeweled-gauntlet",
+    "icon": "jeweledgauntlet",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Jeweled Gauntlet",
+      "zh": "珠光护手",
+      "es": "Guantelete Enjoyado"
+    },
+    "description": {
+      "en": "Your abilities can crit, and you gain crit chance that grows with your ability power.",
+      "zh": "技能可以暴击，并获得随法术强度提升的暴击率。",
+      "es": "Tus habilidades pueden ser críticas y ganas probabilidad de crítico que crece con tu poder de habilidad."
+    },
+    "shape": "wisp"
+  },
+  {
+    "id": "king-me",
+    "icon": "kingme",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "King Me",
+      "zh": "尊我为王",
+      "es": "Coróname"
+    },
+    "description": {
+      "en": "Reach the enemy base to become Kinged: gain a random Prismatic augment and upgrade your first legendary item.",
+      "zh": "首次闯到敌方出生点附近即可加冕：获得一个随机棱彩符文，并升级你的第一件传说装备。",
+      "es": "Llega cerca de la base enemiga para ser coronado: ganas un aumento Prismático aleatorio y mejoras tu primer objeto legendario."
+    },
+    "shape": "up-arrow",
+    "iconAlt": "masterofduality"
+  },
+  {
+    "id": "mad-scientist",
+    "icon": "madscientist",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Mad Scientist",
+      "zh": "科学狂人",
+      "es": "Científico Loco"
+    },
+    "description": {
+      "en": "Each time you get this and every respawn, randomly become either big and powerful or small and fast.",
+      "zh": "获得时及每次复活，随机变成「大只强力」或「小只灵活」两种形态之一。",
+      "es": "Al obtenerlo y cada vez que reapareces, te vuelves al azar grande y poderoso o pequeño y rápido."
+    },
+    "shape": "starburst"
+  },
+  {
+    "id": "master-of-duality",
+    "icon": "masterofduality",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Master of Duality",
+      "zh": "物法皆修",
+      "es": "Maestro de la Dualidad"
+    },
+    "description": {
+      "en": "Attacks stack ability power and abilities stack attack damage, both refreshing on hit and stacking without limit.",
+      "zh": "普攻叠法术强度，技能叠攻击力，两者命中时刷新且无限叠加。",
+      "es": "Los ataques acumulan poder de habilidad y las habilidades daño de ataque; ambos se renuevan al golpear y se acumulan sin límite."
+    },
+    "shape": "up-arrow"
+  },
+  {
+    "id": "mosh-monster",
+    "icon": "moshmonster",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Mosh Monster",
+      "zh": "热舞怪兽",
+      "es": "Monstruo del Pogo"
+    },
+    "description": {
+      "en": "Casting your ultimate grants bonus health and slows nearby enemies. Takedowns permanently make the effect stronger.",
+      "zh": "施放大招时获得额外生命值并减速周围敌人，参与击杀会永久强化这个效果。",
+      "es": "Lanzar tu definitiva otorga vida extra y ralentiza a los cercanos. Los derribos fortalecen el efecto permanentemente."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "multishot",
+    "icon": "multishot",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "marksman"
+    ],
+    "name": {
+      "en": "Multishot",
+      "zh": "多重射击",
+      "es": "Disparo Múltiple"
+    },
+    "description": {
+      "en": "Quest: hit champions with a chosen skillshot. Each completed tier makes that ability fire one more missile in a cone.",
+      "zh": "任务：用指定的飞行技能命中英雄。每完成一阶段，该技能就多发射一枚飞弹，呈扇形射出。",
+      "es": "Misión: golpea campeones con un proyectil concreto. Cada fase completada añade un proyectil más en cono a esa habilidad."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "mystic-punch",
+    "icon": "mysticpunch",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Mystic Punch",
+      "zh": "秘术冲拳",
+      "es": "Golpe Místico"
+    },
+    "description": {
+      "en": "Basic attacks reduce your ability cooldowns.",
+      "zh": "普攻会缩短技能冷却。",
+      "es": "Los ataques básicos reducen el enfriamiento de tus habilidades."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "ominous-pact",
+    "icon": "ominouspact",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ominous Pact",
+      "zh": "不祥契约",
+      "es": "Pacto Siniestro"
+    },
+    "description": {
+      "en": "Abilities cost health, but the more health you're missing, the more ability power, movement speed and omnivamp you gain.",
+      "zh": "技能改为消耗生命值，但已损失的生命值越多，获得的法术强度、移速和全能吸血越多。",
+      "es": "Las habilidades cuestan vida, pero cuanta más te falte, más poder de habilidad, velocidad y omnivampirismo ganas."
+    },
+    "shape": "up-arrow",
+    "iconAlt": "masterofduality"
+  },
+  {
+    "id": "omni-soul",
+    "icon": "omnisoul",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "tank"
+    ],
+    "name": {
+      "en": "Omni Soul",
+      "zh": "全能龙魂",
+      "es": "Alma Omni"
+    },
+    "description": {
+      "en": "Grants 3 random Dragon Souls.",
+      "zh": "获得3个随机龙魂。",
+      "es": "Otorga 3 Almas de Dragón aleatorias."
+    },
+    "shape": "dice"
+  },
+  {
+    "id": "overloaded",
+    "icon": "overloaded",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Overloaded",
+      "zh": "超负荷",
+      "es": "Sobrecargado"
+    },
+    "description": {
+      "en": "Upgrades one ability so its cooldown resets whenever you cast a different ability.",
+      "zh": "强化一个技能，每次施放其他技能时，它的冷却都会重置。",
+      "es": "Mejora una habilidad para que su enfriamiento se reinicie cada vez que lanzas otra distinta."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "pandoras-box",
+    "icon": "pandoras_box",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "assassin"
+    ],
+    "name": {
+      "en": "Pandora's Box",
+      "zh": "潘朵拉的盒子",
+      "es": "Caja de Pandora"
+    },
+    "description": {
+      "en": "Gain a random Prismatic augment, and all your current augments turn into random Prismatic ones too.",
+      "zh": "获得一个随机棱彩符文，并且你已有的所有符文也全部变成随机棱彩符文。",
+      "es": "Ganas un aumento Prismático aleatorio y todos tus aumentos actuales se convierten también en Prismáticos aleatorios."
+    },
+    "shape": "trident"
+  },
+  {
+    "id": "pin-cushion",
+    "icon": "pincushion",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Pin Cushion",
+      "zh": "针插垫",
+      "es": "Alfiletero"
+    },
+    "description": {
+      "en": "Upgrades a duration ability: attacks during it stick nails in champions that burst for physical damage when it ends.",
+      "zh": "强化一个有持续时间的技能：期间普攻会在英雄身上钉入钉子，效果结束时引爆造成物理伤害。",
+      "es": "Mejora una habilidad con duración: los ataques durante ella clavan clavos en campeones que estallan con daño físico al terminar."
+    },
+    "shape": "sword",
+    "iconAlt": "dualwield"
+  },
+  {
+    "id": "prom-queen",
+    "icon": "promqueen",
+    "rarity": "prismatic",
+    "types": [
+      "support",
+      "tank"
+    ],
+    "name": {
+      "en": "Prom Queen",
+      "zh": "舞会女王",
+      "es": "Reina del Baile"
+    },
+    "description": {
+      "en": "Periodically break into a ghosted sprint that knocks down and charms enemies you run into.",
+      "zh": "定期进入迷人冲刺状态，获得幽灵效果和移速，撞到的敌人会被击倒并魅惑。",
+      "es": "Periódicamente echas a correr con efecto fantasmal, derribando y hechizando a los enemigos con los que chocas."
+    },
+    "shape": "anchor",
+    "iconAlt": "courageofthecolossus"
+  },
+  {
+    "id": "protein-shake",
+    "icon": "proteinshake",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Protein Shake",
+      "zh": "蛋白粉奶昔",
+      "es": "Batido de Proteínas"
+    },
+    "description": {
+      "en": "Gain heal and shield power that grows with your bonus armor and magic resistance.",
+      "zh": "获得治疗和护盾强度，额外护甲和魔抗越高加得越多。",
+      "es": "Ganas poder de curación y escudo que crece con tu armadura y resistencia mágica adicionales."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "circleofdeath"
+  },
+  {
+    "id": "quantum-computing",
+    "icon": "quantumcomputing",
+    "rarity": "prismatic",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Quantum Computing",
+      "zh": "Quantum Computing",
+      "es": "Computación Cuántica"
+    },
+    "description": {
+      "en": "Automatically slash around you when enemies are near. The outer edge deals bonus damage, slows and heals you.",
+      "zh": "敌人靠近时自动向周围挥砍，外圈命中造成额外伤害、减速并为你回血。",
+      "es": "Lanzas tajos automáticos a tu alrededor si hay enemigos cerca. El borde exterior inflige daño extra, ralentiza y te cura."
+    },
+    "disabled": true,
+    "shape": "gear-claw"
+  },
+  {
+    "id": "quest-icathias-fall",
+    "icon": "questicathiasfall",
+    "rarity": "prismatic",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Quest: Icathia's Fall",
+      "zh": "艾卡西亚的陷落",
+      "es": "Misión: La Caída de Icathia"
+    },
+    "description": {
+      "en": "Lets you stack burn-aura items. Quest: build Hollow Radiance and Sunfire Aegis. Reward: they merge into Void Immolation.",
+      "zh": "允许叠加献祭类装备。任务：做出空无光辉和日炎圣盾。奖励：二者合成虚空献祭。",
+      "es": "Permite acumular objetos de aura de quemadura. Misión: consigue Resplandor Vacío y Égida de Fuego Solar. Recompensa: se fusionan en Inmolación del Vacío."
+    },
+    "shape": "fire",
+    "iconLocal": "/augment-icons/fire-prismatic.webp"
+  },
+  {
+    "id": "quest-sneakerhead",
+    "icon": "questsneakerhead",
+    "rarity": "prismatic",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Quest: Sneakerhead",
+      "zh": "Quest: Sneakerhead",
+      "es": "Misión: Coleccionista de Zapatillas"
+    },
+    "description": {
+      "en": "Complete a series of quests with free boots to unlock a special pair.",
+      "zh": "穿着免费赠送的各种鞋子完成一系列任务，解锁一双特殊鞋子。",
+      "es": "Completa una serie de misiones con botas gratuitas para desbloquear un par especial."
+    },
+    "disabled": true,
+    "shape": "runner",
+    "iconAlt": "dashing"
+  },
+  {
+    "id": "quest-urfs-champion",
+    "icon": "questurfschampion",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "assassin"
+    ],
+    "name": {
+      "en": "Quest: Urf's Champion",
+      "zh": "海牛阿福的勇士",
+      "es": "Misión: Campeón de Urf"
+    },
+    "description": {
+      "en": "Quest: score 18 champion takedowns. Reward: The Golden Spatula.",
+      "zh": "任务：参与击杀英雄18次。奖励：金铲铲。",
+      "es": "Misión: consigue 18 derribos de campeones. Recompensa: La Espátula Dorada."
+    },
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/cauldron-prismatic.webp"
+  },
+  {
+    "id": "quest-wooglets-witchcap",
+    "icon": "questwoogletswitchcap",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Quest: Wooglet's Witchcap",
+      "zh": "沃格勒特的巫师帽",
+      "es": "Misión: Sombrero de Wooglet"
+    },
+    "description": {
+      "en": "Get a Needlessly Large Rod now. Quest: build Rabadon's Deathcap and Zhonya's Hourglass. Reward: they merge into Wooglet's Witchcap.",
+      "zh": "立刻获得一根无用大棒。任务：做出灭世者的死亡之帽和中娅沙漏。奖励：二者合成沃格勒特的巫师帽。",
+      "es": "Recibes una Vara Innecesariamente Grande. Misión: consigue Sombrero de Rabadon y Reloj de Arena de Zhonya. Recompensa: se fusionan en el Sombrero de Wooglet."
+    },
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/cauldron-prismatic.webp"
+  },
+  {
+    "id": "rite-of-ascension",
+    "icon": "riteofascension",
+    "rarity": "prismatic",
+    "types": [
+      "assassin",
+      "fighter"
+    ],
+    "name": {
+      "en": "Rite of Ascension",
+      "zh": "飞升仪式",
+      "es": "Rito de Ascensión"
+    },
+    "description": {
+      "en": "Takedowns leave an Essence. Attack it to blink there untargetable, heal, gain speed and reset your basic ability cooldowns.",
+      "zh": "参与击杀后留下精魄，攻击它即可不可选中地闪烁过去，回血加速并重置基础技能冷却。",
+      "es": "Los derribos dejan una Esencia. Atácala para parpadear hasta ella inalcanzable, curarte, ganar velocidad y reiniciar tus habilidades básicas."
+    },
+    "shape": "starburst",
+    "iconAlt": "bladewaltz"
+  },
+  {
+    "id": "scopiest-weapons",
+    "icon": "scopiestweapons",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Scopiest Weapons",
+      "zh": "最万用的瞄准镜",
+      "es": "Armas con Muchísima Mira"
+    },
+    "description": {
+      "en": "Grants a lot of bonus attack range, extra for melee champions.",
+      "zh": "获得大量额外攻击距离，近战英雄加得更多。",
+      "es": "Otorga mucho alcance de ataque, extra para cuerpo a cuerpo."
+    },
+    "shape": "arrow",
+    "iconLocal": "/augment-icons/arrow-prismatic.webp"
+  },
+  {
+    "id": "spell-split",
+    "icon": "spellsplit",
+    "rarity": "prismatic",
+    "types": [
+      "mage"
+    ],
+    "name": {
+      "en": "Spell Split",
+      "zh": "咒语裂变",
+      "es": "División de Hechizo"
+    },
+    "description": {
+      "en": "Upgrades a skillshot so it splits into two side missiles at max range or when recast.",
+      "zh": "强化一个飞行技能，飞到最远处或再次施放时分裂成两枚向两侧飞出的飞弹。",
+      "es": "Mejora un proyectil para que se divida en dos laterales al alcance máximo o al reactivarlo."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "spirit-bomb",
+    "icon": "spiritbomb",
+    "rarity": "prismatic",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Spirit Bomb",
+      "zh": "灵魂炸弹",
+      "es": "Bomba Espiritual"
+    },
+    "description": {
+      "en": "Healing and shielding charges a Spirit Bomb that you toss to the most wounded ally, healing and shielding everyone it lands on.",
+      "zh": "治疗和护盾会充能灵魂炸弹，充满后投向血量最低的队友，为落点范围内的队友回血并加护盾。",
+      "es": "Curar y escudar carga una Bomba Espiritual que lanzas al aliado más herido, curando y escudando a todos en la zona."
+    },
+    "shape": "heart",
+    "iconLocal": "/augment-icons/heart-prismatic.webp"
+  },
+  {
+    "id": "squishy-slappy-grab",
+    "icon": "squishyslappygrab",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "support"
+    ],
+    "name": {
+      "en": "Squishy Slappy Grab",
+      "zh": "软弹啪叽抓",
+      "es": "Agarre Blandito"
+    },
+    "description": {
+      "en": "When enemies get close, tether them all. Your next attack pulls every tethered enemy toward you, damaging and stunning them, and shields you.",
+      "zh": "敌人靠近时用手牵住周围所有敌人，下一次普攻把他们全部拽过来，造成伤害并眩晕，同时为你提供护盾。",
+      "es": "Si hay enemigos cerca, los atas a todos. Tu siguiente ataque los atrae hacia ti, los daña, los aturde y te escuda."
+    },
+    "shape": "anchor",
+    "iconAlt": "courageofthecolossus"
+  },
+  {
+    "id": "stats-on-stats-on-stats",
+    "icon": "statsonstatsonstats",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Stats on Stats on Stats!",
+      "zh": "属性叠属性叠属性！",
+      "es": "¡Estadísticas al Cubo!"
+    },
+    "description": {
+      "en": "Gain 4 Stat Anvils with better odds of Gold and Prismatic ones, plus an extra reroll next augment round.",
+      "zh": "获得4个属性铁砧，出金色和棱彩的几率更高，下一轮选符文每个槽位多一次刷新。",
+      "es": "Ganas 4 Yunques de Estadísticas con más probabilidad de Oro y Prismático, y una tirada extra en la siguiente ronda de aumentos."
+    },
+    "shape": "dice",
+    "iconAlt": "omnisoul"
+  },
+  {
+    "id": "stuck-in-here-with-me",
+    "icon": "stuckinherewithme",
+    "rarity": "prismatic",
+    "types": [
+      "tank"
+    ],
+    "name": {
+      "en": "Stuck in Here With Me",
+      "zh": "和我一起困在这里",
+      "es": "Atrapados Conmigo"
+    },
+    "description": {
+      "en": "After casting your ultimate, a growing aura taunts every enemy inside it and you take less damage. Also grants ultimate haste.",
+      "zh": "施放大招后产生一个逐渐变大的光环，结束时嘲讽范围内所有敌人，你同时获得减伤和大招急速。",
+      "es": "Tras lanzar tu definitiva, un aura creciente provoca a todos los enemigos dentro y recibes menos daño. También otorga prisa de definitiva."
+    },
+    "shape": "people",
+    "iconLocal": "/augment-icons/people-prismatic.webp"
+  },
+  {
+    "id": "surge-field",
+    "icon": "surgefield",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Surge Field",
+      "zh": "电涌力场",
+      "es": "Campo de Sobrecarga"
+    },
+    "description": {
+      "en": "Casting your ultimate creates a zone. Inside it you gain ability haste and speed, and your damage fires extra magic missiles.",
+      "zh": "施放大招时在脚下生成力场，在力场内获得技能急速和移速，造成伤害时额外发射魔法飞弹。",
+      "es": "Lanzar tu definitiva crea una zona. Dentro ganas prisa y velocidad, y tu daño dispara proyectiles mágicos extra."
+    },
+    "shape": "cross-slash",
+    "iconAlt": "backtobasics"
+  },
+  {
+    "id": "symphony-of-war",
+    "icon": "symphonyofwar",
+    "rarity": "prismatic",
+    "types": [
+      "fighter",
+      "marksman"
+    ],
+    "name": {
+      "en": "Symphony of War",
+      "zh": "战争交响乐",
+      "es": "Sinfonía de Guerra"
+    },
+    "description": {
+      "en": "Grants both Conqueror and Lethal Tempo.",
+      "zh": "同时获得征服者和致命节奏两个基石符文。",
+      "es": "Otorga Conquistador y Ritmo Letal a la vez."
+    },
+    "shape": "sword"
+  },
+  {
+    "id": "tap-dancer",
+    "icon": "tapdancer",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Tap Dancer",
+      "zh": "踢踏舞",
+      "es": "Claqué"
+    },
+    "description": {
+      "en": "Basic attacks stack movement speed without limit, and you gain attack speed based on your movement speed.",
+      "zh": "普攻可无限叠加移速，并根据移速获得额外攻速。",
+      "es": "Los ataques básicos acumulan velocidad sin límite y ganas velocidad de ataque según tu velocidad de movimiento."
+    },
+    "shape": "up-arrow"
+  },
+  {
+    "id": "third-times-the-harm",
+    "icon": "thirdtimestheharm",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Third Times the Harm",
+      "zh": "伤不过三",
+      "es": "A la Tercera Duele"
+    },
+    "description": {
+      "en": "Every third attack on the same champion deals bonus true damage based on their max health and grants a permanent stack that adds more.",
+      "zh": "对同一英雄每第三次普攻造成基于其最大生命值的额外真实伤害，并永久叠加一层，让伤害更高。",
+      "es": "Cada tercer ataque al mismo campeón inflige daño verdadero extra según su vida máxima y otorga una carga permanente que lo aumenta."
+    },
+    "shape": "sword",
+    "iconAlt": "dualwield"
+  },
+  {
+    "id": "titans-resolve",
+    "icon": "titansresolve",
+    "rarity": "prismatic",
+    "types": [
+      "tank",
+      "fighter"
+    ],
+    "name": {
+      "en": "Titan's Resolve",
+      "zh": "泰坦的坚决",
+      "es": "Determinación del Titán"
+    },
+    "description": {
+      "en": "Dealing or taking damage builds stacks that grant damage, resistances, size and tenacity. Stacks fall off over time.",
+      "zh": "造成或受到伤害都会叠层，获得攻击力或法强、双抗、体型和韧性，层数会随时间流失。",
+      "es": "Infligir o recibir daño acumula cargas que otorgan daño, resistencias, tamaño y tenacidad. Las cargas se pierden con el tiempo."
+    },
+    "shape": "shield",
+    "iconLocal": "/augment-icons/shield-prismatic.webp"
+  },
+  {
+    "id": "totentanz",
+    "icon": "totentanz",
+    "rarity": "prismatic",
+    "types": [
+      "assassin"
+    ],
+    "name": {
+      "en": "Totentanz",
+      "zh": "死之舞",
+      "es": "Totentanz"
+    },
+    "description": {
+      "en": "Replaces a summoner spell with a deadly pact: blink in invulnerable and get a takedown within 6 seconds to heal and escape back, or be executed.",
+      "zh": "把一个召唤师技能换成死亡契约：无敌闪烁突进，6秒内拿到击杀就回血并闪回原处，否则被处决。",
+      "es": "Reemplaza un hechizo de invocador por un pacto mortal: parpadeas invulnerable y, si consigues un derribo en 6 segundos, te curas y vuelves; si no, eres ejecutado."
+    },
+    "shape": "mask",
+    "iconLocal": "/augment-icons/mask-prismatic.webp"
+  },
+  {
+    "id": "transmute-chaos",
+    "icon": "transmutechaos",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "tank"
+    ],
+    "name": {
+      "en": "Transmute: Chaos",
+      "zh": "质变：混沌",
+      "es": "Transmutar: Caos"
+    },
+    "description": {
+      "en": "Gain two completely random augments, never the other two on offer.",
+      "zh": "获得两个完全随机的符文，不会是本轮另外两个选项。",
+      "es": "Ganas dos aumentos totalmente aleatorios, nunca las otras dos opciones ofrecidas."
+    },
+    "shape": "dice"
+  },
+  {
+    "id": "triggered-inferno",
+    "icon": "triggeredinferno",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "fighter"
+    ],
+    "name": {
+      "en": "Triggered Inferno",
+      "zh": "扳机炼狱",
+      "es": "Infierno Desatado"
+    },
+    "description": {
+      "en": "Hitting different champions builds Style and speed. At max Style, unleash a burst of shots on nearby enemies that crit low-health targets.",
+      "zh": "交替命中不同英雄会积累风格评级并加速，评级满时向附近敌人疯狂扫射，对低血量目标造成暴击。",
+      "es": "Golpear a campeones distintos acumula Estilo y velocidad. Con Estilo máximo desatas una ráfaga de disparos que hace crítico a objetivos con poca vida."
+    },
+    "shape": "starburst",
+    "iconAlt": "bladewaltz"
+  },
+  {
+    "id": "tripleshot",
+    "icon": "tripleshot",
+    "rarity": "prismatic",
+    "types": [
+      "marksman",
+      "mage"
+    ],
+    "name": {
+      "en": "Tripleshot",
+      "zh": "三重射击",
+      "es": "Triple Disparo"
+    },
+    "description": {
+      "en": "Upgrades a targeted missile ability so it also hits two more enemies near the target.",
+      "zh": "强化一个指向性飞弹技能，让它同时命中目标附近的另外两名敌人。",
+      "es": "Mejora una habilidad de proyectil con objetivo para que también golpee a dos enemigos cercanos al objetivo."
+    },
+    "shape": "wisp",
+    "iconAlt": "jeweledgauntlet"
+  },
+  {
+    "id": "ultimate-awakening",
+    "icon": "ultimateawakening",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ultimate Awakening",
+      "zh": "终极唤醒",
+      "es": "Despertar Definitivo"
+    },
+    "description": {
+      "en": "Casting your ultimate resets your basic abilities and gives them huge ability haste for 15 seconds. Also grants ultimate haste.",
+      "zh": "施放大招会重置基础技能，并在15秒内获得极高的基础技能急速，同时获得大招急速。",
+      "es": "Lanzar tu definitiva reinicia tus habilidades básicas y les da muchísima prisa durante 15 segundos. También otorga prisa de definitiva."
+    },
+    "shape": "cross-slash",
+    "iconAlt": "backtobasics"
+  },
+  {
+    "id": "ultimate-revolution",
+    "icon": "ultimaterevolution",
+    "rarity": "prismatic",
+    "types": [
+      "mage",
+      "fighter"
+    ],
+    "name": {
+      "en": "Ultimate Revolution",
+      "zh": "终极刷新",
+      "es": "Revolución Definitiva"
+    },
+    "description": {
+      "en": "Casting your ultimate refreshes it once, so you can cast it again. Long cooldown, resets on death.",
+      "zh": "施放大招后会刷新一次，可以再放一次。冷却较长，死亡后重置。",
+      "es": "Lanzar tu definitiva la renueva una vez para volver a usarla. Enfriamiento largo, se reinicia al morir."
+    },
+    "shape": "cross-slash"
+  },
+  {
+    "id": "ultra-hydra",
+    "icon": "ultrahydra",
+    "rarity": "prismatic",
+    "types": [
+      "fighter"
+    ],
+    "name": {
+      "en": "Ultra Hydra",
+      "zh": "终极九头蛇",
+      "es": "Ultrahidra"
+    },
+    "description": {
+      "en": "Lets you stack Hydra items and gives a free Tiamat with legendary Hydras. Quest: build three Hydras to merge them into Ultra Hydra.",
+      "zh": "允许叠加九头蛇类装备，做出传说九头蛇还送提亚马特。任务：做出三把九头蛇，合成终极九头蛇。",
+      "es": "Permite acumular objetos Hidra y regala un Tiamat con Hidras legendarias. Misión: consigue tres Hidras para fusionarlas en la Ultrahidra."
+    },
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/cauldron-prismatic.webp"
+  },
+  {
+    "id": "upgrade-sword-of-blossoming-dawn",
+    "icon": "upgradeswordofblossomingdawn",
+    "rarity": "prismatic",
+    "types": [
+      "support",
+      "marksman"
+    ],
+    "name": {
+      "en": "Upgrade Sword of Blossoming Dawn",
+      "zh": "升级：花晓之剑",
+      "es": "Mejora: Espada del Alba Florida"
+    },
+    "description": {
+      "en": "Upgrades Sword of Blossoming Dawn so its heal is much stronger. Also grants 100% bonus attack speed.",
+      "zh": "升级花晓之剑，治疗效果大幅提高，并获得100%额外攻速。",
+      "es": "Mejora la Espada del Alba Florida para que cure mucho más. También otorga un 100% de velocidad de ataque."
+    },
+    "shape": "heart",
+    "iconLocal": "/augment-icons/heart-prismatic.webp"
+  },
+  {
+    "id": "windspeakers-blessing",
+    "icon": "windspeakersblessing",
+    "rarity": "prismatic",
+    "types": [
+      "support"
+    ],
+    "name": {
+      "en": "Windspeaker's Blessing",
+      "zh": "风语者的祝福",
+      "es": "Bendición del Hablavientos"
+    },
+    "description": {
+      "en": "Your heals and shields also grant the target bonus armor and magic resistance for a few seconds.",
+      "zh": "你的治疗和护盾会让目标在数秒内获得额外护甲和魔抗。",
+      "es": "Tus curaciones y escudos también dan al objetivo armadura y resistencia mágica extra unos segundos."
+    },
+    "shape": "shield-cross",
+    "iconAlt": "circleofdeath"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Home": {
+    "title": "ARAM: Mayhem 查询站",
+    "subtitle": "最强符文搭配、装备推荐，一查就有",
+    "searchPlaceholder": "搜索英雄 / 强化符文 / 装备...",
+    "championsTitle": "英雄查询",
+    "championsDesc": "最适配的符文与装备",
+    "augmentsTitle": "符文查询",
+    "augmentsDesc": "银/金/棱彩全收录",
+    "itemsTitle": "装备查询",
+    "itemsDesc": "专属装备一览"
+  },
+  "Augments": {
+    "pageTitle": "强化符文",
+    "searchPlaceholder": "搜索符文...",
+    "filterAll": "全部",
+    "filterSilver": "银",
+    "filterGold": "金",
+    "filterPrismatic": "棱彩"
+  }
+}
