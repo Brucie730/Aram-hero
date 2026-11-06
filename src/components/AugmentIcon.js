@@ -5,12 +5,12 @@ import {useState, useRef, useEffect} from 'react';
 const CDRAGON = 'https://raw.communitydragon.org/latest/game/assets/ux/cherry/augments/icons/';
 
 // 按顺序排出这个符文可以尝试的图片：
-// 1. 自己的 CDragon 图标  2. 同形状同颜色的替身图标（iconAlt）  3. 本地下载的形状图标  4. 都不行就显示灰色方块
+// 1. 本地图（public/augment-icons/）  2. 自己的 CDragon 图标  3. 同形状同颜色的替身图标（iconAlt）  4. 都不行就显示灰色方块
 function getSources(augment) {
   const list = [];
+  if (augment.iconLocal) list.push(augment.iconLocal);
   if (augment.icon) list.push(`${CDRAGON}${augment.icon}_large.png`);
   if (augment.iconAlt) list.push(`${CDRAGON}${augment.iconAlt}_large.png`);
-  if (augment.iconLocal) list.push(augment.iconLocal);
   return list;
 }
 
