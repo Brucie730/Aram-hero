@@ -17,7 +17,8 @@
       "zh": "把全部额外攻击力转化为法术强度，再额外提升15%法术强度。",
       "es": "Convierte todo tu daño de ataque adicional en poder de habilidad y luego lo aumenta un 15%."
     },
-    "shape": "cauldron"
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/adapt.png"
   },
   {
     "id": "adamant",
@@ -59,7 +60,8 @@
       "es": "Mejora una habilidad: al golpear a un campeón enemigo con ella ganas armadura o resistencia mágica acumulable durante unos segundos, según su tipo de daño."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/adaptive-ward.png"
   },
   {
     "id": "blue-barrier",
@@ -80,7 +82,8 @@
       "es": "Gastar maná otorga un escudo breve basado en el maná gastado. Los escudos de varios lanzamientos se acumulan, cada uno con un límite según el nivel."
     },
     "shape": "shield-cross",
-    "iconAlt": "firstaidkit"
+    "iconAlt": "firstaidkit",
+    "iconLocal": "/augment-icons/blue-barrier.png"
   },
   {
     "id": "blunt-force",
@@ -100,7 +103,8 @@
       "zh": "攻击力提升20%。",
       "es": "Aumenta tu daño de ataque un 20%."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/blunt-force.png"
   },
   {
     "id": "bolstered",
@@ -121,7 +125,8 @@
       "es": "Mejora una habilidad de escudo: el escudo es hasta un 60% más fuerte cuanta más vida le falte al objetivo."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/bolstered.png"
   },
   {
     "id": "deft",
@@ -141,7 +146,8 @@
       "zh": "获得60%额外攻击速度。",
       "es": "Otorga un 60% de velocidad de ataque adicional."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/deft.png"
   },
   {
     "id": "dive-bomber",
@@ -161,7 +167,8 @@
       "zh": "死亡时发生爆炸，对附近敌人造成基于其最大生命值的真实伤害。",
       "es": "Al morir, explotas e infliges daño verdadero según la vida máxima de los enemigos cercanos."
     },
-    "shape": "broken-heart"
+    "shape": "broken-heart",
+    "iconLocal": "/augment-icons/dive-bomber.png"
   },
   {
     "id": "dont-blink",
@@ -181,7 +188,8 @@
       "zh": "你的移动速度比目标越快，造成的伤害越高。",
       "es": "Infliges más daño cuanto más rápido seas que tu objetivo."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/dont-blink.png"
   },
   {
     "id": "dont-change-the-channel",
@@ -202,7 +210,8 @@
       "es": "Cada segundo que canalizas una habilidad ganas un escudo que escala con tus estadísticas. Se desvanece rápido al dejar de canalizar."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/dont-change-the-channel.png"
   },
   {
     "id": "double-strike",
@@ -243,7 +252,8 @@
       "zh": "每次造成伤害都会短暂削减目标少量护甲和魔抗，最多叠加到30%。",
       "es": "Cada golpe reduce un poco la armadura y resistencia mágica del objetivo durante unos segundos, hasta un 30%."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/erosion.png"
   },
   {
     "id": "escapade",
@@ -263,7 +273,8 @@
       "zh": "把全部法术强度转化为额外攻击力，再提升15%总攻击力。",
       "es": "Convierte todo tu poder de habilidad en daño de ataque adicional y luego aumenta tu daño de ataque total un 15%."
     },
-    "shape": "cauldron"
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/escapade.png"
   },
   {
     "id": "escape-plan",
@@ -284,7 +295,8 @@
       "es": "Al quedar con poca vida ganas un gran escudo, un impulso de velocidad y menor tamaño, que se desvanecen en unos segundos. Enfriamiento largo."
     },
     "shape": "runner",
-    "iconAlt": "legday"
+    "iconAlt": "legday",
+    "iconLocal": "/augment-icons/escape-plan.png"
   },
   {
     "id": "firefox",
@@ -304,7 +316,8 @@
       "zh": "定期召唤环绕自身的火焰，自动飞向附近敌人造成自适应伤害，并短暂提升移速。",
       "es": "Invoca periódicamente llamas que orbitan y persiguen a enemigos cercanos con daño adaptativo, más un breve aumento de velocidad."
     },
-    "shape": "gear-claw"
+    "shape": "gear-claw",
+    "iconLocal": "/augment-icons/firefox.png"
   },
   {
     "id": "first-aid-kit",
@@ -324,7 +337,8 @@
       "zh": "治疗和护盾强度提升20%。",
       "es": "Otorga un 20% de poder de curación y escudo."
     },
-    "shape": "shield-cross"
+    "shape": "shield-cross",
+    "iconLocal": "/augment-icons/first-aid-kit.png"
   },
   {
     "id": "flash-2",
@@ -367,7 +381,8 @@
     },
     "requires": "flashy",
     "shape": "runner",
-    "iconAlt": "legday"
+    "iconAlt": "legday",
+    "iconLocal": "/augment-icons/flashbang.png"
   },
   {
     "id": "forged-by-the-master",
@@ -388,7 +403,8 @@
       "es": "Aumenta un 45% el daño de los efectos de tus objetos y aumentos."
     },
     "shape": "cauldron",
-    "iconAlt": "adapt"
+    "iconAlt": "adapt",
+    "iconLocal": "/augment-icons/forged-by-the-master.png"
   },
   {
     "id": "fruitify",
@@ -409,7 +425,8 @@
       "es": "Los enemigos que derribas sueltan Fruta de Miel. Tú y tus aliados pueden comerla para recuperar vida y maná."
     },
     "shape": "heart",
-    "iconAlt": "goredrink"
+    "iconAlt": "goredrink",
+    "iconLocal": "/augment-icons/fruitify.png"
   },
   {
     "id": "gift-of-the-drowned",
@@ -430,7 +447,8 @@
       "es": "Convierte toda tu vida adicional en letalidad y otorga letalidad extra según el nivel."
     },
     "shape": "starburst",
-    "iconAlt": "bluntforce"
+    "iconAlt": "bluntforce",
+    "iconLocal": "/augment-icons/gift-of-the-drowned.png"
   },
   {
     "id": "goredrink",
@@ -450,7 +468,8 @@
       "zh": "获得15%全能吸血。",
       "es": "Ganas un 15% de omnivampirismo."
     },
-    "shape": "heart"
+    "shape": "heart",
+    "iconLocal": "/augment-icons/goredrink.png"
   },
   {
     "id": "hands-off-the-talent",
@@ -490,7 +509,8 @@
       "zh": "普攻附带基于自身最大生命值的额外物理伤害。",
       "es": "Los ataques básicos infligen daño físico adicional según tu vida máxima."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/heavy-hitter.png"
   },
   {
     "id": "hextech-soul",
@@ -511,7 +531,8 @@
       "es": "Otorga el Alma de Dragón Hextech, o una distinta si ya la tienes."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/hextech-soul.png"
   },
   {
     "id": "homeguard",
@@ -531,7 +552,8 @@
       "zh": "获得大量额外移速，受到伤害后会暂时失去几秒。",
       "es": "Ganas mucha velocidad de movimiento adicional, que pierdes unos segundos tras recibir daño."
     },
-    "shape": "boot"
+    "shape": "boot",
+    "iconLocal": "/augment-icons/homeguard.png"
   },
   {
     "id": "ice-cold",
@@ -551,7 +573,8 @@
       "zh": "你的减速效果会额外再降低目标一定数值的移速。",
       "es": "Tus ralentizaciones reducen además una cantidad fija de la velocidad del objetivo."
     },
-    "shape": "anchor"
+    "shape": "anchor",
+    "iconLocal": "/augment-icons/ice-cold.png"
   },
   {
     "id": "infernal-soul",
@@ -571,7 +594,8 @@
       "zh": "获得炼狱龙魂；如果已经有了，则改为获得其他龙魂。",
       "es": "Otorga el Alma de Dragón Infernal, o una distinta si ya la tienes."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/infernal-soul.png"
   },
   {
     "id": "its-go-time",
@@ -592,7 +616,8 @@
       "es": "Mejora una habilidad con duración: ganas velocidad de movimiento adicional mientras dura su efecto."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/its-go-time.png"
   },
   {
     "id": "juiced",
@@ -613,7 +638,8 @@
       "es": "Los ataques básicos contra campeones infligen daño mágico adicional según tu maná máximo, y puede ser crítico."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/juiced.png"
   },
   {
     "id": "kill-secured",
@@ -634,7 +660,8 @@
       "es": "Ganas un 60% de velocidad adicional al moverte hacia campeones enemigos con menos del 40% de vida."
     },
     "shape": "runner",
-    "iconAlt": "legday"
+    "iconAlt": "legday",
+    "iconLocal": "/augment-icons/kill-secured.png"
   },
   {
     "id": "leg-day",
@@ -654,7 +681,8 @@
       "zh": "获得额外移速和50%减速抗性。",
       "es": "Otorga velocidad de movimiento adicional y un 50% de resistencia a ralentizaciones."
     },
-    "shape": "runner"
+    "shape": "runner",
+    "iconLocal": "/augment-icons/leg-day.png"
   },
   {
     "id": "lich-brain",
@@ -675,7 +703,8 @@
       "es": "Otorga poder de habilidad, más una cantidad extra según tu vida adicional."
     },
     "shape": "shield",
-    "iconAlt": "mindtomatter"
+    "iconAlt": "mindtomatter",
+    "iconLocal": "/augment-icons/lich-brain.png"
   },
   {
     "id": "light-em-up",
@@ -694,7 +723,8 @@
       "zh": "每第四次普攻会快速射出一串飞弹，造成额外魔法伤害。",
       "es": "Cada cuarto ataque básico dispara una ráfaga de proyectiles con daño mágico adicional."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/light-em-up.png"
   },
   {
     "id": "lonely-warrior",
@@ -715,7 +745,8 @@
       "es": "Por cada campeón enemigo cerca, ganas velocidad de ataque, armadura y resistencia mágica adicionales."
     },
     "shape": "anchor",
-    "iconAlt": "icecold"
+    "iconAlt": "icecold",
+    "iconLocal": "/augment-icons/lonely-warrior.png"
   },
   {
     "id": "mighty-shield",
@@ -736,7 +767,8 @@
       "es": "Al recibir un escudo, ganas fuerza adaptativa durante unos segundos. Enfriamiento corto."
     },
     "shape": "starburst",
-    "iconAlt": "bluntforce"
+    "iconAlt": "bluntforce",
+    "iconLocal": "/augment-icons/mighty-shield.png"
   },
   {
     "id": "mind-to-matter",
@@ -756,7 +788,8 @@
       "zh": "获得等于最大法力值一半的额外生命值。",
       "es": "Otorga vida adicional igual a la mitad de tu maná máximo."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/mind-to-matter.png"
   },
   {
     "id": "mountain-soul",
@@ -775,7 +808,8 @@
       "zh": "获得山脉龙魂；如果已经有了，则改为获得其他龙魂。",
       "es": "Otorga el Alma de Dragón de Montaña, o una distinta si ya la tienes."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/mountain-soul.png"
   },
   {
     "id": "no-mana-no-problem",
@@ -795,7 +829,8 @@
       "es": "Convierte el maná de tus objetos en poder de habilidad y luego lo aumenta un 15%."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/no-mana-no-problem.png"
   },
   {
     "id": "ocean-soul",
@@ -815,7 +850,8 @@
       "zh": "获得强化版海洋龙魂；如果已经有了，则改为获得其他龙魂。",
       "es": "Otorga un Alma de Dragón del Océano mejorada, o una distinta si ya la tienes."
     },
-    "shape": "heart"
+    "shape": "heart",
+    "iconLocal": "/augment-icons/ocean-soul.png"
   },
   {
     "id": "poltergeist",
@@ -836,7 +872,8 @@
       "es": "Reemplaza un hechizo de invocador por Poltergeist, que te lanza Barrera y Fantasmal a la vez."
     },
     "shape": "shield",
-    "iconAlt": "mindtomatter"
+    "iconAlt": "mindtomatter",
+    "iconLocal": "/augment-icons/poltergeist.png"
   },
   {
     "id": "purist-caster",
@@ -856,7 +893,8 @@
       "es": "Convierte toda tu velocidad de ataque adicional en prisa de habilidad y reduce un 10% todos los enfriamientos."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/purist-caster.png"
   },
   {
     "id": "scoped-weapons",
@@ -897,7 +935,8 @@
       "es": "Tras un desplazamiento, parpadeo o salir del sigilo, ganas mucha velocidad durante 2 segundos."
     },
     "shape": "runner",
-    "iconAlt": "legday"
+    "iconAlt": "legday",
+    "iconLocal": "/augment-icons/shadow-runner.png"
   },
   {
     "id": "siphon",
@@ -918,7 +957,8 @@
       "es": "Mejora una habilidad para que te cure un 30% del daño que inflige a campeones."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/siphon.png"
   },
   {
     "id": "slap-around",
@@ -938,7 +978,8 @@
       "zh": "定身或禁锢敌方英雄会永久叠加攻击力或法术强度，死亡时损失一半层数。",
       "es": "Inmovilizar o anclar a un campeón enemigo acumula daño de ataque o poder de habilidad permanente. Pierdes la mitad al morir."
     },
-    "shape": "anchor"
+    "shape": "anchor",
+    "iconLocal": "/augment-icons/slap-around.png"
   },
   {
     "id": "snowday",
@@ -979,7 +1020,8 @@
       "es": "Potenciar, curar o escudar a un aliado inflige daño verdadero a los enemigos cercanos a él y los ralentiza."
     },
     "shape": "shield-cross",
-    "iconAlt": "firstaidkit"
+    "iconAlt": "firstaidkit",
+    "iconLocal": "/augment-icons/sonic-boom.png"
   },
   {
     "id": "sound-barrier",
@@ -999,7 +1041,8 @@
       "es": "Los escudos que das a ti o a aliados también otorgan efecto fantasmal y velocidad que se desvanece."
     },
     "shape": "shield-cross",
-    "iconAlt": "firstaidkit"
+    "iconAlt": "firstaidkit",
+    "iconLocal": "/augment-icons/sound-barrier.png"
   },
   {
     "id": "spin-me-right-round",
@@ -1020,7 +1063,8 @@
       "es": "Reemplaza un hechizo de invocador por un columpio con gancho: engancha un muro, gira disparando a enemigos cercanos y luego salta."
     },
     "shape": "runner",
-    "iconAlt": "legday"
+    "iconAlt": "legday",
+    "iconLocal": "/augment-icons/spin-me-right-round.png"
   },
   {
     "id": "spin-to-win",
@@ -1039,7 +1083,8 @@
       "zh": "旋转类技能伤害提高、冷却缩短，旋转类大招提升更多。",
       "es": "Tus habilidades giratorias infligen más daño y tienen menos enfriamiento, aún más si es una definitiva."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/spin-to-win.png"
   },
   {
     "id": "stackosaurus-rex",
@@ -1080,7 +1125,8 @@
       "zh": "获得2个属性铁砧。",
       "es": "Ganas 2 Yunques de Estadísticas."
     },
-    "shape": "dice"
+    "shape": "dice",
+    "iconLocal": "/augment-icons/stats.png"
   },
   {
     "id": "stay-resolute",
@@ -1101,7 +1147,8 @@
       "es": "Mejora una habilidad: dañar campeones con ella acumula armadura o resistencia mágica permanente. Si no es tu primer aumento, también ganas ambas de inmediato."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/stay-resolute.png"
   },
   {
     "id": "swift-and-safe",
@@ -1122,7 +1169,8 @@
       "es": "Tras un desplazamiento o parpadeo, ganas un escudo breve que escala con tus estadísticas."
     },
     "shape": "shield-cross",
-    "iconAlt": "firstaidkit"
+    "iconAlt": "firstaidkit",
+    "iconLocal": "/augment-icons/swift-and-safe.png"
   },
   {
     "id": "tank-it-or-leave-it",
@@ -1141,7 +1189,8 @@
       "zh": "获得25%暴击率，暴击率还会转化为受到伤害时有几率减伤20%。",
       "es": "Ganas un 25% de probabilidad de crítico, que además te da probabilidad de reducir un 20% el daño recibido."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/tank-it-or-leave-it.png"
   },
   {
     "id": "transmute-gold",
@@ -1162,7 +1211,8 @@
       "es": "Obtienes un aumento de Oro aleatorio."
     },
     "shape": "dice",
-    "iconAlt": "stats"
+    "iconAlt": "stats",
+    "iconLocal": "/augment-icons/transmute-gold.png"
   },
   {
     "id": "trusty-weapon",
@@ -1183,7 +1233,8 @@
       "es": "Mejora una habilidad: cada impacto en un campeón acumula cargas que aumentan su daño."
     },
     "shape": "wisp",
-    "iconAlt": "erosion"
+    "iconAlt": "erosion",
+    "iconLocal": "/augment-icons/trusty-weapon.png"
   },
   {
     "id": "twin-fire",
@@ -1223,7 +1274,8 @@
       "zh": "普攻会额外向附近另一个敌人发射一枚飞弹，造成较低伤害并触发攻击特效。",
       "es": "Los ataques básicos lanzan un proyectil a otro enemigo cercano que aplica efectos al golpear con daño reducido."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/typhoon.png"
   },
   {
     "id": "ultimate-recursion",
@@ -1286,7 +1338,8 @@
       "es": "Mejora El Recaudador: las bajas aumentan su umbral de ejecución y dan más oro. También otorga oro ahora."
     },
     "shape": "cauldron",
-    "iconAlt": "adapt"
+    "iconAlt": "adapt",
+    "iconLocal": "/augment-icons/upgrade-collector.png"
   },
   {
     "id": "upgrade-deaths-dance",
@@ -1306,7 +1359,8 @@
       "es": "Mejora Danza de la Muerte con mayor retraso de daño y una curación mayor e instantánea tras derribos. También otorga oro ahora."
     },
     "shape": "cauldron",
-    "iconAlt": "adapt"
+    "iconAlt": "adapt",
+    "iconLocal": "/augment-icons/upgrade-deaths-dance.png"
   },
   {
     "id": "upgrade-immolate",
@@ -1326,7 +1380,8 @@
       "es": "Mejora tus objetos de aura de quemadura para que generen oro por cada campeón enemigo quemado. También otorga oro ahora."
     },
     "shape": "cauldron",
-    "iconAlt": "adapt"
+    "iconAlt": "adapt",
+    "iconLocal": "/augment-icons/upgrade-immolate.png"
   },
   {
     "id": "upgrade-zhonyas",
@@ -1346,7 +1401,8 @@
       "es": "Mejora la línea de Zhonya: la Estasis limpia controles, te deja moverte con velocidad extra y tiene menos enfriamiento."
     },
     "shape": "cauldron",
-    "iconAlt": "adapt"
+    "iconAlt": "adapt",
+    "iconLocal": "/augment-icons/upgrade-zhonyas.png"
   },
   {
     "id": "veil-of-warding",
@@ -1367,7 +1423,8 @@
       "es": "Otorga un escudo de hechizos que bloquea la siguiente habilidad enemiga y se recarga cada 30 segundos."
     },
     "shape": "shield",
-    "iconAlt": "mindtomatter"
+    "iconAlt": "mindtomatter",
+    "iconLocal": "/augment-icons/veil-of-warding.png"
   },
   {
     "id": "witchful-thinking",
@@ -1386,7 +1443,8 @@
       "zh": "获得随等级提升的法术强度。",
       "es": "Otorga poder de habilidad que crece con tu nivel."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/witchful-thinking.png"
   },
   {
     "id": "zealot",
@@ -1426,7 +1484,8 @@
       "zh": "你对友方英雄的治疗和护盾效果提升30%。",
       "es": "Tus curaciones y escudos sobre campeones aliados son un 30% más fuertes."
     },
-    "shape": "shield-cross"
+    "shape": "shield-cross",
+    "iconLocal": "/augment-icons/all-for-you.png"
   },
   {
     "id": "apex-inventor",
@@ -1446,7 +1505,8 @@
       "zh": "获得大量装备急速，主动装备冷却减半。",
       "es": "Otorga mucha prisa de objetos, reduciendo a la mitad el enfriamiento de los activos."
     },
-    "shape": "cauldron"
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/apex-inventor.png"
   },
   {
     "id": "arcane-axiom",
@@ -1467,7 +1527,8 @@
       "es": "Los derribos de campeones a los que dañaste hace poco reducen parte del enfriamiento de tu definitiva."
     },
     "shape": "cross-slash",
-    "iconAlt": "itskillingtime"
+    "iconAlt": "itskillingtime",
+    "iconLocal": "/augment-icons/arcane-axiom.png"
   },
   {
     "id": "armored-impact",
@@ -1488,7 +1549,8 @@
       "es": "Tras lanzar una habilidad, tu siguiente ataque golpea al objetivo y a los cercanos con daño extra según tu armadura."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/armored-impact.png"
   },
   {
     "id": "bees",
@@ -1509,7 +1571,8 @@
       "es": "Golpear a un campeón con una habilidad lanza una colmena: las abejas infligen daño mágico continuo, aplican efectos al golpear y ralentizan."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/bees.png"
   },
   {
     "id": "big-brain",
@@ -1528,7 +1591,8 @@
       "zh": "获得一个基于法术强度的大护盾，打破前一直存在，并会定期及复活时恢复。",
       "es": "Ganas un gran escudo según tu poder de habilidad que dura hasta romperse y se renueva periódicamente y al reaparecer."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/big-brain.png"
   },
   {
     "id": "bonk",
@@ -1548,7 +1612,8 @@
       "es": "Mejora una habilidad que potencia tu ataque básico: el golpe inflige un 30% más y salpica parte a los enemigos cercanos."
     },
     "shape": "shard",
-    "iconAlt": "itscritical"
+    "iconAlt": "itscritical",
+    "iconLocal": "/augment-icons/bonk.png"
   },
   {
     "id": "brass-blast",
@@ -1569,7 +1634,8 @@
       "es": "Reemplaza un hechizo de invocador por una trompeta gigante: cárgala y lanza un cono que inflige daño mágico y empuja."
     },
     "shape": "trident",
-    "iconAlt": "minionmancer"
+    "iconAlt": "minionmancer",
+    "iconLocal": "/augment-icons/brass-blast.png"
   },
   {
     "id": "bread-and-butter",
@@ -1589,7 +1655,8 @@
       "zh": "Q技能获得100技能急速。",
       "es": "Tu Q gana 100 de prisa de habilidad."
     },
-    "shape": "hourglass"
+    "shape": "hourglass",
+    "iconLocal": "/augment-icons/bread-and-butter.png"
   },
   {
     "id": "bread-and-cheese",
@@ -1609,7 +1676,8 @@
       "zh": "E技能获得100技能急速。",
       "es": "Tu E gana 100 de prisa de habilidad."
     },
-    "shape": "hourglass"
+    "shape": "hourglass",
+    "iconLocal": "/augment-icons/bread-and-cheese.png"
   },
   {
     "id": "bread-and-jam",
@@ -1629,7 +1697,8 @@
       "zh": "W技能获得100技能急速。",
       "es": "Tu W gana 100 de prisa de habilidad."
     },
-    "shape": "hourglass"
+    "shape": "hourglass",
+    "iconLocal": "/augment-icons/bread-and-jam.png"
   },
   {
     "id": "crimson-cobalt",
@@ -1650,7 +1719,8 @@
       "es": "Mejora una habilidad para marcar a los campeones que golpea. Tu siguiente ataque al marcado inflige daño mágico extra y reduce mucho su enfriamiento actual."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/crimson-cobalt.png"
   },
   {
     "id": "celestial-body",
@@ -1670,7 +1740,8 @@
       "zh": "获得1500额外生命值，但造成的伤害降低10%。",
       "es": "Ganas 1500 de vida adicional, pero infliges un 10% menos de daño."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/celestial-body.png"
   },
   {
     "id": "chain-reaction",
@@ -1691,7 +1762,8 @@
       "es": "Mejora una habilidad de empuje: los enemigos que chocan con otros campeones o muros reciben daño mágico y son lanzados por los aires, más si es tu definitiva."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/chain-reaction.png"
   },
   {
     "id": "critical-healing",
@@ -1711,7 +1783,8 @@
       "zh": "治疗和护盾有几率（等于暴击率）提升40%效果，并获得25%暴击率。",
       "es": "Tus curaciones y escudos pueden ser críticos (+40%) según tu probabilidad de crítico. También otorga un 25% de crítico."
     },
-    "shape": "shield-cross"
+    "shape": "shield-cross",
+    "iconLocal": "/augment-icons/critical-healing.png"
   },
   {
     "id": "critical-rhythm",
@@ -1731,7 +1804,8 @@
       "es": "Los golpes críticos otorgan velocidad de ataque acumulable. También otorga un 25% de crítico."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/critical-rhythm.png"
   },
   {
     "id": "dawnbringers-resolve",
@@ -1751,7 +1825,8 @@
       "zh": "生命值低于一半时，数秒内回复一大截最大生命值。冷却较长，死亡后重置。",
       "es": "Al bajar de la mitad de vida te curas una buena parte de tu vida máxima en unos segundos. Enfriamiento largo, se reinicia al morir."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/dawnbringers-resolve.png"
   },
   {
     "id": "divine-intervention",
@@ -1771,7 +1846,8 @@
       "zh": "定期召唤一颗星辰，让你和附近队友短暂无敌。",
       "es": "Invoca periódicamente una estrella que te vuelve invulnerable a ti y a los aliados cercanos por poco tiempo."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/divine-intervention.png"
   },
   {
     "id": "donation",
@@ -1792,7 +1868,8 @@
       "es": "Ganas 1750 de oro al instante."
     },
     "shape": "cauldron",
-    "iconAlt": "apexinventor"
+    "iconAlt": "apexinventor",
+    "iconLocal": "/augment-icons/donation.png"
   },
   {
     "id": "double-time",
@@ -1812,7 +1889,8 @@
       "es": "Golpear a un campeón con dos habilidades distintas seguidas inflige daño mágico extra según tu maná máximo y lo aumenta permanentemente."
     },
     "shape": "up-arrow",
-    "iconAlt": "phenomenalevil"
+    "iconAlt": "phenomenalevil",
+    "iconLocal": "/augment-icons/double-time.png"
   },
   {
     "id": "enchanting-butterflies",
@@ -1832,7 +1910,8 @@
       "es": "Curar o escudar aliados reúne mariposas. Con todas, tu siguiente golpe a un campeón las lanza para infligir daño mágico."
     },
     "shape": "heart",
-    "iconAlt": "soulsiphon"
+    "iconAlt": "soulsiphon",
+    "iconLocal": "/augment-icons/enchanting-butterflies.png"
   },
   {
     "id": "endless-decimation",
@@ -1853,7 +1932,8 @@
       "es": "En combate lanzas automáticamente un gran tajo giratorio. Los alcanzados por el borde reciben el daño completo, te curan y reducen el enfriamiento."
     },
     "shape": "gear-claw",
-    "iconAlt": "okboomerang"
+    "iconAlt": "okboomerang",
+    "iconLocal": "/augment-icons/endless-decimation.png"
   },
   {
     "id": "ethereal-weapon",
@@ -1873,7 +1953,8 @@
       "zh": "技能也能触发攻击特效。",
       "es": "Tus habilidades aplican efectos al golpear."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/ethereal-weapon.png"
   },
   {
     "id": "firebrand",
@@ -1893,7 +1974,8 @@
       "zh": "普攻附加可无限叠加的灼烧，造成基于目标最大生命值的魔法伤害。",
       "es": "Los ataques básicos aplican una quemadura acumulable sin límite que inflige daño mágico según la vida máxima del objetivo."
     },
-    "shape": "fire"
+    "shape": "fire",
+    "iconLocal": "/augment-icons/firebrand.png"
   },
   {
     "id": "flashy",
@@ -1913,7 +1995,8 @@
       "zh": "闪现变为3层充能，每次使用间隔很短。",
       "es": "Destello obtiene 3 cargas con un breve intervalo entre usos."
     },
-    "shape": "runner"
+    "shape": "runner",
+    "iconLocal": "/augment-icons/flashy.png"
   },
   {
     "id": "flow-of-spirit",
@@ -1934,7 +2017,8 @@
       "es": "Mejora una habilidad para que al lanzarla ganes mucha velocidad de ataque durante 4 segundos."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/flow-of-spirit.png"
   },
   {
     "id": "from-beginning-to-end",
@@ -1954,7 +2038,8 @@
       "zh": "同时获得黑暗收割和先攻两个基石符文。",
       "es": "Otorga Cosecha Oscura y Primer Golpe a la vez."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/from-beginning-to-end.png"
   },
   {
     "id": "from-downtown",
@@ -1975,7 +2060,8 @@
       "es": "Misión: acierta habilidades a campeones desde lejos. Recompensa: esos impactos invocan un meteorito más grande y fuerte cuanto más lejos estés."
     },
     "shape": "arrow",
-    "iconAlt": "skilledsniper"
+    "iconAlt": "skilledsniper",
+    "iconLocal": "/augment-icons/from-downtown.png"
   },
   {
     "id": "get-excited",
@@ -1996,7 +2082,8 @@
       "es": "Los derribos otorgan mucha velocidad de movimiento y algo de velocidad de ataque durante 4 segundos."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/get-excited.png"
   },
   {
     "id": "get-jinxed",
@@ -2017,7 +2104,8 @@
       "es": "Reemplaza un hechizo de invocador por un cohete dirigible. Eres inalcanzable mientras vuelas y explota al chocar, más fuerte cuanto más lejos voló."
     },
     "shape": "trident",
-    "iconAlt": "minionmancer"
+    "iconAlt": "minionmancer",
+    "iconLocal": "/augment-icons/get-jinxed.png"
   },
   {
     "id": "growth-spurt",
@@ -2078,7 +2166,8 @@
       "zh": "同时获得余震和冰川增幅两个基石符文。",
       "es": "Otorga Réplica y Aumento Glacial a la vez."
     },
-    "shape": "anchor"
+    "shape": "anchor",
+    "iconLocal": "/augment-icons/impassable.png"
   },
   {
     "id": "its-critical",
@@ -2097,7 +2186,8 @@
       "zh": "获得50%暴击率。",
       "es": "Otorga un 50% de probabilidad de crítico."
     },
-    "shape": "shard"
+    "shape": "shard",
+    "iconLocal": "/augment-icons/its-critical.png"
   },
   {
     "id": "its-killing-time",
@@ -2116,7 +2206,8 @@
       "zh": "施放大招会标记所有敌方英雄，你对他们造成的部分伤害会被储存，几秒后以真实伤害引爆。",
       "es": "Lanzar tu definitiva marca a todos los campeones enemigos. Parte del daño que les haces se acumula y estalla como daño verdadero poco después."
     },
-    "shape": "cross-slash"
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/its-killing-time.png"
   },
   {
     "id": "jeweled-bracelet",
@@ -2137,7 +2228,8 @@
       "es": "Mejora una habilidad para que su daño pueda ser crítico. También otorga un 25% de crítico."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/jeweled-bracelet.png"
   },
   {
     "id": "lil-extra-help",
@@ -2158,7 +2250,8 @@
       "es": "Mejora una habilidad que potencia tus ataques por un tiempo: mientras dura, ganas alcance y velocidad de ataque extra."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/lil-extra-help.png"
   },
   {
     "id": "magic-missile",
@@ -2177,7 +2270,8 @@
       "zh": "技能伤害英雄时发射飞弹，造成基于目标最大生命值的真实伤害，飞得越远越痛。",
       "es": "Dañar a un campeón con una habilidad dispara proyectiles de daño verdadero según su vida máxima, más cuanto más lejos viajen."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/magic-missile.png"
   },
   {
     "id": "marksmage",
@@ -2197,7 +2291,8 @@
       "zh": "普攻附带基于法术强度的额外物理伤害。",
       "es": "Los ataques básicos infligen daño físico adicional según tu poder de habilidad."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/marksmage.png"
   },
   {
     "id": "mercys-strike",
@@ -2218,7 +2313,8 @@
       "es": "Mejora una habilidad: tu siguiente ataque tras lanzarla gana alcance y velocidad e inflige daño mágico extra según la vida máxima del objetivo."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/mercys-strike.png"
   },
   {
     "id": "minionmancer",
@@ -2238,7 +2334,8 @@
       "zh": "你的召唤物伤害提高40%，生命值和体型增加40%。",
       "es": "Tus mascotas infligen un 40% más de daño y ganan un 40% más de vida y tamaño."
     },
-    "shape": "trident"
+    "shape": "trident",
+    "iconLocal": "/augment-icons/minionmancer.png"
   },
   {
     "id": "nature-is-healing",
@@ -2259,7 +2356,8 @@
       "es": "Entrar en un matorral te cura durante un breve tiempo. Cada matorral tiene su propio enfriamiento."
     },
     "shape": "heart",
-    "iconAlt": "soulsiphon"
+    "iconAlt": "soulsiphon",
+    "iconLocal": "/augment-icons/nature-is-healing.png"
   },
   {
     "id": "nightstalking",
@@ -2279,7 +2377,8 @@
       "es": "Los derribos de campeones que dañaste hace poco te vuelven invisible y más rápido un momento. Atacar o lanzar lo termina."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/nightstalking.png"
   },
   {
     "id": "ok-boomerang",
@@ -2299,7 +2398,8 @@
       "zh": "定期自动向最近的敌方英雄掷出回旋刃，造成自适应伤害。",
       "es": "Lanza periódicamente un filo bumerán al campeón enemigo más cercano con daño adaptativo."
     },
-    "shape": "gear-claw"
+    "shape": "gear-claw",
+    "iconLocal": "/augment-icons/ok-boomerang.png"
   },
   {
     "id": "outlaws-grit",
@@ -2319,7 +2419,8 @@
       "zh": "位移或闪烁时获得可叠加的额外护甲和魔抗。",
       "es": "Desplazarte o parpadear otorga armadura y resistencia mágica acumulables."
     },
-    "shape": "runner"
+    "shape": "runner",
+    "iconLocal": "/augment-icons/outlaws-grit.png"
   },
   {
     "id": "overextender",
@@ -2343,7 +2444,8 @@
       "butchers-bridge"
     ],
     "shape": "trident",
-    "iconAlt": "minionmancer"
+    "iconAlt": "minionmancer",
+    "iconLocal": "/augment-icons/overextender.png"
   },
   {
     "id": "overflow",
@@ -2363,7 +2465,8 @@
       "zh": "技能法力消耗翻倍，但伤害、治疗和护盾都会提高，最大法力值越高提升越多。",
       "es": "Tus habilidades cuestan el doble de maná, pero infligen más daño y curan y escudan más, según tu maná máximo."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/overflow.png"
   },
   {
     "id": "pat-on-the-back",
@@ -2384,7 +2487,8 @@
       "es": "Estar cerca de un aliado te da un pequeño escudo y un impulso de velocidad."
     },
     "shape": "boot",
-    "iconAlt": "withhaste"
+    "iconAlt": "withhaste",
+    "iconLocal": "/augment-icons/pat-on-the-back.png"
   },
   {
     "id": "perseverance",
@@ -2424,7 +2528,8 @@
       "zh": "用技能伤害英雄会永久叠加法术强度；如果这不是你的第一个符文，开局就自带一批层数。",
       "es": "Dañar campeones con habilidades acumula poder de habilidad permanente. Si no es tu primer aumento, empiezas con cargas de ventaja."
     },
-    "shape": "up-arrow"
+    "shape": "up-arrow",
+    "iconLocal": "/augment-icons/phenomenal-evil.png"
   },
   {
     "id": "pinball",
@@ -2445,7 +2550,8 @@
       "es": "Tu bola de nieve (Marca) se vuelve un pinball que inflige daño verdadero y rebota en muros, creciendo con cada rebote."
     },
     "shape": "trident",
-    "iconAlt": "minionmancer"
+    "iconAlt": "minionmancer",
+    "iconLocal": "/augment-icons/pinball.png"
   },
   {
     "id": "porcupine",
@@ -2465,7 +2571,8 @@
       "es": "Recibir daño de campeones acumula púas. Al llenarse, estallan con daño según tus resistencias y ralentizan."
     },
     "shape": "shield",
-    "iconAlt": "bigbrain"
+    "iconAlt": "bigbrain",
+    "iconLocal": "/augment-icons/porcupine.png"
   },
   {
     "id": "pressure-cooker",
@@ -2486,7 +2593,8 @@
       "es": "Quemas a los campeones enemigos cercanos según tu vida máxima. Al acumular suficiente daño, el aura mejora su alcance y ritmo."
     },
     "shape": "fire",
-    "iconAlt": "firebrand"
+    "iconAlt": "firebrand",
+    "iconLocal": "/augment-icons/pressure-cooker.png"
   },
   {
     "id": "pursuit-of-haste",
@@ -2507,7 +2615,8 @@
       "es": "Misión: golpea campeones con una habilidad concreta. Recompensa: esa habilidad gana mucha prisa en dos fases."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/pursuit-of-haste.png"
   },
   {
     "id": "pursuit-of-power",
@@ -2528,7 +2637,8 @@
       "es": "Misión: golpea campeones 10 veces con una habilidad concreta. Recompensa: esa habilidad inflige un 30% más."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/pursuit-of-power.png"
   },
   {
     "id": "quest-steel-your-heart",
@@ -2548,7 +2658,8 @@
       "zh": "任务：做出心之钢并通过被动积累一定生命值。奖励：心之钢被动获得的生命值变为三倍。",
       "es": "Misión: consigue Corazón de Acero y acumula algo de vida con su pasiva. Recompensa: la pasiva otorga el triple de vida."
     },
-    "shape": "cauldron"
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/quest-steel-your-heart.png"
   },
   {
     "id": "quickstep",
@@ -2569,7 +2680,8 @@
       "es": "Mejora una habilidad para que al lanzarla también te desplaces una corta distancia hacia el cursor."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/quickstep.png"
   },
   {
     "id": "ravenous-bind",
@@ -2590,7 +2702,8 @@
       "es": "Mejora una habilidad de control para que inflija daño mágico y te cure, más si su enfriamiento es largo."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/ravenous-bind.png"
   },
   {
     "id": "recoil",
@@ -2611,7 +2724,8 @@
       "es": "Mejora una habilidad para que inflija un 25% más y te desplace hacia atrás al lanzarla."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/recoil.png"
   },
   {
     "id": "recursion",
@@ -2630,7 +2744,8 @@
       "zh": "获得60技能急速。",
       "es": "Otorga 60 de prisa de habilidad."
     },
-    "shape": "hourglass"
+    "shape": "hourglass",
+    "iconLocal": "/augment-icons/recursion.png"
   },
   {
     "id": "rejuvenation",
@@ -2651,7 +2766,8 @@
       "es": "Mejora una habilidad para que te cure al lanzarla, más si su enfriamiento es largo."
     },
     "shape": "wisp",
-    "iconAlt": "etherealweapon"
+    "iconAlt": "etherealweapon",
+    "iconLocal": "/augment-icons/rejuvenation.png"
   },
   {
     "id": "reload",
@@ -2693,7 +2809,8 @@
       "es": "Al bajar de la mitad de vida liberas una gran onda que daña y empuja a los enemigos mientras os cura a ti y a tus aliados. Enfriamiento largo."
     },
     "shape": "heart",
-    "iconAlt": "soulsiphon"
+    "iconAlt": "soulsiphon",
+    "iconLocal": "/augment-icons/salvation.png"
   },
   {
     "id": "sap-magic",
@@ -2714,7 +2831,8 @@
       "es": "Tu siguiente ataque básico inflige daño extra y te cura. Lanzar habilidades acelera su recarga."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/sap-magic.png"
   },
   {
     "id": "scopier-weapons",
@@ -2735,7 +2853,8 @@
       "es": "Otorga más alcance de ataque, extra para cuerpo a cuerpo."
     },
     "shape": "arrow",
-    "iconAlt": "skilledsniper"
+    "iconAlt": "skilledsniper",
+    "iconLocal": "/augment-icons/scopier-weapons.png"
   },
   {
     "id": "searing-dawn",
@@ -2756,7 +2875,8 @@
       "es": "Tus habilidades de daño marcan a los enemigos para que el siguiente golpe de un aliado inflija daño mágico extra."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/searing-dawn.png"
   },
   {
     "id": "shark-bait",
@@ -2798,7 +2918,8 @@
       "es": "Tu bola de nieve (Marca) va rodeada de tiburones que dañan y ralentizan en su camino, y luego giran alrededor del campeón alcanzado."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/shark-tempest.png"
   },
   {
     "id": "shrink-engine",
@@ -2819,7 +2940,8 @@
       "es": "Cada derribo otorga prisa de habilidad y velocidad permanentes y te encoge. Pierdes casi todas las cargas al morir."
     },
     "shape": "runner",
-    "iconAlt": "flashy"
+    "iconAlt": "flashy",
+    "iconLocal": "/augment-icons/shrink-engine.png"
   },
   {
     "id": "shrink-ray",
@@ -2839,7 +2961,8 @@
       "zh": "普攻会让目标变小，并在数秒内降低其15%伤害。",
       "es": "Los ataques básicos encogen al objetivo y reducen su daño un 15% durante unos segundos."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/shrink-ray.png"
   },
   {
     "id": "skilled-sniper",
@@ -2859,7 +2982,8 @@
       "zh": "远距离用基础技能命中英雄时，返还该技能大部分冷却。",
       "es": "Golpear a un campeón con una habilidad básica desde lejos devuelve la mayor parte de su enfriamiento."
     },
-    "shape": "arrow"
+    "shape": "arrow",
+    "iconLocal": "/augment-icons/skilled-sniper.png"
   },
   {
     "id": "snap-back",
@@ -2924,7 +3048,8 @@
       "es": "El desplazamiento de tu Marca inflige el doble, lanza por los aires al objetivo, empuja a los cercanos y se recarga mucho antes."
     },
     "shape": "trident",
-    "iconAlt": "minionmancer"
+    "iconAlt": "minionmancer",
+    "iconLocal": "/augment-icons/snowblast.png"
   },
   {
     "id": "sonata",
@@ -2964,7 +3089,8 @@
       "es": "Inmovilizar o anclar a un campeón enemigo otorga vida adicional permanente. Si no es tu primer aumento, ganas 300 de vida al instante."
     },
     "shape": "shield",
-    "iconAlt": "bigbrain"
+    "iconAlt": "bigbrain",
+    "iconLocal": "/augment-icons/soul-eater.png"
   },
   {
     "id": "soul-siphon",
@@ -2984,7 +3110,8 @@
       "zh": "暴击造成的部分伤害会转化为治疗，并获得25%暴击率。",
       "es": "Tus golpes críticos te curan parte del daño infligido. También otorga un 25% de crítico."
     },
-    "shape": "heart"
+    "shape": "heart",
+    "iconLocal": "/augment-icons/soul-siphon.png"
   },
   {
     "id": "stats-on-stats",
@@ -3004,7 +3131,8 @@
       "zh": "获得3个属性铁砧，出金色和棱彩铁砧的几率更高。",
       "es": "Ganas 3 Yunques de Estadísticas, con más probabilidad de Oro y Prismático."
     },
-    "shape": "dice"
+    "shape": "dice",
+    "iconLocal": "/augment-icons/stats-on-stats.png"
   },
   {
     "id": "still-here",
@@ -3025,7 +3153,8 @@
       "es": "Cuanta menos vida tengas, más velocidad de ataque y robo de vida ganas."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/still-here.png"
   },
   {
     "id": "take-em-down",
@@ -3046,7 +3175,8 @@
       "es": "Ataques y habilidades acumulan daño mágico extra en campeones. Con 5 cargas estallan con daño según la vida perdida y te curan."
     },
     "shape": "up-arrow",
-    "iconAlt": "phenomenalevil"
+    "iconAlt": "phenomenalevil",
+    "iconLocal": "/augment-icons/take-em-down.png"
   },
   {
     "id": "tank-engine",
@@ -3065,7 +3195,8 @@
       "zh": "每次参与击杀永久提高最大生命值和体型，死亡损失大部分层数。",
       "es": "Cada derribo aumenta permanentemente tu vida máxima y tamaño. Pierdes casi todas las cargas al morir."
     },
-    "shape": "shield"
+    "shape": "shield",
+    "iconLocal": "/augment-icons/tank-engine.png"
   },
   {
     "id": "terrain-d",
@@ -3086,7 +3217,8 @@
       "es": "Mejora una habilidad que crea terreno para que también inflija daño mágico a su alrededor, mucho más si es definitiva."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/terrain-d.png"
   },
   {
     "id": "terror",
@@ -3128,7 +3260,8 @@
       "es": "Tras lanzar una habilidad, tu siguiente ataque gana mucha velocidad, inflige daño mágico extra y te da un impulso de velocidad."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/the-boom-and-the-bass.png"
   },
   {
     "id": "thread-the-needle",
@@ -3148,7 +3281,8 @@
       "zh": "获得18%护甲穿透和法术穿透。",
       "es": "Otorga un 18% de penetración de armadura y mágica."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/thread-the-needle.png"
   },
   {
     "id": "tickle-monster",
@@ -3169,7 +3303,8 @@
       "es": "Convierte todo tu daño de ataque adicional en velocidad de ataque, y los ataques básicos infligen daño mágico extra."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/tickle-monster.png"
   },
   {
     "id": "tooth-fairy",
@@ -3189,7 +3324,8 @@
       "es": "Quitar de golpe una buena parte de la vida de un campeón suelta un Diente. Recogerlo otorga letalidad y penetración mágica permanentes."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/tooth-fairy.png"
   },
   {
     "id": "transmute-prismatic",
@@ -3209,7 +3345,8 @@
       "zh": "获得一个随机棱彩海克斯符文。",
       "es": "Obtienes un aumento Prismático aleatorio."
     },
-    "shape": "dice"
+    "shape": "dice",
+    "iconLocal": "/augment-icons/transmute-prismatic.png"
   },
   {
     "id": "upgrade-infinity-edge",
@@ -3229,7 +3366,8 @@
       "es": "Mejora Filo del Infinito para que otorgue daño crítico extra que varía al azar. También otorga oro ahora."
     },
     "shape": "cauldron",
-    "iconAlt": "apexinventor"
+    "iconAlt": "apexinventor",
+    "iconLocal": "/augment-icons/upgrade-infinity-edge.png"
   },
   {
     "id": "upgrade-ravenous-hydra",
@@ -3249,7 +3387,8 @@
       "es": "Mejora Hidra Voraz con más robo de vida y hace que su tajo se active con habilidades. También otorga oro ahora."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/upgrade-ravenous-hydra.png"
   },
   {
     "id": "upgrade-sheen",
@@ -3270,7 +3409,8 @@
       "es": "Mejora todos los objetos de Hoja Encantada para infligir daño extra según la vida máxima del objetivo y curarte. También otorga oro ahora."
     },
     "shape": "sword",
-    "iconAlt": "marksmage"
+    "iconAlt": "marksmage",
+    "iconLocal": "/augment-icons/upgrade-sheen.png"
   },
   {
     "id": "upgrade-stormsurge",
@@ -3290,7 +3430,8 @@
       "es": "Mejora Oleada Tormentosa para que su rayo golpee en área y se encadene a otros campeones. También otorga oro ahora."
     },
     "shape": "starburst",
-    "iconAlt": "frombeginningtoend"
+    "iconAlt": "frombeginningtoend",
+    "iconLocal": "/augment-icons/upgrade-stormsurge.png"
   },
   {
     "id": "upgrade-sundered-sky",
@@ -3310,7 +3451,8 @@
       "es": "Mejora Cielo Partido con más curación según la vida perdida y menos enfriamiento. También otorga oro ahora."
     },
     "shape": "cauldron",
-    "iconAlt": "apexinventor"
+    "iconAlt": "apexinventor",
+    "iconLocal": "/augment-icons/upgrade-sundered-sky.png"
   },
   {
     "id": "vampirism",
@@ -3373,7 +3515,8 @@
       "zh": "装备伤害和持续伤害也能暴击，并获得25%暴击率。",
       "es": "El daño de objetos y de efectos continuos puede ser crítico. También otorga un 25% de crítico."
     },
-    "shape": "cauldron"
+    "shape": "cauldron",
+    "iconLocal": "/augment-icons/vulnerability.png"
   },
   {
     "id": "warlock-juicebox",
@@ -3394,7 +3537,8 @@
       "es": "Ganas omnivampirismo que crece con tu poder de habilidad."
     },
     "shape": "heart",
-    "iconAlt": "soulsiphon"
+    "iconAlt": "soulsiphon",
+    "iconLocal": "/augment-icons/warlock-juicebox.png"
   },
   {
     "id": "weapon-of-destiny",
@@ -3415,7 +3559,8 @@
       "es": "Tu primer objeto legendario se fortalece permanentemente con cada derribo. Ya no podrás venderlo."
     },
     "shape": "cauldron",
-    "iconAlt": "apexinventor"
+    "iconAlt": "apexinventor",
+    "iconLocal": "/augment-icons/weapon-of-destiny.png"
   },
   {
     "id": "wee-woo-wee-woo",
@@ -3435,7 +3580,8 @@
       "es": "Ganas velocidad al ir hacia aliados heridos, y tus curaciones y escudos son más fuertes en objetivos con poca vida."
     },
     "shape": "heart",
-    "iconAlt": "soulsiphon"
+    "iconAlt": "soulsiphon",
+    "iconLocal": "/augment-icons/wee-woo-wee-woo.png"
   },
   {
     "id": "with-haste",
@@ -3455,7 +3601,8 @@
       "zh": "获得基于技能急速的额外移速。",
       "es": "Ganas velocidad de movimiento adicional según tu prisa de habilidad."
     },
-    "shape": "boot"
+    "shape": "boot",
+    "iconLocal": "/augment-icons/with-haste.png"
   },
   {
     "id": "archmage",
@@ -3475,7 +3622,8 @@
       "es": "Lanzar una habilidad devuelve parte del enfriamiento de otra habilidad al azar."
     },
     "shape": "hourglass",
-    "iconAlt": "eureka"
+    "iconAlt": "eureka",
+    "iconLocal": "/augment-icons/archmage.png"
   },
   {
     "id": "back-to-basics",
@@ -3495,7 +3643,8 @@
       "zh": "技能伤害提高，获得技能急速以及更强的治疗和护盾，但大招被永久封印。",
       "es": "Tus habilidades infligen más daño y ganas prisa y mejores curaciones y escudos, pero tu definitiva queda bloqueada para siempre."
     },
-    "shape": "cross-slash"
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/back-to-basics.png"
   },
   {
     "id": "big-shot",
@@ -3515,7 +3664,8 @@
       "es": "Convierte la mayor parte de tu velocidad de ataque en daño crítico y otorga daño de ataque y crítico extra."
     },
     "shape": "cross-slash",
-    "iconAlt": "backtobasics"
+    "iconAlt": "backtobasics",
+    "iconLocal": "/augment-icons/big-shot.png"
   },
   {
     "id": "biggest-snowball-ever",
@@ -3536,7 +3686,8 @@
       "es": "Tu Marca se vuelve una bola gigante que atraviesa súbditos y explota en el objetivo: daña, lanza por los aires y ralentiza, y se recarga antes."
     },
     "shape": "trident",
-    "iconAlt": "pandoras_box"
+    "iconAlt": "pandoras_box",
+    "iconLocal": "/augment-icons/biggest-snowball-ever.png"
   },
   {
     "id": "blade-waltz",
@@ -3556,7 +3707,8 @@
       "zh": "把一个召唤师技能换成利刃华尔兹：在附近敌方英雄之间快速闪烁连斩，期间不可选中，造成伤害并触发攻击特效。",
       "es": "Reemplaza un hechizo de invocador por Vals de Cuchillas: parpadeas entre campeones enemigos cercanos, inalcanzable, infligiendo daño y efectos al golpear."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/blade-waltz.png"
   },
   {
     "id": "bouncing-bees",
@@ -3577,7 +3729,8 @@
       "es": "Tras lanzar una habilidad, tu siguiente ataque hace rebotar una abeja a otro campeón. Completa misiones de rebote para ganar daño de ataque y cadenas más largas."
     },
     "shape": "up-arrow",
-    "iconAlt": "masterofduality"
+    "iconAlt": "masterofduality",
+    "iconLocal": "/augment-icons/bouncing-bees.png"
   },
   {
     "id": "cant-touch-this",
@@ -3597,7 +3750,8 @@
       "zh": "施放大招后无敌2秒。",
       "es": "Lanzar tu definitiva te vuelve invulnerable durante 2 segundos."
     },
-    "shape": "cross-slash"
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/cant-touch-this.png"
   },
   {
     "id": "circle-of-death",
@@ -3617,7 +3771,8 @@
       "zh": "你产生的治疗和生命回复，有大部分会同时作为魔法伤害打向最近的敌方英雄。",
       "es": "Gran parte de tu curación y regeneración también se inflige como daño mágico al campeón enemigo más cercano."
     },
-    "shape": "shield-cross"
+    "shape": "shield-cross",
+    "iconLocal": "/augment-icons/circle-of-death.png"
   },
   {
     "id": "clown-college",
@@ -3637,7 +3792,7 @@
       "es": "Obtienes el kit de payaso: daño extra al atacar por la espalda, un parpadeo invisible que potencia tu siguiente ataque y una explosión con caja de miedo al morir."
     },
     "shape": "mask",
-    "iconLocal": "/augment-icons/mask-prismatic.webp"
+    "iconLocal": "/augment-icons/clown-college.png"
   },
   {
     "id": "courage-of-the-colossus",
@@ -3657,7 +3812,8 @@
       "zh": "定身或禁锢敌方英雄时获得基于最大生命值的护盾，护盾可以叠加。",
       "es": "Inmovilizar o anclar a un campeón enemigo te da un escudo según tu vida máxima. Los escudos se acumulan."
     },
-    "shape": "anchor"
+    "shape": "anchor",
+    "iconLocal": "/augment-icons/courage-of-the-colossus.png"
   },
   {
     "id": "cruelty",
@@ -3698,7 +3854,8 @@
       "zh": "带位移或闪烁的技能获得175技能急速。",
       "es": "Las habilidades con desplazamiento o parpadeo ganan 175 de prisa."
     },
-    "shape": "runner"
+    "shape": "runner",
+    "iconLocal": "/augment-icons/dashing.png"
   },
   {
     "id": "devil-on-your-shoulder",
@@ -3738,7 +3895,8 @@
       "es": "Los golpes críticos aplican efectos al golpear dos veces. También otorga un 25% de crítico."
     },
     "shape": "sword",
-    "iconAlt": "dualwield"
+    "iconAlt": "dualwield",
+    "iconLocal": "/augment-icons/double-tap.png"
   },
   {
     "id": "draw-your-sword",
@@ -3759,7 +3917,8 @@
       "es": "Te vuelves cuerpo a cuerpo y ganas daño, velocidad de ataque, vida, velocidad y robo de vida, más cuanto mayor fuera tu alcance. Solo campeones a distancia."
     },
     "rangedOnly": true,
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/draw-your-sword.png"
   },
   {
     "id": "dual-wield",
@@ -3778,7 +3937,8 @@
       "zh": "普攻会额外射出一道弩箭，造成部分伤害并触发攻击特效，同时获得额外攻速。",
       "es": "Los ataques básicos disparan además un virote que inflige parte del daño y aplica efectos al golpear. También otorga velocidad de ataque."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/dual-wield.png"
   },
   {
     "id": "earthwake",
@@ -3799,7 +3959,8 @@
       "es": "Desplazarte o parpadear deja un rastro explosivo que daña a los enemigos. Solo se ofrece a 2 jugadores por equipo."
     },
     "maxPerTeam": 2,
-    "shape": "runner"
+    "shape": "runner",
+    "iconLocal": "/augment-icons/earthwake.png"
   },
   {
     "id": "echo-cast",
@@ -3819,7 +3980,8 @@
       "es": "Mejora una habilidad para que al lanzarla invoque un clon inalcanzable que la lanza de nuevo."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/echo-cast.png"
   },
   {
     "id": "empowered-by-the-faithful",
@@ -3860,7 +4022,8 @@
       "es": "Reemplaza un hechizo de invocador por un desplazamiento hacia un aliado que os escuda a ambos. También otorga poder de curación y escudo."
     },
     "shape": "trident",
-    "iconAlt": "pandoras_box"
+    "iconAlt": "pandoras_box",
+    "iconLocal": "/augment-icons/empyrean-promise.png"
   },
   {
     "id": "en-passant",
@@ -3881,7 +4044,8 @@
       "es": "Revela puntos débiles en campeones enemigos cercanos. Golpearlos desde el ángulo correcto inflige daño verdadero según su vida máxima, te cura y te acelera."
     },
     "shape": "runner",
-    "iconAlt": "dashing"
+    "iconAlt": "dashing",
+    "iconLocal": "/augment-icons/en-passant.png"
   },
   {
     "id": "eureka",
@@ -3900,7 +4064,8 @@
       "zh": "获得等于30%法术强度的技能急速。",
       "es": "Ganas prisa de habilidad igual al 30% de tu poder de habilidad."
     },
-    "shape": "hourglass"
+    "shape": "hourglass",
+    "iconLocal": "/augment-icons/eureka.png"
   },
   {
     "id": "fey-magic",
@@ -3920,7 +4085,8 @@
       "zh": "用大招伤害敌人时，把对方变成无害的小动物2秒。",
       "es": "Dañar enemigos con tu definitiva los transforma en criaturas inofensivas durante 2 segundos."
     },
-    "shape": "cross-slash"
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/fey-magic.png"
   },
   {
     "id": "final-form",
@@ -3941,7 +4107,8 @@
       "es": "Lanzar tu definitiva otorga un gran escudo, omnivampirismo y velocidad durante 10 segundos."
     },
     "shape": "cross-slash",
-    "iconAlt": "backtobasics"
+    "iconAlt": "backtobasics",
+    "iconLocal": "/augment-icons/final-form.png"
   },
   {
     "id": "giant-slayer",
@@ -3961,7 +4128,8 @@
       "zh": "体型变得很小并加速，对体型比你大的英雄造成额外伤害。",
       "es": "Te vuelves diminuto y más rápido, e infliges daño extra a campeones más grandes."
     },
-    "shape": "boot"
+    "shape": "boot",
+    "iconLocal": "/augment-icons/giant-slayer.png"
   },
   {
     "id": "glass-cannon",
@@ -3982,7 +4150,8 @@
       "es": "Tu vida queda limitada al 70% del máximo, pero todo tu daño incluye daño verdadero adicional."
     },
     "shape": "starburst",
-    "iconAlt": "bladewaltz"
+    "iconAlt": "bladewaltz",
+    "iconLocal": "/augment-icons/glass-cannon.png"
   },
   {
     "id": "goldrend",
@@ -4003,7 +4172,8 @@
       "es": "Golpear a un campeón inflige daño mágico extra y da oro y velocidad. Una vez por campeón cada 30 segundos."
     },
     "shape": "starburst",
-    "iconAlt": "bladewaltz"
+    "iconAlt": "bladewaltz",
+    "iconLocal": "/augment-icons/goldrend.png"
   },
   {
     "id": "goliath",
@@ -4023,7 +4193,8 @@
       "zh": "体型变大50%，获得额外生命值和自适应之力。",
       "es": "Creces un 50% y ganas vida adicional y fuerza adaptativa."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/goliath.png"
   },
   {
     "id": "group-hug",
@@ -4043,7 +4214,8 @@
       "es": "Mejora una curación o escudo a un aliado para que también afecte a los dos aliados más cercanos."
     },
     "shape": "trident",
-    "iconAlt": "pandoras_box"
+    "iconAlt": "pandoras_box",
+    "iconLocal": "/augment-icons/group-hug.png"
   },
   {
     "id": "hand-of-baron",
@@ -4106,7 +4278,8 @@
       "es": "Tras desplazarte con Marca eres invulnerable 1,5 segundos al llegar. Marca se recarga mucho antes."
     },
     "shape": "trident",
-    "iconAlt": "pandoras_box"
+    "iconAlt": "pandoras_box",
+    "iconLocal": "/augment-icons/holy-snowball.png"
   },
   {
     "id": "infernal-conduit",
@@ -4126,7 +4299,7 @@
       "es": "Tus habilidades aplican una quemadura acumulable, y cada tic de quemadura reduce los enfriamientos de tus habilidades básicas."
     },
     "shape": "fire",
-    "iconLocal": "/augment-icons/fire-prismatic.webp"
+    "iconLocal": "/augment-icons/infernal-conduit.png"
   },
   {
     "id": "infinite-recursion",
@@ -4147,7 +4320,8 @@
       "es": "Ganas 60 de prisa de habilidad, y más con cada derribo."
     },
     "shape": "hourglass",
-    "iconAlt": "eureka"
+    "iconAlt": "eureka",
+    "iconLocal": "/augment-icons/infinite-recursion.png"
   },
   {
     "id": "jeweled-gauntlet",
@@ -4167,7 +4341,8 @@
       "zh": "技能可以暴击，并获得随法术强度提升的暴击率。",
       "es": "Tus habilidades pueden ser críticas y ganas probabilidad de crítico que crece con tu poder de habilidad."
     },
-    "shape": "wisp"
+    "shape": "wisp",
+    "iconLocal": "/augment-icons/jeweled-gauntlet.png"
   },
   {
     "id": "king-me",
@@ -4188,7 +4363,8 @@
       "es": "Llega cerca de la base enemiga para ser coronado: ganas un aumento Prismático aleatorio y mejoras tu primer objeto legendario."
     },
     "shape": "up-arrow",
-    "iconAlt": "masterofduality"
+    "iconAlt": "masterofduality",
+    "iconLocal": "/augment-icons/king-me.png"
   },
   {
     "id": "mad-scientist",
@@ -4208,7 +4384,8 @@
       "zh": "获得时及每次复活，随机变成「大只强力」或「小只灵活」两种形态之一。",
       "es": "Al obtenerlo y cada vez que reapareces, te vuelves al azar grande y poderoso o pequeño y rápido."
     },
-    "shape": "starburst"
+    "shape": "starburst",
+    "iconLocal": "/augment-icons/mad-scientist.png"
   },
   {
     "id": "master-of-duality",
@@ -4228,7 +4405,8 @@
       "zh": "普攻叠法术强度，技能叠攻击力，两者命中时刷新且无限叠加。",
       "es": "Los ataques acumulan poder de habilidad y las habilidades daño de ataque; ambos se renuevan al golpear y se acumulan sin límite."
     },
-    "shape": "up-arrow"
+    "shape": "up-arrow",
+    "iconLocal": "/augment-icons/master-of-duality.png"
   },
   {
     "id": "mosh-monster",
@@ -4249,7 +4427,8 @@
       "es": "Lanzar tu definitiva otorga vida extra y ralentiza a los cercanos. Los derribos fortalecen el efecto permanentemente."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/mosh-monster.png"
   },
   {
     "id": "multishot",
@@ -4270,7 +4449,8 @@
       "es": "Misión: golpea campeones con un proyectil concreto. Cada fase completada añade un proyectil más en cono a esa habilidad."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/multishot.png"
   },
   {
     "id": "mystic-punch",
@@ -4290,7 +4470,8 @@
       "zh": "普攻会缩短技能冷却。",
       "es": "Los ataques básicos reducen el enfriamiento de tus habilidades."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/mystic-punch.png"
   },
   {
     "id": "ominous-pact",
@@ -4311,7 +4492,8 @@
       "es": "Las habilidades cuestan vida, pero cuanta más te falte, más poder de habilidad, velocidad y omnivampirismo ganas."
     },
     "shape": "up-arrow",
-    "iconAlt": "masterofduality"
+    "iconAlt": "masterofduality",
+    "iconLocal": "/augment-icons/ominous-pact.png"
   },
   {
     "id": "omni-soul",
@@ -4331,7 +4513,8 @@
       "zh": "获得3个随机龙魂。",
       "es": "Otorga 3 Almas de Dragón aleatorias."
     },
-    "shape": "dice"
+    "shape": "dice",
+    "iconLocal": "/augment-icons/omni-soul.png"
   },
   {
     "id": "overloaded",
@@ -4352,7 +4535,8 @@
       "es": "Mejora una habilidad para que su enfriamiento se reinicie cada vez que lanzas otra distinta."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/overloaded.png"
   },
   {
     "id": "pandoras-box",
@@ -4372,7 +4556,8 @@
       "zh": "获得一个随机棱彩符文，并且你已有的所有符文也全部变成随机棱彩符文。",
       "es": "Ganas un aumento Prismático aleatorio y todos tus aumentos actuales se convierten también en Prismáticos aleatorios."
     },
-    "shape": "trident"
+    "shape": "trident",
+    "iconLocal": "/augment-icons/pandoras-box.png"
   },
   {
     "id": "pin-cushion",
@@ -4393,7 +4578,8 @@
       "es": "Mejora una habilidad con duración: los ataques durante ella clavan clavos en campeones que estallan con daño físico al terminar."
     },
     "shape": "sword",
-    "iconAlt": "dualwield"
+    "iconAlt": "dualwield",
+    "iconLocal": "/augment-icons/pin-cushion.png"
   },
   {
     "id": "prom-queen",
@@ -4414,7 +4600,8 @@
       "es": "Periódicamente echas a correr con efecto fantasmal, derribando y hechizando a los enemigos con los que chocas."
     },
     "shape": "anchor",
-    "iconAlt": "courageofthecolossus"
+    "iconAlt": "courageofthecolossus",
+    "iconLocal": "/augment-icons/prom-queen.png"
   },
   {
     "id": "protein-shake",
@@ -4435,7 +4622,8 @@
       "es": "Ganas poder de curación y escudo que crece con tu armadura y resistencia mágica adicionales."
     },
     "shape": "shield-cross",
-    "iconAlt": "circleofdeath"
+    "iconAlt": "circleofdeath",
+    "iconLocal": "/augment-icons/protein-shake.png"
   },
   {
     "id": "quantum-computing",
@@ -4558,7 +4746,8 @@
       "es": "Los derribos dejan una Esencia. Atácala para parpadear hasta ella inalcanzable, curarte, ganar velocidad y reiniciar tus habilidades básicas."
     },
     "shape": "starburst",
-    "iconAlt": "bladewaltz"
+    "iconAlt": "bladewaltz",
+    "iconLocal": "/augment-icons/rite-of-ascension.png"
   },
   {
     "id": "scopiest-weapons",
@@ -4579,7 +4768,7 @@
       "es": "Otorga mucho alcance de ataque, extra para cuerpo a cuerpo."
     },
     "shape": "arrow",
-    "iconLocal": "/augment-icons/arrow-prismatic.webp"
+    "iconLocal": "/augment-icons/scopiest-weapons.png"
   },
   {
     "id": "spell-split",
@@ -4599,7 +4788,8 @@
       "es": "Mejora un proyectil para que se divida en dos laterales al alcance máximo o al reactivarlo."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/spell-split.png"
   },
   {
     "id": "spirit-bomb",
@@ -4640,7 +4830,8 @@
       "es": "Si hay enemigos cerca, los atas a todos. Tu siguiente ataque los atrae hacia ti, los daña, los aturde y te escuda."
     },
     "shape": "anchor",
-    "iconAlt": "courageofthecolossus"
+    "iconAlt": "courageofthecolossus",
+    "iconLocal": "/augment-icons/squishy-slappy-grab.png"
   },
   {
     "id": "stats-on-stats-on-stats",
@@ -4661,7 +4852,8 @@
       "es": "Ganas 4 Yunques de Estadísticas con más probabilidad de Oro y Prismático, y una tirada extra en la siguiente ronda de aumentos."
     },
     "shape": "dice",
-    "iconAlt": "omnisoul"
+    "iconAlt": "omnisoul",
+    "iconLocal": "/augment-icons/stats-on-stats-on-stats.png"
   },
   {
     "id": "stuck-in-here-with-me",
@@ -4702,7 +4894,8 @@
       "es": "Lanzar tu definitiva crea una zona. Dentro ganas prisa y velocidad, y tu daño dispara proyectiles mágicos extra."
     },
     "shape": "cross-slash",
-    "iconAlt": "backtobasics"
+    "iconAlt": "backtobasics",
+    "iconLocal": "/augment-icons/surge-field.png"
   },
   {
     "id": "symphony-of-war",
@@ -4722,7 +4915,8 @@
       "zh": "同时获得征服者和致命节奏两个基石符文。",
       "es": "Otorga Conquistador y Ritmo Letal a la vez."
     },
-    "shape": "sword"
+    "shape": "sword",
+    "iconLocal": "/augment-icons/symphony-of-war.png"
   },
   {
     "id": "tap-dancer",
@@ -4742,7 +4936,8 @@
       "zh": "普攻可无限叠加移速，并根据移速获得额外攻速。",
       "es": "Los ataques básicos acumulan velocidad sin límite y ganas velocidad de ataque según tu velocidad de movimiento."
     },
-    "shape": "up-arrow"
+    "shape": "up-arrow",
+    "iconLocal": "/augment-icons/tap-dancer.png"
   },
   {
     "id": "third-times-the-harm",
@@ -4763,7 +4958,8 @@
       "es": "Cada tercer ataque al mismo campeón inflige daño verdadero extra según su vida máxima y otorga una carga permanente que lo aumenta."
     },
     "shape": "sword",
-    "iconAlt": "dualwield"
+    "iconAlt": "dualwield",
+    "iconLocal": "/augment-icons/third-times-the-harm.png"
   },
   {
     "id": "titans-resolve",
@@ -4824,7 +5020,8 @@
       "zh": "获得两个完全随机的符文，不会是本轮另外两个选项。",
       "es": "Ganas dos aumentos totalmente aleatorios, nunca las otras dos opciones ofrecidas."
     },
-    "shape": "dice"
+    "shape": "dice",
+    "iconLocal": "/augment-icons/transmute-chaos.png"
   },
   {
     "id": "triggered-inferno",
@@ -4845,7 +5042,8 @@
       "es": "Golpear a campeones distintos acumula Estilo y velocidad. Con Estilo máximo desatas una ráfaga de disparos que hace crítico a objetivos con poca vida."
     },
     "shape": "starburst",
-    "iconAlt": "bladewaltz"
+    "iconAlt": "bladewaltz",
+    "iconLocal": "/augment-icons/triggered-inferno.png"
   },
   {
     "id": "tripleshot",
@@ -4866,7 +5064,8 @@
       "es": "Mejora una habilidad de proyectil con objetivo para que también golpee a dos enemigos cercanos al objetivo."
     },
     "shape": "wisp",
-    "iconAlt": "jeweledgauntlet"
+    "iconAlt": "jeweledgauntlet",
+    "iconLocal": "/augment-icons/tripleshot.png"
   },
   {
     "id": "ultimate-awakening",
@@ -4887,7 +5086,8 @@
       "es": "Lanzar tu definitiva reinicia tus habilidades básicas y les da muchísima prisa durante 15 segundos. También otorga prisa de definitiva."
     },
     "shape": "cross-slash",
-    "iconAlt": "backtobasics"
+    "iconAlt": "backtobasics",
+    "iconLocal": "/augment-icons/ultimate-awakening.png"
   },
   {
     "id": "ultimate-revolution",
@@ -4907,7 +5107,8 @@
       "zh": "施放大招后会刷新一次，可以再放一次。冷却较长，死亡后重置。",
       "es": "Lanzar tu definitiva la renueva una vez para volver a usarla. Enfriamiento largo, se reinicia al morir."
     },
-    "shape": "cross-slash"
+    "shape": "cross-slash",
+    "iconLocal": "/augment-icons/ultimate-revolution.png"
   },
   {
     "id": "ultra-hydra",
@@ -4968,6 +5169,7 @@
       "es": "Tus curaciones y escudos también dan al objetivo armadura y resistencia mágica extra unos segundos."
     },
     "shape": "shield-cross",
-    "iconAlt": "circleofdeath"
+    "iconAlt": "circleofdeath",
+    "iconLocal": "/augment-icons/windspeakers-blessing.png"
   }
 ]
