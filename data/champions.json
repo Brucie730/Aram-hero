@@ -1,0 +1,3246 @@
+[
+  {
+    "id": "aatrox",
+    "key": 266,
+    "name": {
+      "en": "Aatrox",
+      "zh": "暗裔剑魔",
+      "es": "Aatrox"
+    },
+    "zhAlt": [
+      "亚托克斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/266.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "ahri",
+    "key": 103,
+    "name": {
+      "en": "Ahri",
+      "zh": "九尾妖狐",
+      "es": "Ahri"
+    },
+    "zhAlt": [
+      "阿狸"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": "akali",
+    "key": 84,
+    "name": {
+      "en": "Akali",
+      "zh": "离群之刺",
+      "es": "Akali"
+    },
+    "zhAlt": [
+      "阿卡丽"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/84.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "akshan",
+    "key": 166,
+    "name": {
+      "en": "Akshan",
+      "zh": "影哨",
+      "es": "Akshan"
+    },
+    "zhAlt": [
+      "阿克尚"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/166.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "alistar",
+    "key": 12,
+    "name": {
+      "en": "Alistar",
+      "zh": "牛头酋长",
+      "es": "Alistar"
+    },
+    "zhAlt": [
+      "阿利斯塔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/12.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "ambessa",
+    "key": 799,
+    "name": {
+      "en": "Ambessa",
+      "zh": "铁血狼母",
+      "es": "Ambessa"
+    },
+    "zhAlt": [
+      "安蓓萨"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/799.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "amumu",
+    "key": 32,
+    "name": {
+      "en": "Amumu",
+      "zh": "殇之木乃伊",
+      "es": "Amumu"
+    },
+    "zhAlt": [
+      "阿木木"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/32.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "anivia",
+    "key": 34,
+    "name": {
+      "en": "Anivia",
+      "zh": "冰晶凤凰",
+      "es": "Anivia"
+    },
+    "zhAlt": [
+      "艾尼维亚"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/34.png",
+    "ranged": true,
+    "attackRange": 600,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "annie",
+    "key": 1,
+    "name": {
+      "en": "Annie",
+      "zh": "黑暗之女",
+      "es": "Annie"
+    },
+    "zhAlt": [
+      "安妮"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png",
+    "ranged": true,
+    "attackRange": 625,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "aphelios",
+    "key": 523,
+    "name": {
+      "en": "Aphelios",
+      "zh": "残月之肃",
+      "es": "Aphelios"
+    },
+    "zhAlt": [
+      "厄斐琉斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/523.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "ashe",
+    "key": 22,
+    "name": {
+      "en": "Ashe",
+      "zh": "寒冰射手",
+      "es": "Ashe"
+    },
+    "zhAlt": [
+      "艾希"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/22.png",
+    "ranged": true,
+    "attackRange": 600,
+    "roles": [
+      "marksman",
+      "support"
+    ]
+  },
+  {
+    "id": "aurelionsol",
+    "key": 136,
+    "name": {
+      "en": "Aurelion Sol",
+      "zh": "铸星龙王",
+      "es": "Aurelion Sol"
+    },
+    "zhAlt": [
+      "奥瑞利安·索尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/136.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "aurora",
+    "key": 893,
+    "name": {
+      "en": "Aurora",
+      "zh": "双界灵兔",
+      "es": "Aurora"
+    },
+    "zhAlt": [
+      "阿萝拉"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/893.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": "azir",
+    "key": 268,
+    "name": {
+      "en": "Azir",
+      "zh": "沙漠皇帝",
+      "es": "Azir"
+    },
+    "zhAlt": [
+      "阿兹尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/268.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "marksman"
+    ]
+  },
+  {
+    "id": "bard",
+    "key": 432,
+    "name": {
+      "en": "Bard",
+      "zh": "星界游神",
+      "es": "Bardo"
+    },
+    "zhAlt": [
+      "巴德"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/432.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "belveth",
+    "key": 200,
+    "name": {
+      "en": "Bel'Veth",
+      "zh": "虚空女皇",
+      "es": "Bel'Veth"
+    },
+    "zhAlt": [
+      "卑尔维斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/200.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "blitzcrank",
+    "key": 53,
+    "name": {
+      "en": "Blitzcrank",
+      "zh": "蒸汽机器人",
+      "es": "Blitzcrank"
+    },
+    "zhAlt": [
+      "布里茨"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/53.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "brand",
+    "key": 63,
+    "name": {
+      "en": "Brand",
+      "zh": "复仇焰魂",
+      "es": "Brand"
+    },
+    "zhAlt": [
+      "布兰德"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/63.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "braum",
+    "key": 201,
+    "name": {
+      "en": "Braum",
+      "zh": "弗雷尔卓德之心",
+      "es": "Braum"
+    },
+    "zhAlt": [
+      "布隆"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/201.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "briar",
+    "key": 233,
+    "name": {
+      "en": "Briar",
+      "zh": "狂厄蔷薇",
+      "es": "Briar"
+    },
+    "zhAlt": [
+      "贝蕾亚"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/233.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "caitlyn",
+    "key": 51,
+    "name": {
+      "en": "Caitlyn",
+      "zh": "皮城女警",
+      "es": "Caitlyn"
+    },
+    "zhAlt": [
+      "凯特琳"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/51.png",
+    "ranged": true,
+    "attackRange": 650,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "camille",
+    "key": 164,
+    "name": {
+      "en": "Camille",
+      "zh": "青钢影",
+      "es": "Camille"
+    },
+    "zhAlt": [
+      "卡蜜尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/164.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "cassiopeia",
+    "key": 69,
+    "name": {
+      "en": "Cassiopeia",
+      "zh": "魔蛇之拥",
+      "es": "Cassiopeia"
+    },
+    "zhAlt": [
+      "卡西奥佩娅"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/69.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "chogath",
+    "key": 31,
+    "name": {
+      "en": "Cho'Gath",
+      "zh": "虚空恐惧",
+      "es": "Cho'Gath"
+    },
+    "zhAlt": [
+      "科加斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/31.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": "corki",
+    "key": 42,
+    "name": {
+      "en": "Corki",
+      "zh": "英勇投弹手",
+      "es": "Corki"
+    },
+    "zhAlt": [
+      "库奇"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/42.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "darius",
+    "key": 122,
+    "name": {
+      "en": "Darius",
+      "zh": "诺克萨斯之手",
+      "es": "Darius"
+    },
+    "zhAlt": [
+      "德莱厄斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/122.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "diana",
+    "key": 131,
+    "name": {
+      "en": "Diana",
+      "zh": "皎月女神",
+      "es": "Diana"
+    },
+    "zhAlt": [
+      "黛安娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/131.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "drmundo",
+    "key": 36,
+    "name": {
+      "en": "Dr. Mundo",
+      "zh": "祖安狂人",
+      "es": "Dr. Mundo"
+    },
+    "zhAlt": [
+      "蒙多医生"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/36.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "draven",
+    "key": 119,
+    "name": {
+      "en": "Draven",
+      "zh": "荣耀行刑官",
+      "es": "Draven"
+    },
+    "zhAlt": [
+      "德莱文"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/119.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "ekko",
+    "key": 245,
+    "name": {
+      "en": "Ekko",
+      "zh": "时间刺客",
+      "es": "Ekko"
+    },
+    "zhAlt": [
+      "艾克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/245.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "elise",
+    "key": 60,
+    "name": {
+      "en": "Elise",
+      "zh": "蜘蛛女皇",
+      "es": "Elise"
+    },
+    "zhAlt": [
+      "伊莉丝"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/60.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "evelynn",
+    "key": 28,
+    "name": {
+      "en": "Evelynn",
+      "zh": "痛苦之拥",
+      "es": "Evelynn"
+    },
+    "zhAlt": [
+      "伊芙琳"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/28.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "ezreal",
+    "key": 81,
+    "name": {
+      "en": "Ezreal",
+      "zh": "探险家",
+      "es": "Ezreal"
+    },
+    "zhAlt": [
+      "伊泽瑞尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/81.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "fiddlesticks",
+    "key": 9,
+    "name": {
+      "en": "Fiddlesticks",
+      "zh": "远古恐惧",
+      "es": "Fiddlesticks"
+    },
+    "zhAlt": [
+      "费德提克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/9.png",
+    "ranged": true,
+    "attackRange": 480,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "fiora",
+    "key": 114,
+    "name": {
+      "en": "Fiora",
+      "zh": "无双剑姬",
+      "es": "Fiora"
+    },
+    "zhAlt": [
+      "菲奥娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/114.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "fizz",
+    "key": 105,
+    "name": {
+      "en": "Fizz",
+      "zh": "潮汐海灵",
+      "es": "Fizz"
+    },
+    "zhAlt": [
+      "菲兹"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/105.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": "galio",
+    "key": 3,
+    "name": {
+      "en": "Galio",
+      "zh": "正义巨像",
+      "es": "Galio"
+    },
+    "zhAlt": [
+      "加里奥"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/3.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": "gangplank",
+    "key": 41,
+    "name": {
+      "en": "Gangplank",
+      "zh": "海洋之灾",
+      "es": "Gangplank"
+    },
+    "zhAlt": [
+      "普朗克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/41.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "garen",
+    "key": 86,
+    "name": {
+      "en": "Garen",
+      "zh": "德玛西亚之力",
+      "es": "Garen"
+    },
+    "zhAlt": [
+      "盖伦"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/86.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "gnar",
+    "key": 150,
+    "name": {
+      "en": "Gnar",
+      "zh": "迷失之牙",
+      "es": "Gnar"
+    },
+    "zhAlt": [
+      "纳尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/150.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "gragas",
+    "key": 79,
+    "name": {
+      "en": "Gragas",
+      "zh": "酒桶",
+      "es": "Gragas"
+    },
+    "zhAlt": [
+      "古拉加斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/79.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": "graves",
+    "key": 104,
+    "name": {
+      "en": "Graves",
+      "zh": "法外狂徒",
+      "es": "Graves"
+    },
+    "zhAlt": [
+      "格雷福斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/104.png",
+    "ranged": true,
+    "attackRange": 425,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "gwen",
+    "key": 887,
+    "name": {
+      "en": "Gwen",
+      "zh": "灵罗娃娃",
+      "es": "Gwen"
+    },
+    "zhAlt": [
+      "格温"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/887.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "hecarim",
+    "key": 120,
+    "name": {
+      "en": "Hecarim",
+      "zh": "战争之影",
+      "es": "Hecarim"
+    },
+    "zhAlt": [
+      "赫卡里姆"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/120.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "heimerdinger",
+    "key": 74,
+    "name": {
+      "en": "Heimerdinger",
+      "zh": "大发明家",
+      "es": "Heimerdinger"
+    },
+    "zhAlt": [
+      "黑默丁格"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/74.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "hwei",
+    "key": 910,
+    "name": {
+      "en": "Hwei",
+      "zh": "异画师",
+      "es": "Hwei"
+    },
+    "zhAlt": [
+      "彗"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/910.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "illaoi",
+    "key": 420,
+    "name": {
+      "en": "Illaoi",
+      "zh": "海兽祭司",
+      "es": "Illaoi"
+    },
+    "zhAlt": [
+      "俄洛伊"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/420.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "irelia",
+    "key": 39,
+    "name": {
+      "en": "Irelia",
+      "zh": "刀锋舞者",
+      "es": "Irelia"
+    },
+    "zhAlt": [
+      "艾瑞莉娅"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/39.png",
+    "ranged": false,
+    "attackRange": 200,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "ivern",
+    "key": 427,
+    "name": {
+      "en": "Ivern",
+      "zh": "翠神",
+      "es": "Ivern"
+    },
+    "zhAlt": [
+      "艾翁"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/427.png",
+    "ranged": true,
+    "attackRange": 475,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "janna",
+    "key": 40,
+    "name": {
+      "en": "Janna",
+      "zh": "风暴之怒",
+      "es": "Janna"
+    },
+    "zhAlt": [
+      "迦娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/40.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "jarvaniv",
+    "key": 59,
+    "name": {
+      "en": "Jarvan IV",
+      "zh": "德玛西亚皇子",
+      "es": "Jarvan IV"
+    },
+    "zhAlt": [
+      "嘉文四世"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/59.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "jax",
+    "key": 24,
+    "name": {
+      "en": "Jax",
+      "zh": "武器大师",
+      "es": "Jax"
+    },
+    "zhAlt": [
+      "贾克斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/24.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "jayce",
+    "key": 126,
+    "name": {
+      "en": "Jayce",
+      "zh": "未来守护者",
+      "es": "Jayce"
+    },
+    "zhAlt": [
+      "杰斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/126.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "marksman"
+    ]
+  },
+  {
+    "id": "jhin",
+    "key": 202,
+    "name": {
+      "en": "Jhin",
+      "zh": "戏命师",
+      "es": "Jhin"
+    },
+    "zhAlt": [
+      "烬"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/202.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "jinx",
+    "key": 222,
+    "name": {
+      "en": "Jinx",
+      "zh": "暴走萝莉",
+      "es": "Jinx"
+    },
+    "zhAlt": [
+      "金克丝"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "ksante",
+    "key": 897,
+    "name": {
+      "en": "K'Sante",
+      "zh": "纳祖芒荣耀",
+      "es": "K'Sante"
+    },
+    "zhAlt": [
+      "奎桑提"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/897.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "kaisa",
+    "key": 145,
+    "name": {
+      "en": "Kai'Sa",
+      "zh": "虚空之女",
+      "es": "Kai'Sa"
+    },
+    "zhAlt": [
+      "卡莎"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/145.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "kalista",
+    "key": 429,
+    "name": {
+      "en": "Kalista",
+      "zh": "复仇之矛",
+      "es": "Kalista"
+    },
+    "zhAlt": [
+      "卡莉丝塔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/429.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "karma",
+    "key": 43,
+    "name": {
+      "en": "Karma",
+      "zh": "天启者",
+      "es": "Karma"
+    },
+    "zhAlt": [
+      "卡尔玛"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/43.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "karthus",
+    "key": 30,
+    "name": {
+      "en": "Karthus",
+      "zh": "死亡颂唱者",
+      "es": "Karthus"
+    },
+    "zhAlt": [
+      "卡尔萨斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/30.png",
+    "ranged": true,
+    "attackRange": 450,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "kassadin",
+    "key": 38,
+    "name": {
+      "en": "Kassadin",
+      "zh": "虚空行者",
+      "es": "Kassadin"
+    },
+    "zhAlt": [
+      "卡萨丁"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/38.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "katarina",
+    "key": 55,
+    "name": {
+      "en": "Katarina",
+      "zh": "不祥之刃",
+      "es": "Katarina"
+    },
+    "zhAlt": [
+      "卡特琳娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/55.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "kayle",
+    "key": 10,
+    "name": {
+      "en": "Kayle",
+      "zh": "正义天使",
+      "es": "Kayle"
+    },
+    "zhAlt": [
+      "凯尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/10.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "kayn",
+    "key": 141,
+    "name": {
+      "en": "Kayn",
+      "zh": "影流之镰",
+      "es": "Kayn"
+    },
+    "zhAlt": [
+      "凯隐"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/141.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "kennen",
+    "key": 85,
+    "name": {
+      "en": "Kennen",
+      "zh": "狂暴之心",
+      "es": "Kennen"
+    },
+    "zhAlt": [
+      "凯南"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/85.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "khazix",
+    "key": 121,
+    "name": {
+      "en": "Kha'Zix",
+      "zh": "虚空掠夺者",
+      "es": "Kha'Zix"
+    },
+    "zhAlt": [
+      "卡兹克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/121.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "kindred",
+    "key": 203,
+    "name": {
+      "en": "Kindred",
+      "zh": "永猎双子",
+      "es": "Kindred"
+    },
+    "zhAlt": [
+      "千珏"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/203.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "kled",
+    "key": 240,
+    "name": {
+      "en": "Kled",
+      "zh": "暴怒骑士",
+      "es": "Kled"
+    },
+    "zhAlt": [
+      "克烈"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/240.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "kogmaw",
+    "key": 96,
+    "name": {
+      "en": "Kog'Maw",
+      "zh": "深渊巨口",
+      "es": "Kog'Maw"
+    },
+    "zhAlt": [
+      "克格莫"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/96.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "leblanc",
+    "key": 7,
+    "name": {
+      "en": "LeBlanc",
+      "zh": "诡术妖姬",
+      "es": "LeBlanc"
+    },
+    "zhAlt": [
+      "乐芙兰"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/7.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "leesin",
+    "key": 64,
+    "name": {
+      "en": "Lee Sin",
+      "zh": "盲僧",
+      "es": "Lee Sin"
+    },
+    "zhAlt": [
+      "李青"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/64.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "leona",
+    "key": 89,
+    "name": {
+      "en": "Leona",
+      "zh": "曙光女神",
+      "es": "Leona"
+    },
+    "zhAlt": [
+      "蕾欧娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/89.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "lillia",
+    "key": 876,
+    "name": {
+      "en": "Lillia",
+      "zh": "含羞蓓蕾",
+      "es": "Lillia"
+    },
+    "zhAlt": [
+      "莉莉娅"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/876.png",
+    "ranged": true,
+    "attackRange": 325,
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": "lissandra",
+    "key": 127,
+    "name": {
+      "en": "Lissandra",
+      "zh": "冰霜女巫",
+      "es": "Lissandra"
+    },
+    "zhAlt": [
+      "丽桑卓"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/127.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "locke",
+    "key": 805,
+    "name": {
+      "en": "Locke",
+      "zh": "灰烬驱魔人",
+      "es": "Locke"
+    },
+    "zhAlt": [
+      "洛克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/805.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "lucian",
+    "key": 236,
+    "name": {
+      "en": "Lucian",
+      "zh": "圣枪游侠",
+      "es": "Lucian"
+    },
+    "zhAlt": [
+      "卢锡安"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/236.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "lulu",
+    "key": 117,
+    "name": {
+      "en": "Lulu",
+      "zh": "仙灵女巫",
+      "es": "Lulu"
+    },
+    "zhAlt": [
+      "璐璐"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/117.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "lux",
+    "key": 99,
+    "name": {
+      "en": "Lux",
+      "zh": "光辉女郎",
+      "es": "Lux"
+    },
+    "zhAlt": [
+      "拉克丝"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/99.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "malphite",
+    "key": 54,
+    "name": {
+      "en": "Malphite",
+      "zh": "熔岩巨兽",
+      "es": "Malphite"
+    },
+    "zhAlt": [
+      "墨菲特"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/54.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": "malzahar",
+    "key": 90,
+    "name": {
+      "en": "Malzahar",
+      "zh": "虚空先知",
+      "es": "Malzahar"
+    },
+    "zhAlt": [
+      "玛尔扎哈"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/90.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "maokai",
+    "key": 57,
+    "name": {
+      "en": "Maokai",
+      "zh": "扭曲树精",
+      "es": "Maokai"
+    },
+    "zhAlt": [
+      "茂凯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/57.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "masteryi",
+    "key": 11,
+    "name": {
+      "en": "Master Yi",
+      "zh": "无极剑圣",
+      "es": "Maestro Yi"
+    },
+    "zhAlt": [
+      "易"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/11.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "mel",
+    "key": 800,
+    "name": {
+      "en": "Mel",
+      "zh": "流光镜影",
+      "es": "Mel"
+    },
+    "zhAlt": [
+      "梅尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/800.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "milio",
+    "key": 902,
+    "name": {
+      "en": "Milio",
+      "zh": "明烛",
+      "es": "Milio"
+    },
+    "zhAlt": [
+      "米利欧"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/902.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "missfortune",
+    "key": 21,
+    "name": {
+      "en": "Miss Fortune",
+      "zh": "赏金猎人",
+      "es": "Miss Fortune"
+    },
+    "zhAlt": [
+      "厄运小姐"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/21.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "mordekaiser",
+    "key": 82,
+    "name": {
+      "en": "Mordekaiser",
+      "zh": "铁铠冥魂",
+      "es": "Mordekaiser"
+    },
+    "zhAlt": [
+      "莫德凯撒"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/82.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": "morgana",
+    "key": 25,
+    "name": {
+      "en": "Morgana",
+      "zh": "堕落天使",
+      "es": "Morgana"
+    },
+    "zhAlt": [
+      "莫甘娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/25.png",
+    "ranged": true,
+    "attackRange": 450,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "naafiri",
+    "key": 950,
+    "name": {
+      "en": "Naafiri",
+      "zh": "百裂冥犬",
+      "es": "Naafiri"
+    },
+    "zhAlt": [
+      "纳亚菲利"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/950.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": "nami",
+    "key": 267,
+    "name": {
+      "en": "Nami",
+      "zh": "唤潮鲛姬",
+      "es": "Nami"
+    },
+    "zhAlt": [
+      "娜美"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/267.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "nasus",
+    "key": 75,
+    "name": {
+      "en": "Nasus",
+      "zh": "沙漠死神",
+      "es": "Nasus"
+    },
+    "zhAlt": [
+      "内瑟斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/75.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "nautilus",
+    "key": 111,
+    "name": {
+      "en": "Nautilus",
+      "zh": "深海泰坦",
+      "es": "Nautilus"
+    },
+    "zhAlt": [
+      "诺提勒斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/111.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "neeko",
+    "key": 518,
+    "name": {
+      "en": "Neeko",
+      "zh": "万花通灵",
+      "es": "Neeko"
+    },
+    "zhAlt": [
+      "妮蔻"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/518.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "nidalee",
+    "key": 76,
+    "name": {
+      "en": "Nidalee",
+      "zh": "狂野女猎手",
+      "es": "Nidalee"
+    },
+    "zhAlt": [
+      "奈德丽"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/76.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "assassin",
+      "mage"
+    ]
+  },
+  {
+    "id": "nilah",
+    "key": 895,
+    "name": {
+      "en": "Nilah",
+      "zh": "不羁之悦",
+      "es": "Nilah"
+    },
+    "zhAlt": [
+      "尼菈"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/895.png",
+    "ranged": false,
+    "attackRange": 225,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "nocturne",
+    "key": 56,
+    "name": {
+      "en": "Nocturne",
+      "zh": "永恒梦魇",
+      "es": "Nocturne"
+    },
+    "zhAlt": [
+      "魔腾"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/56.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "nunu",
+    "key": 20,
+    "name": {
+      "en": "Nunu & Willump",
+      "zh": "雪原双子",
+      "es": "Nunu y Willump"
+    },
+    "zhAlt": [
+      "努努和威朗普"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/20.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": "olaf",
+    "key": 2,
+    "name": {
+      "en": "Olaf",
+      "zh": "狂战士",
+      "es": "Olaf"
+    },
+    "zhAlt": [
+      "奥拉夫"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/2.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "orianna",
+    "key": 61,
+    "name": {
+      "en": "Orianna",
+      "zh": "发条魔灵",
+      "es": "Orianna"
+    },
+    "zhAlt": [
+      "奥莉安娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/61.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "ornn",
+    "key": 516,
+    "name": {
+      "en": "Ornn",
+      "zh": "山隐之焰",
+      "es": "Ornn"
+    },
+    "zhAlt": [
+      "奥恩"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/516.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": "pantheon",
+    "key": 80,
+    "name": {
+      "en": "Pantheon",
+      "zh": "不屈之枪",
+      "es": "Pantheon"
+    },
+    "zhAlt": [
+      "潘森"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/80.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "poppy",
+    "key": 78,
+    "name": {
+      "en": "Poppy",
+      "zh": "圣锤之毅",
+      "es": "Poppy"
+    },
+    "zhAlt": [
+      "波比"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/78.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "pyke",
+    "key": 555,
+    "name": {
+      "en": "Pyke",
+      "zh": "血港鬼影",
+      "es": "Pyke"
+    },
+    "zhAlt": [
+      "派克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/555.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "support",
+      "assassin"
+    ]
+  },
+  {
+    "id": "qiyana",
+    "key": 246,
+    "name": {
+      "en": "Qiyana",
+      "zh": "元素女皇",
+      "es": "Qiyana"
+    },
+    "zhAlt": [
+      "奇亚娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/246.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "quinn",
+    "key": 133,
+    "name": {
+      "en": "Quinn",
+      "zh": "德玛西亚之翼",
+      "es": "Quinn"
+    },
+    "zhAlt": [
+      "奎因"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/133.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "rakan",
+    "key": 497,
+    "name": {
+      "en": "Rakan",
+      "zh": "幻翎",
+      "es": "Rakan"
+    },
+    "zhAlt": [
+      "洛"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/497.png",
+    "ranged": false,
+    "attackRange": 300,
+    "roles": [
+      "support"
+    ]
+  },
+  {
+    "id": "rammus",
+    "key": 33,
+    "name": {
+      "en": "Rammus",
+      "zh": "披甲龙龟",
+      "es": "Rammus"
+    },
+    "zhAlt": [
+      "拉莫斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/33.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": "reksai",
+    "key": 421,
+    "name": {
+      "en": "Rek'Sai",
+      "zh": "虚空遁地兽",
+      "es": "Rek'Sai"
+    },
+    "zhAlt": [
+      "雷克塞"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/421.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "rell",
+    "key": 526,
+    "name": {
+      "en": "Rell",
+      "zh": "镕铁少女",
+      "es": "Rell"
+    },
+    "zhAlt": [
+      "芮尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/526.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "renata",
+    "key": 888,
+    "name": {
+      "en": "Renata Glasc",
+      "zh": "炼金男爵",
+      "es": "Renata Glasc"
+    },
+    "zhAlt": [
+      "烈娜塔 · 戈拉斯克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/888.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "renekton",
+    "key": 58,
+    "name": {
+      "en": "Renekton",
+      "zh": "荒漠屠夫",
+      "es": "Renekton"
+    },
+    "zhAlt": [
+      "雷克顿"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/58.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "rengar",
+    "key": 107,
+    "name": {
+      "en": "Rengar",
+      "zh": "傲之追猎者",
+      "es": "Rengar"
+    },
+    "zhAlt": [
+      "雷恩加尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/107.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin",
+      "fighter"
+    ]
+  },
+  {
+    "id": "riven",
+    "key": 92,
+    "name": {
+      "en": "Riven",
+      "zh": "放逐之刃",
+      "es": "Riven"
+    },
+    "zhAlt": [
+      "锐雯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/92.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "rumble",
+    "key": 68,
+    "name": {
+      "en": "Rumble",
+      "zh": "机械公敌",
+      "es": "Rumble"
+    },
+    "zhAlt": [
+      "兰博"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/68.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "mage"
+    ]
+  },
+  {
+    "id": "ryze",
+    "key": 13,
+    "name": {
+      "en": "Ryze",
+      "zh": "符文法师",
+      "es": "Ryze"
+    },
+    "zhAlt": [
+      "瑞兹"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/13.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "samira",
+    "key": 360,
+    "name": {
+      "en": "Samira",
+      "zh": "沙漠玫瑰",
+      "es": "Samira"
+    },
+    "zhAlt": [
+      "莎弥拉"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/360.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "sejuani",
+    "key": 113,
+    "name": {
+      "en": "Sejuani",
+      "zh": "北地之怒",
+      "es": "Sejuani"
+    },
+    "zhAlt": [
+      "瑟庄妮"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/113.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": "senna",
+    "key": 235,
+    "name": {
+      "en": "Senna",
+      "zh": "涤魂圣枪",
+      "es": "Senna"
+    },
+    "zhAlt": [
+      "赛娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/235.png",
+    "ranged": true,
+    "attackRange": 600,
+    "roles": [
+      "support",
+      "marksman"
+    ]
+  },
+  {
+    "id": "seraphine",
+    "key": 147,
+    "name": {
+      "en": "Seraphine",
+      "zh": "星籁歌姬",
+      "es": "Seraphine"
+    },
+    "zhAlt": [
+      "萨勒芬妮"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/147.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "sett",
+    "key": 875,
+    "name": {
+      "en": "Sett",
+      "zh": "腕豪",
+      "es": "Sett"
+    },
+    "zhAlt": [
+      "瑟提"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/875.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "shaco",
+    "key": 35,
+    "name": {
+      "en": "Shaco",
+      "zh": "恶魔小丑",
+      "es": "Shaco"
+    },
+    "zhAlt": [
+      "萨科"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/35.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "shen",
+    "key": 98,
+    "name": {
+      "en": "Shen",
+      "zh": "暮光之眼",
+      "es": "Shen"
+    },
+    "zhAlt": [
+      "慎"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/98.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank"
+    ]
+  },
+  {
+    "id": "shyvana",
+    "key": 102,
+    "name": {
+      "en": "Shyvana",
+      "zh": "龙血武姬",
+      "es": "Shyvana"
+    },
+    "zhAlt": [
+      "希瓦娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/102.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "singed",
+    "key": 27,
+    "name": {
+      "en": "Singed",
+      "zh": "炼金术士",
+      "es": "Singed"
+    },
+    "zhAlt": [
+      "辛吉德"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/27.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "tank",
+      "mage"
+    ]
+  },
+  {
+    "id": "sion",
+    "key": 14,
+    "name": {
+      "en": "Sion",
+      "zh": "亡灵战神",
+      "es": "Sion"
+    },
+    "zhAlt": [
+      "赛恩"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/14.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "sivir",
+    "key": 15,
+    "name": {
+      "en": "Sivir",
+      "zh": "战争女神",
+      "es": "Sivir"
+    },
+    "zhAlt": [
+      "希维尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/15.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "skarner",
+    "key": 72,
+    "name": {
+      "en": "Skarner",
+      "zh": "上古领主",
+      "es": "Skarner"
+    },
+    "zhAlt": [
+      "斯卡纳"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/72.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "smolder",
+    "key": 901,
+    "name": {
+      "en": "Smolder",
+      "zh": "炽炎雏龙",
+      "es": "Smolder"
+    },
+    "zhAlt": [
+      "斯莫德"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/901.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "sona",
+    "key": 37,
+    "name": {
+      "en": "Sona",
+      "zh": "琴瑟仙女",
+      "es": "Sona"
+    },
+    "zhAlt": [
+      "娑娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/37.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "soraka",
+    "key": 16,
+    "name": {
+      "en": "Soraka",
+      "zh": "众星之子",
+      "es": "Soraka"
+    },
+    "zhAlt": [
+      "索拉卡"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/16.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "swain",
+    "key": 50,
+    "name": {
+      "en": "Swain",
+      "zh": "诺克萨斯统领",
+      "es": "Swain"
+    },
+    "zhAlt": [
+      "斯维因"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/50.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "sylas",
+    "key": 517,
+    "name": {
+      "en": "Sylas",
+      "zh": "解脱者",
+      "es": "Sylas"
+    },
+    "zhAlt": [
+      "塞拉斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/517.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "mage",
+      "assassin"
+    ]
+  },
+  {
+    "id": "syndra",
+    "key": 134,
+    "name": {
+      "en": "Syndra",
+      "zh": "暗黑元首",
+      "es": "Syndra"
+    },
+    "zhAlt": [
+      "辛德拉"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/134.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "tahmkench",
+    "key": 223,
+    "name": {
+      "en": "Tahm Kench",
+      "zh": "河流之王",
+      "es": "Tahm Kench"
+    },
+    "zhAlt": [
+      "塔姆"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/223.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank",
+      "support"
+    ]
+  },
+  {
+    "id": "taliyah",
+    "key": 163,
+    "name": {
+      "en": "Taliyah",
+      "zh": "岩雀",
+      "es": "Taliyah"
+    },
+    "zhAlt": [
+      "塔莉垭"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/163.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "talon",
+    "key": 91,
+    "name": {
+      "en": "Talon",
+      "zh": "刀锋之影",
+      "es": "Talon"
+    },
+    "zhAlt": [
+      "泰隆"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/91.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "taric",
+    "key": 44,
+    "name": {
+      "en": "Taric",
+      "zh": "瓦洛兰之盾",
+      "es": "Taric"
+    },
+    "zhAlt": [
+      "塔里克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/44.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "support",
+      "tank"
+    ]
+  },
+  {
+    "id": "teemo",
+    "key": 17,
+    "name": {
+      "en": "Teemo",
+      "zh": "迅捷斥候",
+      "es": "Teemo"
+    },
+    "zhAlt": [
+      "提莫"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/17.png",
+    "ranged": true,
+    "attackRange": 500,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "thresh",
+    "key": 412,
+    "name": {
+      "en": "Thresh",
+      "zh": "魂锁典狱长",
+      "es": "Thresh"
+    },
+    "zhAlt": [
+      "锤石"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/412.png",
+    "ranged": true,
+    "attackRange": 450,
+    "roles": [
+      "support",
+      "tank"
+    ]
+  },
+  {
+    "id": "tristana",
+    "key": 18,
+    "name": {
+      "en": "Tristana",
+      "zh": "麦林炮手",
+      "es": "Tristana"
+    },
+    "zhAlt": [
+      "崔丝塔娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/18.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "trundle",
+    "key": 48,
+    "name": {
+      "en": "Trundle",
+      "zh": "巨魔之王",
+      "es": "Trundle"
+    },
+    "zhAlt": [
+      "特朗德尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/48.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "tryndamere",
+    "key": 23,
+    "name": {
+      "en": "Tryndamere",
+      "zh": "蛮族之王",
+      "es": "Tryndamere"
+    },
+    "zhAlt": [
+      "泰达米尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/23.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "twistedfate",
+    "key": 4,
+    "name": {
+      "en": "Twisted Fate",
+      "zh": "卡牌大师",
+      "es": "Twisted Fate"
+    },
+    "zhAlt": [
+      "崔斯特"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/4.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "marksman"
+    ]
+  },
+  {
+    "id": "twitch",
+    "key": 29,
+    "name": {
+      "en": "Twitch",
+      "zh": "瘟疫之源",
+      "es": "Twitch"
+    },
+    "zhAlt": [
+      "图奇"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/29.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "udyr",
+    "key": 77,
+    "name": {
+      "en": "Udyr",
+      "zh": "兽灵行者",
+      "es": "Udyr"
+    },
+    "zhAlt": [
+      "乌迪尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/77.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "urgot",
+    "key": 6,
+    "name": {
+      "en": "Urgot",
+      "zh": "无畏战车",
+      "es": "Urgot"
+    },
+    "zhAlt": [
+      "厄加特"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/6.png",
+    "ranged": true,
+    "attackRange": 350,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "varus",
+    "key": 110,
+    "name": {
+      "en": "Varus",
+      "zh": "惩戒之箭",
+      "es": "Varus"
+    },
+    "zhAlt": [
+      "韦鲁斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/110.png",
+    "ranged": true,
+    "attackRange": 575,
+    "roles": [
+      "marksman",
+      "mage"
+    ]
+  },
+  {
+    "id": "vayne",
+    "key": 67,
+    "name": {
+      "en": "Vayne",
+      "zh": "暗夜猎手",
+      "es": "Vayne"
+    },
+    "zhAlt": [
+      "薇恩"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/67.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman",
+      "assassin"
+    ]
+  },
+  {
+    "id": "veigar",
+    "key": 45,
+    "name": {
+      "en": "Veigar",
+      "zh": "邪恶小法师",
+      "es": "Veigar"
+    },
+    "zhAlt": [
+      "维迦"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/45.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "velkoz",
+    "key": 161,
+    "name": {
+      "en": "Vel'Koz",
+      "zh": "虚空之眼",
+      "es": "Vel'Koz"
+    },
+    "zhAlt": [
+      "维克兹"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/161.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "vex",
+    "key": 711,
+    "name": {
+      "en": "Vex",
+      "zh": "愁云使者",
+      "es": "Vex"
+    },
+    "zhAlt": [
+      "薇古丝"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/711.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "vi",
+    "key": 254,
+    "name": {
+      "en": "Vi",
+      "zh": "皮城执法官",
+      "es": "Vi"
+    },
+    "zhAlt": [
+      "蔚"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/254.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "viego",
+    "key": 234,
+    "name": {
+      "en": "Viego",
+      "zh": "破败之王",
+      "es": "Viego"
+    },
+    "zhAlt": [
+      "佛耶戈"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/234.png",
+    "ranged": false,
+    "attackRange": 200,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "viktor",
+    "key": 112,
+    "name": {
+      "en": "Viktor",
+      "zh": "奥术先驱",
+      "es": "Viktor"
+    },
+    "zhAlt": [
+      "维克托"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/112.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "vladimir",
+    "key": 8,
+    "name": {
+      "en": "Vladimir",
+      "zh": "猩红收割者",
+      "es": "Vladimir"
+    },
+    "zhAlt": [
+      "弗拉基米尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/8.png",
+    "ranged": true,
+    "attackRange": 450,
+    "roles": [
+      "mage",
+      "fighter"
+    ]
+  },
+  {
+    "id": "volibear",
+    "key": 106,
+    "name": {
+      "en": "Volibear",
+      "zh": "不灭狂雷",
+      "es": "Volibear"
+    },
+    "zhAlt": [
+      "沃利贝尔"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/106.png",
+    "ranged": false,
+    "attackRange": 150,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "warwick",
+    "key": 19,
+    "name": {
+      "en": "Warwick",
+      "zh": "祖安怒兽",
+      "es": "Warwick"
+    },
+    "zhAlt": [
+      "沃里克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/19.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "monkeyking",
+    "key": 62,
+    "name": {
+      "en": "Wukong",
+      "zh": "齐天大圣",
+      "es": "Wukong"
+    },
+    "zhAlt": [
+      "孙悟空"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/62.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "xayah",
+    "key": 498,
+    "name": {
+      "en": "Xayah",
+      "zh": "逆羽",
+      "es": "Xayah"
+    },
+    "zhAlt": [
+      "霞"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/498.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "xerath",
+    "key": 101,
+    "name": {
+      "en": "Xerath",
+      "zh": "远古巫灵",
+      "es": "Xerath"
+    },
+    "zhAlt": [
+      "泽拉斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/101.png",
+    "ranged": true,
+    "attackRange": 525,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  },
+  {
+    "id": "xinzhao",
+    "key": 5,
+    "name": {
+      "en": "Xin Zhao",
+      "zh": "德邦总管",
+      "es": "Xin Zhao"
+    },
+    "zhAlt": [
+      "赵信"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/5.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "yasuo",
+    "key": 157,
+    "name": {
+      "en": "Yasuo",
+      "zh": "疾风剑豪",
+      "es": "Yasuo"
+    },
+    "zhAlt": [
+      "亚索"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "yone",
+    "key": 777,
+    "name": {
+      "en": "Yone",
+      "zh": "封魔剑魂",
+      "es": "Yone"
+    },
+    "zhAlt": [
+      "永恩"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/777.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "assassin"
+    ]
+  },
+  {
+    "id": "yorick",
+    "key": 83,
+    "name": {
+      "en": "Yorick",
+      "zh": "牧魂人",
+      "es": "Yorick"
+    },
+    "zhAlt": [
+      "约里克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/83.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter",
+      "tank"
+    ]
+  },
+  {
+    "id": "yunara",
+    "key": 804,
+    "name": {
+      "en": "Yunara",
+      "zh": "不破之誓",
+      "es": "Yunara"
+    },
+    "zhAlt": [
+      "芸阿娜"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/804.png",
+    "ranged": true,
+    "attackRange": 575,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "yuumi",
+    "key": 350,
+    "name": {
+      "en": "Yuumi",
+      "zh": "魔法猫咪",
+      "es": "Yuumi"
+    },
+    "zhAlt": [
+      "悠米"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/350.png",
+    "ranged": true,
+    "attackRange": 425,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "zaahen",
+    "key": 904,
+    "name": {
+      "en": "Zaahen",
+      "zh": "不落魔锋",
+      "es": "Zaahen"
+    },
+    "zhAlt": [
+      "亚恒"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/904.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "fighter"
+    ]
+  },
+  {
+    "id": "zac",
+    "key": 154,
+    "name": {
+      "en": "Zac",
+      "zh": "生化魔人",
+      "es": "Zac"
+    },
+    "zhAlt": [
+      "扎克"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/154.png",
+    "ranged": false,
+    "attackRange": 175,
+    "roles": [
+      "tank",
+      "fighter"
+    ]
+  },
+  {
+    "id": "zed",
+    "key": 238,
+    "name": {
+      "en": "Zed",
+      "zh": "影流之主",
+      "es": "Zed"
+    },
+    "zhAlt": [
+      "劫"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/238.png",
+    "ranged": false,
+    "attackRange": 125,
+    "roles": [
+      "assassin"
+    ]
+  },
+  {
+    "id": "zeri",
+    "key": 221,
+    "name": {
+      "en": "Zeri",
+      "zh": "祖安花火",
+      "es": "Zeri"
+    },
+    "zhAlt": [
+      "泽丽"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/221.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "marksman"
+    ]
+  },
+  {
+    "id": "ziggs",
+    "key": 115,
+    "name": {
+      "en": "Ziggs",
+      "zh": "爆破鬼才",
+      "es": "Ziggs"
+    },
+    "zhAlt": [
+      "吉格斯"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/115.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "zilean",
+    "key": 26,
+    "name": {
+      "en": "Zilean",
+      "zh": "时光守护者",
+      "es": "Zilean"
+    },
+    "zhAlt": [
+      "基兰"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/26.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "support",
+      "mage"
+    ]
+  },
+  {
+    "id": "zoe",
+    "key": 142,
+    "name": {
+      "en": "Zoe",
+      "zh": "暮光星灵",
+      "es": "Zoe"
+    },
+    "zhAlt": [
+      "佐伊"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/142.png",
+    "ranged": true,
+    "attackRange": 550,
+    "roles": [
+      "mage"
+    ]
+  },
+  {
+    "id": "zyra",
+    "key": 143,
+    "name": {
+      "en": "Zyra",
+      "zh": "荆棘之兴",
+      "es": "Zyra"
+    },
+    "zhAlt": [
+      "婕拉"
+    ],
+    "icon": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/143.png",
+    "ranged": true,
+    "attackRange": 575,
+    "roles": [
+      "mage",
+      "support"
+    ]
+  }
+]
