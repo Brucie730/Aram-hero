@@ -1,0 +1,58 @@
+[
+  {
+    "id": "volibear-bees-shiv",
+    "champion": "volibear",
+    "priority": 1,
+    "name": {
+      "zh": "蜜蜂电刀流",
+      "en": "Bees & Shiv"
+    },
+    "keyAugments": ["bees"],
+    "picks": {
+      "prismatic": ["biggest-snowball-ever"],
+      "gold": ["bees"],
+      "silver": []
+    },
+    "items": [
+      { "zh": "斯塔缇克电刃", "en": "Statikk Shiv" },
+      { "zh": "黄昏与黎明", "en": "Dusk and Dawn" },
+      { "zh": "峡谷制造者", "en": "Riftmaker" },
+      { "zh": "影焰", "en": "Shadowflame" },
+      { "zh": "灭世者的死亡之帽", "en": "Rabadon's Deathcap" },
+      { "zh": "虚空之杖", "en": "Void Staff" }
+    ],
+    "tips": {
+      "zh": "一个小蜜蜂就能成型。用 E 把蜂巢砸到敌人身上，蜜蜂会连带触发狗熊被动的闪电和电刀的连锁闪电，伤害非常爆炸。雪球也能触发小蜜蜂，再刷到「史上最大雪球」就能远程丢雪球消耗，变成丢丢怪。",
+      "en": "Bees alone makes this work. Land E to drop the beehive: the bees proc Volibear's passive lightning and Statikk Shiv together for huge burst. Your snowball triggers bees too, and with Biggest Snowball Ever you can poke from range all game."
+    },
+    "source": "帅哥李"
+  },
+  {
+    "id": "volibear-onhit-ap",
+    "champion": "volibear",
+    "priority": 2,
+    "name": {
+      "zh": "物法皆修流",
+      "en": "Hybrid On-hit"
+    },
+    "keyAugments": ["master-of-duality"],
+    "picks": {
+      "prismatic": ["master-of-duality", "totentanz"],
+      "gold": ["warlock-juicebox", "ethereal-weapon"],
+      "silver": []
+    },
+    "items": [
+      { "zh": "斯塔缇克电刃", "en": "Statikk Shiv" },
+      { "zh": "黄昏与黎明", "en": "Dusk and Dawn" },
+      { "zh": "峡谷制造者", "en": "Riftmaker" },
+      { "zh": "影焰", "en": "Shadowflame" },
+      { "zh": "灭世者的死亡之帽", "en": "Rabadon's Deathcap" },
+      { "zh": "虚空之杖", "en": "Void Staff" }
+    ],
+    "tips": {
+      "zh": "棱彩最好拿物法皆修，金色优先术士果汁盒和虚幻武器。如果刷到棱彩的死之舞，保命能力会强很多。",
+      "en": "Master of Duality is the ideal Prismatic pick; at Gold, go for Warlock Juicebox or Ethereal Weapon. Totentanz at Prismatic adds a lot of survivability."
+    },
+    "source": "帅哥李"
+  }
+]
